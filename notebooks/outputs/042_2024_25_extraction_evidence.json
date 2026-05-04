@@ -1,0 +1,2230 @@
+{
+  "project_meta": {
+    "projekttraeger": {
+      "value": "Steiermark",
+      "confidence": 0.71,
+      "evidence": {
+        "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024-2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Standort Projektmanagement",
+        "label_cell": "C7",
+        "value_cell": "D7"
+      }
+    },
+    "projekttitel": {
+      "value": "HandWerk.Zukunft – Berufsvorbereitungskurse mit Lehrvermittlung",
+      "confidence": 0.697,
+      "evidence": {
+        "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024-2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Projekttitel",
+        "label_cell": "C5",
+        "value_cell": "D5"
+      }
+    },
+    "projektnummer": {
+      "value": "042-2024/25",
+      "confidence": 0.844,
+      "evidence": {
+        "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024-2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Projektnummer",
+        "label_cell": "C6",
+        "value_cell": "D6"
+      }
+    },
+    "laufzeit_beginn": {
+      "value": "2024-01-01",
+      "confidence": 0.818,
+      "evidence": {
+        "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024-2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Laufzeit Beginn",
+        "label_cell": "C9",
+        "value_cell": "D9"
+      }
+    },
+    "laufzeit_ende": {
+      "value": "2025-12-31",
+      "confidence": 0.794,
+      "evidence": {
+        "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024-2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Laufzeit Ende",
+        "label_cell": "C10",
+        "value_cell": "D10"
+      }
+    },
+    "hauptprojektstandort": {
+      "value": "Steiermark",
+      "confidence": 0.901,
+      "evidence": {
+        "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024-2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Hauptprojektstandort",
+        "label_cell": "C8",
+        "value_cell": "D8"
+      }
+    }
+  },
+  "main_kpi": {
+    "indikator": "Anzahl der Projektteilnehmenden gesamt",
+    "soll": 180,
+    "ist": 194,
+    "erfuellung_prozent": 107.8,
+    "confidence": 0.755,
+    "evidence": {
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024-2025_Indikatorenbericht.xlsx",
+      "sheet": "EB",
+      "indicator_row": 11,
+      "matched_indicator": "Anzahl der Projektteilnehmenden gesamt",
+      "soll_header": "Anzahl SOLL lt. Vertrag",
+      "ist_header": "Anzahl IST - gesamt",
+      "percent_header": "Erfüllt in %"
+    }
+  },
+  "target_group_evidence": [
+    {
+      "score": 0.699,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0,
+      "text": "1. Zwischenbericht Die vertraglich vereinbarten Zielgruppen wurden erfolgreich erreicht. Im Fokus standen Jugendliche und junge Erwachsene im Alter von 15 bis 25 Jahren mit Migrationsbiographie. Die Zielgruppe setzt sich wie folgt zusammen (inkl. laufender Kurs): Drittstaatsangehörige mit längerfristiger Aufenthaltsperspektive: 13 Personen Asylberechtigte und subsidiär Schutzberechtigte: 9 Personen EU-Bürgerinnen und EU-Bürger: 4 Personen Österreicherinnen und Österreicher mit Migrationshintergrund: 4 Personen Altersstruktur der Teilnehmenden Der Altersdurchschnitt lag sowohl im ersten als auch im zweiten Durchgang bei 19 Jahren. In dem noch laufenden Durchgang sind jedoch mehr 17-jährige Teilnehmende vertreten. Die an den häufigsten vertretenen Altersgruppen sind die 17- sowie die 18- bis 19-Jährigen. Geschlechterverteilung Von den insgesamt 30 Teilnehmenden waren: Männer: 20 (66%) Frauen: 10 (33%) Herkunftsländer Die häufigsten Herkunftsländer der Teilnehmenden sind: Syrien Türkei Bosnien und Herzegowina Afghanistan Österreich 2. Zwischenbericht In der weiteren Projektperiode, das bedeutet auch in der dritten Kursmaßnahme konnte, die im Fördervertrag definierte Zielgruppe, bestehend aus Jugendlichen und jungen Erwachsenen im Alter von 15 bis 25 Jahren mit Migrationsbiografie erfolgreich erreicht werden. Die Zahl der Teilnehmenden erhöhte sich auf insgesamt 47, wobei sich die Zusammensetzung wie folgt verändert hat: Drittstaatsangehörige mit längerfristiger Aufenthaltsperspektive: 15 Personen Asylberechtigte und subsidiär Schutzberechtigte: 19 Personen EU-Bürgerinnen und EU-Bürger: 5 Personen Österreicherinnen und Österreicher mit Migrationshintergrund: 8 Personen Es zeigt sich, dass die Anzahl an Asylberechtigten mit subsidiär Schutzberechtigten sowie Drittstaatsangehörigen mit längerfristiger Aufenthaltsperspektive leicht gestiegen ist. Auch die Anzahl an Österreicher:innen mit Migrationshintergrund und EU-Bürger:innen war stärker vertreten. Ein auffälliger Unterschied im Vergleich zu den ersten beiden Kursmaßnahmen zeigte sich in der Altersstruktur. Der Altersdurchschnitt liegt nach wie vor bei rund 19 Jahren, wobei im dritten Kursdurchgang deutlich mehr 16-jährige Jugendliche vertreten waren. Diese jüngere Altersgruppe brachte auch einen höheren Orientierungsbedarf mit, was sich darin zeigte, dass mehr Praktika absolviert wurden, um herauszufinden was einem liegt und was nicht. Die Geschlechterverteilung veränderte sich ebenfalls, so stieg der Anteil der männlichen Teilnehmenden im Vergleich zu den ersten beiden Kursmaßnahmen auf 74,5%, während der Anteil weiblicher Teilnehmender auf 25,5% sank. Die häufigsten Herkunftsländer der Teilnehmenden blieben im Wesentlichen gleich. Angeführt wird die Liste nach wie vor von Syrien (12), Österreich (7), Afghanistan (6), der Türkei (4) und Bosnien und Herzegowina (3), andere (15). 3. Zwischenbericht Die vierte Kursmaßnahme wurde bereits abgeschlossen, die fünfte läuft noch bis 08.08.2025. Im dritten Zwischenbericht werden beide Kurse gemeinsam dargestellt. Die Zielgruppe umfasste 11 Drittstaatsangehörige mit längerfristiger Aufenthaltsperspektive, 6 Asyl- bzw. subsidiär Schutzberechtigte, 10 EU-Bürger:innen und 5 Österreicher:innen mit Migrationshintergrund. Der Anteil an Drittstaatsangehörigen und EU-Bürger:innen war höher als in den vorangegangenen Kursen. Der Altersdurchschnitt lag im vierten Kurs bei 18 Jahren, im fünften bei 17 Jahren. Es nahmen erneut überwiegend sehr junge Personen zwischen 16 und 18 Jahren teil. Die Geschlechterverteilung blieb konstant: Im Kurs 4 nahmen 11 Männer und 5 Frauen teil, im Kurs 5 bisher 12 Männer und 4 Frauen. Die häufigsten Herkunftsländer waren die Türkei, Tschetschenien und Afghanistan. 4. Endbericht Die sechste Kursmaßnahme umfasste insgesamt 5 Drittstaatsangehörige mit längerfristiger Aufenthaltsperspektive, 6 Asyl- bzw. subsidiär Schutzberechtigte, 7 EU-Bürger:innen und 1 Österreicherin mit Migrationshintergrund. Der Altersdurchschnitt im 6. Kurs lag bei 17 Jahren. Die Geschlechterverteilung blieb konstant: Im 6. Kurs nahmen 14 Männer und 5 Frauen teil. Die häufigsten Herkunftsländer waren Rumänien, Syrien und Ägypten, jeweils mit 3 Teilnehmer:innen. Insgesamt lässt sich festhalten, dass im gesamten Projektverlauf 98 Jugendliche und junge Erwachsene erreicht wurden. Die Teilnehmenden kamen überwiegend aus Drittstaaten bzw. verfügten über einen Asyl- oder subsidiären Schutzstatus. Darüber hinaus nahmen auch EU-Bürger:innen sowie Österreicher:innen mit Migrationshintergrund an den Kursmaßnahmen teil. Die häufigsten Herkunftsländer waren Syrien und Afghanistan. Der Altersdurchschnitt lag über alle Kursmaßnahmen hinweg bei rund 17 bis 19 Jahren, wobei in den späteren Kursdurchgängen vermehrt jüngere Teilnehmende zwischen 16 und 18 Jahren vertreten waren. Die Geschlechterverteilung war durchgehend männlich dominiert, mit einem Anteil von rund 70 % Männern und etwa 30 % Frauen."
+    },
+    {
+      "score": 0.647,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 3,
+      "text": "Das Ziel der 3-monatigen Qualifizierungsmaßnahmen ist es, Menschen mit Migrationshintergrund durch Beratung und Training für die Aufnahme in eine Lehre zu qualifizieren und somit die gesellschaftliche Integration zu ermöglichen."
+    },
+    {
+      "score": 0.647,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24,
+      "text": "Ziel 1: Verbesserung der fachspezifischen Deutschkenntnisse, Qualifizierung von Menschen mit Migrationshintergrund für den Beginn einer Lehre Ziel 2: Förderung persönlicher und berufsspezifischer Qualifikationen Ziel 3: Information und Beratung zum Lehrstellenmarkt Ziel 4: Gesellschaftliche Eingliederung von Menschen mit Migrationshintergrund durch Erwerbstätigkeit/Aufnahme in eine Lehrausbildung Oben genannte Ziele können anhand folgender Wirkungsindikatoren gemessen werden: Anzahl der erfolgreichen Kursabsolvent:innen: 90 Anzahl der Einzelberatungen: 300 Anzahl der Teilnehmenden mit einer vermittelten Lehrstelle: 60 Anzahl der Teilnehmenden mit erfolgreicher Arbeitsmarktintegration (exkl. Lehrstellen): 18 Anzahl der Teilnehmenden in weiterführenden externen Bildungsmaßnahmen, auf die im Projekt vorbereitet wurde (exkl. Arbeitsmarktintegration): 12 Anzahl der Teilnehmenden mit Praktikumsplatz: 72"
+    }
+  ],
+  "measures_evidence": [
+    {
+      "score": 0.736,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 43,
+      "text": "Im Projektzeitraum wurden in „HandWerk.Zukunft – Berufsvorbereitungskurse mit Lehrvermittlung 6 Kursmaßnahmen (Modul 2) planmäßig umgesetzt. In den jeweils 12 Wochen dauernden Kursmaßnahmen fanden wöchentlich wechselnd fachsprachlicher Unterricht und Workshops statt, begleitet von Mentoring, kursbegleitender Beratung und Unterstützung sowie Reflexions- und Follow-up-Gesprächen, psychosoziale Unterstützung und Nachbetreuung (Module 3 und 4). Der fachsprachliche Unterricht orientierte sich an den Kenntnissen der Teilnehmenden und den Berufswünschen. Die Workshops gliederten sich in die Themenbereiche Berufsbilder, Zeitmanagement, Telefon- und Kommunikationstraining, Bewerbungstraining, berufsspezifische Grundfertigkeiten, Mathematik und Office-Anwendertraining."
+    },
+    {
+      "score": 0.721,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4,
+      "text": "Im Projektzeitraum sollen 6 Maßnahmen umgesetzt werden. Jede Maßnahme besteht aus 4 Modulen, die die Teilnehmenden über mehrere Monate begleiten. Modul 1 „Clearing“: Erstgespräch und Skills Check, Erstellung eines individuellen Aktionsplanes. Modul 2 „Kursmaßnahme“ (Dauer 3 Monate): Berufsbezogener (fachsprachlicher) Deutschkurs, kompetenzbildende Workshops, Praktika in Betrieben. Modul 3 „Beratung“ (individuell nach Bedarf): Unterstützung und Hilfestellung bei der weiteren Suche nach Praktikumsstellen bzw. einer Lehrstelle, Nachbetreuung, psychosoziale Unterstüt-zung. Modul 4 „Begleitung“ (individuell nach Bedarf): Individuelle Beratung und Betreuung, Begleitung durch freiwillige Mentor:innen des Roten Kreuzes"
+    },
+    {
+      "score": 0.695,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 107,
+      "text": "3.1.3. Erfahrung in der Projektabwicklung"
+    }
+  ],
+  "gliner_entities": [
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.744,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 23
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.859,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 25
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "umzusetzende Maßnahmen",
+      "score": 0.611,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Wirkung",
+      "text": "nachhaltige Wirkung",
+      "score": 0.588,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 29
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.933,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 34
+    },
+    {
+      "label": "Region",
+      "text": "Einzugsgebiet",
+      "score": 0.676,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 34
+    },
+    {
+      "label": "Region",
+      "text": "Regionale Abdeckung",
+      "score": 0.54,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Region",
+      "text": "Regionen",
+      "score": 0.608,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 42
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmende",
+      "score": 0.568,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Region",
+      "text": "Graz",
+      "score": 0.464,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Region",
+      "text": "Graz-Umgebung",
+      "score": 0.724,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Region",
+      "text": "Großraum Graz",
+      "score": 0.835,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.706,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 58
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.741,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 60
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen aus einer der folgenden spezifischen Zielgruppen",
+      "score": 0.763,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.477,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "spezifischen Zielgruppen",
+      "score": 0.63,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.648,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 66
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.876,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 68
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenerreichung",
+      "score": 0.464,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 74
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.635,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.697,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 79
+    },
+    {
+      "label": "Wirkung",
+      "text": "Langfristige Wirkung",
+      "score": 0.699,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 83
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.434,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 85
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.715,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 85
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmende",
+      "score": 0.669,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.777,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.751,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "konkreten Maßnahmen zur Qualitätssicherung",
+      "score": 0.385,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 92
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Supervision",
+      "score": 0.782,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 92
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Teambesprechungen",
+      "score": 0.744,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 92
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Evaluierungen",
+      "score": 0.827,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 92
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "konkreten Maßnahmen zur Qualitätssicherung",
+      "score": 0.39,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 92
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielsetzungen",
+      "score": 0.381,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 98
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "förderungsnehmende Organisation/Verein",
+      "score": 0.535,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 98
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "förderungsnehmende Organisation/Verein",
+      "score": 0.449,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 98
+    },
+    {
+      "label": "Projektziel",
+      "text": "Projektziele",
+      "score": 0.623,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 123
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikatoren",
+      "score": 0.574,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 123
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.584,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 131
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielerreichung",
+      "score": 0.572,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 131
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.375,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 131
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.457,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 131
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "3 Kurse",
+      "score": 0.411,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 135
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratung",
+      "score": 0.397,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 136
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratung",
+      "score": 0.353,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 136
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshopreihe",
+      "score": 0.622,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 137
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Wie viele Personen",
+      "score": 0.593,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 138
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursen",
+      "score": 0.353,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 140
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutschkursen",
+      "score": 0.6,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 142
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.515,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 144
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.42,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 145
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.404,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 145
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Sie",
+      "score": 0.406,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 147
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 1",
+      "score": 0.742,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 149
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 153
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 153
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.774,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 156
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 160
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 160
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 3",
+      "score": 0.756,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 164
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 168
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 168
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 4",
+      "score": 0.767,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 172
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 176
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 176
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 5",
+      "score": 0.735,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 180
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 184
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 184
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 6",
+      "score": 0.832,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 188
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 192
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 192
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 7",
+      "score": 0.834,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 196
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 200
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 200
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 8",
+      "score": 0.826,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 204
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 208
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 208
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 9",
+      "score": 0.854,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 212
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 216
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 216
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 10",
+      "score": 0.706,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 220
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 224
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 224
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationshintergrund",
+      "score": 0.771,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.564,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "kompetenzbildende Workshops",
+      "score": 0.486,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Die Teilnehmenden",
+      "score": 0.64,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "3-monatigen Qualifizierungsmaßnahmen",
+      "score": 0.387,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationshintergrund",
+      "score": 0.903,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Projektziel",
+      "text": "die gesellschaftliche Integration",
+      "score": 0.426,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.464,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Berufsbezogener (fachsprachlicher) Deutschkurs",
+      "score": 0.598,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "kompetenzbildende Workshops",
+      "score": 0.734,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Praktika in Betrieben",
+      "score": 0.607,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Nachbetreuung",
+      "score": 0.416,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "psychosoziale Unterstüt-zung",
+      "score": 0.414,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Die durchgeführten Maßnahmen",
+      "score": 0.481,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.696,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Wirkung",
+      "text": "fördern deren berufliche Orientierung",
+      "score": 0.358,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Wirkung",
+      "text": "die Drop-Out Quote während der Lehre reduziert",
+      "score": 0.375,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.932,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.925,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "migrants care",
+      "score": 0.456,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen",
+      "score": 0.681,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.716,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Alpha Nova Jugendcoaching",
+      "score": 0.708,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "bit",
+      "score": 0.656,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Jugendcoaching",
+      "score": 0.384,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.606,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.743,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Jugendcoaching",
+      "score": 0.402,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "bit",
+      "score": 0.675,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.721,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationshinter-grund mit nicht deutscher Erstsprache",
+      "score": 0.436,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Engmaschige Begleitung",
+      "score": 0.411,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.592,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.604,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Partizipient:innen",
+      "score": 0.387,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Absolvent:innen",
+      "score": 0.389,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Wirkung",
+      "text": "große Wirkung",
+      "score": 0.87,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Bit Schulungscenter",
+      "score": 0.382,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Alpha Nova Jugendcoaching",
+      "score": 0.443,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "LOGA Jugendmanagement",
+      "score": 0.486,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationspartnern",
+      "score": 0.599,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "den Unternehmen",
+      "score": 0.409,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Fall- oder Teamsupervisionen",
+      "score": 0.355,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "migrants care",
+      "score": 0.629,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Spontanhilfe und Sozialberatung",
+      "score": 0.607,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Familienzusammenführung und Suchdienst",
+      "score": 0.556,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Frauentreffen und Familientreffen",
+      "score": 0.467,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen",
+      "score": 0.898,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Region",
+      "text": "österreichischen Gesellschaft",
+      "score": 0.454,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationsbiographie",
+      "score": 0.764,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen in Not und sozial Schwachen",
+      "score": 0.785,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.819,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationsbiographie",
+      "score": 0.965,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen",
+      "score": 0.728,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutschkurse",
+      "score": 0.652,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vorqualifizierungsmaßnahmen für den Arbeitsmarkt",
+      "score": 0.42,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "migrants care",
+      "score": 0.568,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "HANDWERK.ZUKUNFT",
+      "score": 0.584,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Hilfsangebote",
+      "score": 0.57,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vernetzungsangebote",
+      "score": 0.646,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationsbiographie",
+      "score": 0.966,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "HANDWERK.ZUKUNFT",
+      "score": 0.714,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "5. Kursmaßnahme",
+      "score": 0.533,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Wirkung",
+      "text": "äußerst positiv",
+      "score": 0.435,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationen mit Betrieben",
+      "score": 0.469,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Rote Kreuz Steiermark",
+      "score": 0.747,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Erstgespräche",
+      "score": 0.36,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Reflexionsgespräche",
+      "score": 0.358,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Unterricht und Workshops",
+      "score": 0.376,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.356,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel 1",
+      "score": 0.632,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektziel",
+      "text": "Verbesserung der fachspezifischen Deutschkenntnisse",
+      "score": 0.517,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationshintergrund",
+      "score": 0.845,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel 2",
+      "score": 0.619,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektziel",
+      "text": "Förderung persönlicher und berufsspezifischer Qualifikationen",
+      "score": 0.517,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel 3",
+      "score": 0.542,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel 4",
+      "score": 0.504,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationshintergrund",
+      "score": 0.881,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikatoren",
+      "score": 0.382,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kurs 1",
+      "score": 0.458,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kurs 2",
+      "score": 0.351,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Die Teilnehmenden",
+      "score": 0.593,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursmaßnahme",
+      "score": 0.632,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.481,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.507,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 34
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektmaßnahmen",
+      "score": 0.409,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 35
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.483,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Mentoring",
+      "score": 0.39,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Berufswünschen",
+      "score": 0.352,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.378,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Telefon- und Kommunikationstraining",
+      "score": 0.416,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Bewerbungstraining",
+      "score": 0.476,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Office-Anwendertraining",
+      "score": 0.475,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.689,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.623,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Wirkung",
+      "text": "größtmögliche Wirkung",
+      "score": 0.694,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Die Teilnehmer:innen",
+      "score": 0.542,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "HANDWERK.ZUKUNFT Teams",
+      "score": 0.388,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Wirkung",
+      "text": "Bisherige Wirkung",
+      "score": 0.554,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.724,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 47
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.647,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 47
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "junge Erwachsene",
+      "score": 0.538,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 47
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.678,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 47
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.623,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 47
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "praktische Erprobung",
+      "score": 0.386,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 48
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "einwöchigen Betriebspraktika",
+      "score": 0.356,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 48
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "zahlreichen kooperierenden Unternehmen",
+      "score": 0.794,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 48
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "jungen Menschen",
+      "score": 0.778,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 48
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektmaßnahmen",
+      "score": 0.588,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 50
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.852,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 50
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "HandWerk.Zukunft – Berufsvorbereitungskurse mit Lehrvermittlung",
+      "score": 0.431,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Region",
+      "text": "Bereichszeitraum",
+      "score": 0.451,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "HANDWERK.ZUKUNFT, Fit für die Lehre",
+      "score": 0.55,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Rote Kreuz",
+      "score": 0.425,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.725,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 58
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.828,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 59
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.813,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 59
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.84,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 59
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.523,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 59
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenerreichung",
+      "score": 0.484,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 59
+    },
+    {
+      "label": "Wirkung",
+      "text": "Bisherige Wirkung",
+      "score": 0.382,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 62
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.801,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.48,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Wirkung",
+      "text": "schwer messbare Wirkungen",
+      "score": 0.373,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektaktivität",
+      "score": 0.448,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.712,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektmaßnahmen",
+      "score": 0.409,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 64
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektpartnerschaften",
+      "score": 0.709,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 67
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahmen",
+      "score": 0.513,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 67
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Qualitätssicherungsmaßnahmen",
+      "score": 0.52,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 71
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wie haben sich diese auf die Projektumsetzung ausgewirkt",
+      "score": 0.489,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 71
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Drittstaatsangehörige mit längerfristiger Aufenthaltsperspektive",
+      "score": 0.42,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylberechtigte und subsidiär Schutzberechtigte",
+      "score": 0.699,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "EU-Bürgerinnen und EU-Bürger",
+      "score": 0.565,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Österreicherinnen und Österreicher mit Migrationshintergrund",
+      "score": 0.629,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "dritten Kursmaßnahme",
+      "score": 0.465,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Drittstaatsangehörige mit längerfristiger Aufenthaltsperspektive",
+      "score": 0.458,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylberechtigte und subsidiär Schutzberechtigte",
+      "score": 0.578,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "EU-Bürgerinnen und EU-Bürger",
+      "score": 0.569,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Österreicherinnen und Österreicher mit Migrationshintergrund",
+      "score": 0.667,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.64,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.507,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.561,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.69,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmende",
+      "score": 0.39,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmende",
+      "score": 0.564,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.839,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.653,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.607,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche und junge Erwachsene",
+      "score": 0.512,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "weiblichen Teilnehmenden",
+      "score": 0.462,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "junge Frauen",
+      "score": 0.504,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "männlichen Teilnehmenden",
+      "score": 0.411,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.364,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "HANDWERK.ZUKUNFT-Teams",
+      "score": 0.448,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.502,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.45,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.399,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmende",
+      "score": 0.47,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Einzelcoachings",
+      "score": 0.562,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmende",
+      "score": 0.352,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Einzelcoachings",
+      "score": 0.621,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Einzelcoachings",
+      "score": 0.572,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "arbeitsuchenden Jugendlichen",
+      "score": 0.422,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.425,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche aus schwierigen sozialen Verhältnissen bzw. mit Vorstrafen",
+      "score": 0.363,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "HANDWERK.ZUKUNFT",
+      "score": 0.405,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "volljährigen Teilnehmenden",
+      "score": 0.617,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.672,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS Steiermark",
+      "score": 0.82,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "verschiedenen Unternehmen",
+      "score": 0.477,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.526,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationen mit AMS",
+      "score": 0.438,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Betrieben",
+      "score": 0.539,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Wirkung",
+      "text": "spürbaren Verbesserungen",
+      "score": 0.378,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Betrieben",
+      "score": 0.638,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.566,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.582,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.639,
+      "source_file": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    }
+  ]
+}
