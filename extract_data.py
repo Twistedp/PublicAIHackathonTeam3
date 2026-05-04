@@ -148,48 +148,19 @@ def extract_from_excel(file_path, mapping):
     return results
 
 if __name__ == "__main__":
-    # Configuration mapping
-    mapping = {
-        "fields": {
-            "projekttraeger": ["Projektträger/-in", "Projektträger"],
-            "projekttitel": ["Projekttitel"],
-            "projektnummer": ["Projektnummer"],
-            "Standort_Management": ["Standort Projektmanagment", "Standort Projektmanagement"],
-            "hauptprojektstandort": ["Haupttprojektstandort", "Hauptprojektstandort"],
-            "laufzeit_beginn": ["Laufzeit Beginn"],
-            "laufzeit_ende": ["Laufzeit Ende"],
-            "Dauer_Monate": ["Projektdauer in Monaten"]
-        },
-        "states": [
-            "Burgenland", "Kärnten", "Niederösterreich", "Oberösterreich", 
-            "Salzburg", "Steiermark", "Tirol", "Vorarlberg", "Wien"
-        ],
-        "checkboxes": {
-            "Frauen": ["Frauen"],
-            "Deutsch": ["Deutsch"],
-            "Kinder_Jugendliche_Eltern": ["Kinder, Jugendliche und Elternarbeit"],
-            "Arbeit_Beruf": ["Arbeit und Beruf"],
-            "Sprache_Bildung": ["Sprache und Bildung"],
-            "Gesundheit_Soziales": ["Gesundheit und Soziales"],
-            "Interkultureller_Dialog": ["Interkultureller Dialog"],
-            "Sport_Freizeit": ["Sport und Freizeit"],
-            "Wohnen": ["Wohnen und die regionale Dimension der Integration"]
-        }
-    }
-
-    # Search for all Indikatoren/Indikatorenbericht files
+    # Find all Indikatoren/Indikatorenbericht files
     files = glob.glob("Hackathon/**/*Indikatoren*.xlsx", recursive=True)
-    
     all_data = []
+    
     for f in files:
-        if "~$" in f: continue # Skip temp files
+        if "~$" in f: continue # Ignore temp files
         print(f"Processing {f}...")
-        data = extract_from_excel(f, mapping)
+        data = extract_from_excel(f, {}) # Mapping no longer needed for internal logic
         if data:
             all_data.append(data)
 
-    # Output results
+    # Save to JSON
     with open("extracted_projects.json", "w", encoding="utf-8") as f:
         json.dump(all_data, f, ensure_ascii=False, indent=4)
     
-    print(f"Finished. Extracted data from {len(all_data)} files to extracted_projects.json")
+    print(f"\nDone! Data from {len(all_data)} files saved to 'extracted_projects.json'.")
