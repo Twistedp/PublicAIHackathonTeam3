@@ -91,11 +91,14 @@ export default function Dashboard() {
             <h1 className="text-2xl font-bold tracking-tight text-primary uppercase">Bundeskanzleramt Projektdatenbank</h1>
             <p className="text-sm text-muted-foreground">Offizielles Dashboard zur Verwaltung und Filterung von Förderprojekten.</p>
           </div>
-          <div className="flex items-center gap-3 shrink-0">
-            <div className="flex items-center gap-2 bg-background border rounded-md px-2.5 py-1 text-xs shadow-sm">
-              <Database className="h-3.5 w-3.5 text-muted-foreground" />
+          <div className="flex items-center gap-4 shrink-0">
+            <div className="flex items-center gap-2 bg-amber-50 border border-amber-200 rounded-md px-3 py-1 text-sm shadow-sm" title="Development Feature: Choose Data Source">
+              <div className="flex items-center gap-1.5">
+                <Badge variant="outline" className="bg-amber-100 text-amber-700 border-amber-300 text-[10px] px-1 h-4 uppercase font-bold">Dev</Badge>
+                <Database className="h-4 w-4 text-amber-600" />
+              </div>
               <select
-                className="bg-transparent border-none focus:ring-0 text-xs font-medium"
+                className="bg-transparent border-none focus:ring-0 text-sm font-medium text-amber-900"
                 value={selectedSource}
                 onChange={(e) => setSelectedSource(e.target.value)}
               >
@@ -104,14 +107,33 @@ export default function Dashboard() {
                 ))}
               </select>
             </div>
-            <Button onClick={() => navigate("/search")} variant="outline" size="sm" className="gap-2 shrink-0 border-primary/50 text-primary hover:bg-primary/5">
-              <Sparkles className="h-3.5 w-3.5" /> KI-Suche
-            </Button>
-            <Button onClick={() => navigate("/upload")} size="sm" className="gap-2 shrink-0">
-              <Plus className="h-3.5 w-3.5" /> Projekt Hochladen
+            <Button onClick={() => navigate("/upload")} variant="outline" className="gap-2 shrink-0 border-primary/30 text-primary hover:bg-primary/5">
+              <Plus className="h-4 w-4" /> Projekt Hochladen
             </Button>
           </div>
+
         </header>
+
+        {/* Intelligente KI-Suche CTA */}
+        <div className="bg-primary/[0.03] border border-primary/20 rounded-xl p-6 flex flex-col md:flex-row items-center justify-between gap-6 shadow-sm mb-2">
+          <div className="flex items-center gap-5">
+            <div className="bg-primary/10 p-4 rounded-2xl">
+              <Sparkles className="h-8 w-8 text-primary animate-pulse" />
+            </div>
+            <div className="space-y-1">
+              <h3 className="text-xl font-bold text-primary tracking-tight">Intelligente KI-Suche</h3>
+              <p className="text-muted-foreground max-w-lg">
+                Finden Sie Projekte durch natürliche Sprache. Suchen Sie nach Inhalten wie "Jugendliche in Graz" oder "Deutschkurse der Caritas".
+              </p>
+            </div>
+          </div>
+          <Button 
+            onClick={() => navigate("/search")} 
+            className="gap-2 px-10 h-12 text-lg font-semibold shadow-lg hover:shadow-xl hover:-translate-y-0.5 transition-all w-full md:w-auto rounded-full"
+          >
+            <Sparkles className="h-5 w-5" /> KI-Suche öffnen
+          </Button>
+        </div>
 
         {/* Filters */}
         <Card className="shadow-sm">
