@@ -58,8 +58,8 @@ export default function NLSearch() {
         <div className="absolute top-[20%] -right-[10%] w-[30%] h-[50%] rounded-full bg-blue-500/5 blur-[120px]" />
       </div>
 
-      <div className="relative z-10 max-w-4xl mx-auto px-6 py-12 md:py-24 flex flex-col min-h-screen">
-        <header className="flex items-center justify-between mb-12">
+      <div className="relative z-10 max-w-4xl mx-auto px-6 py-8 md:py-12 flex flex-col min-h-screen">
+        <header className="flex items-center justify-between mb-8">
           <Button 
             variant="ghost" 
             onClick={() => navigate("/")} 
@@ -74,21 +74,21 @@ export default function NLSearch() {
           </div>
         </header>
 
-        <main className="flex-1 flex flex-col items-center justify-center -mt-12">
-          <div className="text-center space-y-4 mb-10 max-w-2xl">
-            <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-b from-slate-900 to-slate-600">
+        <main className="flex-1 flex flex-col items-center justify-center -mt-8">
+          <div className="text-center space-y-3 mb-8 max-w-2xl">
+            <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-b from-slate-900 to-slate-600">
               Wie kann ich Ihnen helfen?
             </h1>
-            <p className="text-lg md:text-xl text-slate-500 leading-relaxed">
+            <p className="text-base md:text-lg text-slate-500 leading-relaxed">
               Suchen Sie in natürlicher Sprache nach Projekten, Standorten oder Zielgruppen.
             </p>
           </div>
 
           <Card className="w-full bg-white/70 backdrop-blur-xl border-slate-200/60 shadow-[0_8px_30px_rgb(0,0,0,0.04)] overflow-hidden transition-all duration-500 focus-within:shadow-[0_20px_50px_rgba(0,0,0,0.1)] focus-within:border-primary/30">
-            <CardContent className="p-2">
+            <CardContent className="p-1">
               <form onSubmit={handleSubmit} className="relative">
                 <textarea
-                  className="w-full min-h-[160px] md:min-h-[200px] p-6 text-xl bg-transparent outline-none resize-none placeholder:text-slate-300 transition-all"
+                  className="w-full min-h-[80px] md:min-h-[100px] p-4 text-base bg-transparent outline-none resize-none placeholder:text-slate-300 transition-all"
                   placeholder="Beschreiben Sie Ihre Suche..."
                   value={query}
                   onChange={(e) => setQuery(e.target.value)}
@@ -99,20 +99,20 @@ export default function NLSearch() {
                   }}
                   disabled={isLoading}
                 />
-                <div className="flex items-center justify-between p-4 border-t border-slate-100">
-                  <div className="flex items-center gap-2 text-slate-400 text-sm">
-                    <kbd className="px-2 py-1 bg-slate-100 rounded text-[10px] font-bold tracking-widest uppercase">⌘ + Enter</kbd>
+                <div className="flex items-center justify-between p-3 border-t border-slate-100">
+                  <div className="flex items-center gap-2 text-slate-400 text-xs">
+                    <kbd className="px-2 py-1 bg-slate-100 rounded text-[9px] font-bold tracking-widest uppercase">⌘ + Enter</kbd>
                     <span>zum Senden</span>
                   </div>
                   <Button 
                     type="submit" 
-                    className="h-12 px-8 rounded-full shadow-lg shadow-primary/20 hover:shadow-primary/30 transition-all hover:-translate-y-0.5 active:translate-y-0 disabled:translate-y-0"
+                    className="h-10 px-6 rounded-full shadow-lg shadow-primary/20 hover:shadow-primary/30 transition-all hover:-translate-y-0.5 active:translate-y-0 disabled:translate-y-0"
                     disabled={isLoading || !query.trim()}
                   >
                     {isLoading ? (
-                      <Loader2 className="h-5 w-5 animate-spin" />
+                      <Loader2 className="h-4 w-4 animate-spin" />
                     ) : (
-                      <div className="flex items-center gap-2">
+                      <div className="flex items-center gap-2 text-sm">
                         <span className="font-semibold">Suchen</span>
                         <Search className="h-4 w-4" />
                       </div>
@@ -123,19 +123,19 @@ export default function NLSearch() {
             </CardContent>
           </Card>
 
-          <div className="mt-12 w-full max-w-3xl">
-            <div className="flex items-center gap-2 mb-6 text-slate-400">
-              <Lightbulb className="h-4 w-4" />
-              <span className="text-sm font-medium uppercase tracking-widest">Inspiration</span>
+          <div className="mt-8 w-full max-w-3xl">
+            <div className="flex items-center gap-2 mb-4 text-slate-400">
+              <Lightbulb className="h-3.5 w-3.5" />
+              <span className="text-xs font-medium uppercase tracking-widest">Inspiration</span>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
               {suggestions.map((s, i) => (
                 <button
                   key={i}
                   onClick={() => setQuery(s)}
-                  className="text-left p-4 rounded-2xl bg-white border border-slate-100 hover:border-primary/30 hover:bg-primary/5 transition-all duration-300 group shadow-sm hover:shadow-md"
+                  className="text-left p-3.5 rounded-xl bg-white border border-slate-100 hover:border-primary/30 hover:bg-primary/5 transition-all duration-300 group shadow-sm hover:shadow-md"
                 >
-                  <p className="text-sm text-slate-600 group-hover:text-primary transition-colors leading-relaxed">
+                  <p className="text-xs text-slate-600 group-hover:text-primary transition-colors leading-relaxed">
                     "{s}"
                   </p>
                 </button>
@@ -144,7 +144,7 @@ export default function NLSearch() {
           </div>
         </main>
 
-        <footer className="py-8 text-center text-slate-400 text-xs tracking-widest uppercase mt-12">
+        <footer className="py-6 text-center text-slate-400 text-[10px] tracking-widest uppercase mt-8">
           Bundeskanzleramt Projektdatenbank • Intelligent Search Engine
         </footer>
       </div>

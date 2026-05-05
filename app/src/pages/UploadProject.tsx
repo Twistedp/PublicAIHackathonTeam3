@@ -145,30 +145,30 @@ export default function UploadProject() {
   const allMatched = mappings.every(m => m.matchedFile !== null)
 
   return (
-    <div className="min-h-screen bg-muted/20 p-8 font-sans">
-      <div className="mx-auto max-w-3xl space-y-8">
-        <header className="flex items-center gap-4 border-b pb-4 mb-6">
-          <Button variant="ghost" size="icon" onClick={() => navigate("/")}>
-            <ArrowLeft className="h-5 w-5" />
+    <div className="min-h-screen bg-muted/20 p-4 md:p-6 font-sans">
+      <div className="mx-auto max-w-3xl space-y-5">
+        <header className="flex items-center gap-3 border-b pb-3 mb-4">
+          <Button variant="ghost" size="icon" className="h-8 w-8" onClick={() => navigate("/")}>
+            <ArrowLeft className="h-4 w-4" />
           </Button>
-          <div className="space-y-1">
-            <h1 className="text-3xl font-bold tracking-tight text-primary uppercase">Projekt Hochladen</h1>
-            <p className="text-muted-foreground">Dateien per Drag & Drop oder Auswahl hinzufügen – automatische Zuordnung nach Dateiname.</p>
+          <div className="space-y-0.5">
+            <h1 className="text-2xl font-bold tracking-tight text-primary uppercase">Projekt Hochladen</h1>
+            <p className="text-sm text-muted-foreground">Automatische Zuordnung Ihrer Projektdokumente nach Dateiname.</p>
           </div>
         </header>
 
-        <form onSubmit={handleSubmit} className="space-y-6">
-          <Card className="border-2 border-dashed border-primary/20 bg-primary/5 hover:bg-primary/10 transition-colors">
-            <CardContent className="flex flex-col items-center justify-center py-12 space-y-4">
-              <div className="bg-primary/10 p-4 rounded-full">
-                <FileUp className="h-10 w-10 text-primary" />
+        <form onSubmit={handleSubmit} className="space-y-5">
+          <Card className="border-2 border-dashed border-primary/20 bg-primary/5 hover:bg-primary/10 transition-colors shadow-sm">
+            <CardContent className="flex flex-col items-center justify-center py-8 space-y-3">
+              <div className="bg-primary/10 p-3 rounded-full">
+                <FileUp className="h-8 w-8 text-primary" />
               </div>
               <div className="text-center">
-                <p className="text-lg font-semibold">Dateien hierher ziehen oder klicken</p>
-                <p className="text-sm text-muted-foreground">Wählen Sie alle 4 Projektdokumente gleichzeitig aus.</p>
+                <p className="font-semibold">Dateien hierher ziehen oder klicken</p>
+                <p className="text-xs text-muted-foreground uppercase tracking-wider">Wählen Sie alle 4 Projektdokumente aus</p>
               </div>
               <label className="cursor-pointer">
-                <span className="bg-primary text-primary-foreground px-4 py-2 rounded-md hover:bg-primary/90 transition-colors inline-block">
+                <span className="bg-primary text-primary-foreground px-4 py-1.5 rounded-md text-sm hover:bg-primary/90 transition-colors inline-block shadow-sm">
                   Dateien auswählen
                 </span>
                 <input
@@ -182,28 +182,28 @@ export default function UploadProject() {
             </CardContent>
           </Card>
 
-          <Card>
-            <CardHeader>
-              <CardTitle className="text-xl">Automatische Zuordnung</CardTitle>
-              <CardDescription>
-                Basierend auf den Dateinamen wurden folgende Dokumente erkannt:
+          <Card className="shadow-sm">
+            <CardHeader className="py-3 px-5">
+              <CardTitle className="text-base">Automatische Zuordnung</CardTitle>
+              <CardDescription className="text-xs">
+                Erkannte Dokumente basierend auf dem Dateinamen:
               </CardDescription>
             </CardHeader>
-            <CardContent className="divide-y">
+            <CardContent className="divide-y px-5 pb-3">
               {mappings.map((mapping) => (
-                <div key={mapping.key} className="py-4 flex items-center justify-between gap-4">
+                <div key={mapping.key} className="py-2.5 flex items-center justify-between gap-3">
                   <div className="flex items-center gap-3">
-                    <div className={`p-2 rounded-lg ${mapping.matchedFile ? "bg-green-100 text-green-700" : "bg-muted text-muted-foreground"}`}>
-                      <mapping.icon className="h-5 w-5" />
+                    <div className={`p-1.5 rounded-md ${mapping.matchedFile ? "bg-green-100 text-green-700" : "bg-muted text-muted-foreground"}`}>
+                      <mapping.icon className="h-4 w-4" />
                     </div>
                     <div>
-                      <p className="font-medium text-sm">{mapping.label}</p>
+                      <p className="font-medium text-xs uppercase tracking-tight">{mapping.label}</p>
                       {mapping.matchedFile ? (
-                        <p className="text-xs text-green-600 font-mono flex items-center gap-1">
-                          <Check className="h-3 w-3" /> {mapping.matchedFile.name}
+                        <p className="text-[10px] text-green-600 font-mono flex items-center gap-1">
+                          <Check className="h-2.5 w-2.5" /> {mapping.matchedFile.name}
                         </p>
                       ) : (
-                        <p className="text-xs text-muted-foreground italic">Noch nicht erkannt</p>
+                        <p className="text-[10px] text-muted-foreground italic">Noch nicht erkannt</p>
                       )}
                     </div>
                   </div>
@@ -211,11 +211,11 @@ export default function UploadProject() {
                     <Button 
                       variant="ghost" 
                       size="icon" 
-                      className="h-8 w-8 text-muted-foreground hover:text-destructive"
+                      className="h-6 w-6 text-muted-foreground hover:text-destructive"
                       onClick={() => clearMapping(mapping.key)}
                       type="button"
                     >
-                      <X className="h-4 w-4" />
+                      <X className="h-3.5 w-3.5" />
                     </Button>
                   )}
                 </div>
@@ -224,22 +224,23 @@ export default function UploadProject() {
           </Card>
 
           {result && (
-            <div className={`p-4 rounded-lg flex items-start gap-3 ${result.success ? "bg-green-50 text-green-800 border border-green-200" : "bg-red-50 text-red-800 border border-red-200"}`}>
-              {result.success ? <CheckCircle2 className="h-5 w-5 shrink-0" /> : <AlertCircle className="h-5 w-5 shrink-0" />}
-              <span className="text-sm">{result.message}</span>
+            <div className={`p-3 rounded-lg flex items-start gap-2.5 ${result.success ? "bg-green-50 text-green-800 border border-green-200" : "bg-red-50 text-red-800 border border-red-200"}`}>
+              {result.success ? <CheckCircle2 className="h-4 w-4 shrink-0" /> : <AlertCircle className="h-4 w-4 shrink-0" />}
+              <span className="text-xs">{result.message}</span>
             </div>
           )}
 
-          <div className="flex justify-end gap-4 pt-4">
-            <Button type="button" variant="outline" onClick={() => navigate("/")} disabled={loading}>
+          <div className="flex justify-end gap-3 pt-2">
+            <Button type="button" variant="outline" size="sm" onClick={() => navigate("/")} disabled={loading}>
               Abbrechen
             </Button>
             <Button 
               type="submit" 
-              className="gap-2 min-w-[180px]" 
+              size="sm"
+              className="gap-2 min-w-[160px] shadow-md" 
               disabled={loading || !allMatched}
             >
-              {loading ? "Wird hochgeladen..." : <><Upload className="h-4 w-4" /> Projekt Einreichen</>}
+              {loading ? "Wird hochgeladen..." : <><Upload className="h-3.5 w-3.5" /> Projekt Einreichen</>}
             </Button>
           </div>
         </form>

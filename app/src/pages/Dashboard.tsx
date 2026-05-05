@@ -84,18 +84,18 @@ export default function Dashboard() {
   }, [records, searchTerm, locationFilter, audienceFilter, carrierFilter, titleFilter, startDateFilter, endDateFilter])
 
   return (
-    <div className="min-h-screen bg-muted/20 p-8 font-sans">
-      <div className="mx-auto max-w-6xl space-y-8">
-        <header className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b pb-4 mb-6">
-          <div className="space-y-2">
-            <h1 className="text-3xl font-bold tracking-tight text-primary uppercase">Bundeskanzleramt Projektdatenbank</h1>
-            <p className="text-muted-foreground">Offizielles Dashboard zur Verwaltung und Filterung von Förderprojekten.</p>
+    <div className="min-h-screen bg-muted/20 p-4 md:p-6 font-sans">
+      <div className="mx-auto max-w-6xl space-y-5">
+        <header className="flex flex-col md:flex-row md:items-center justify-between gap-3 border-b pb-3 mb-4">
+          <div className="space-y-1">
+            <h1 className="text-2xl font-bold tracking-tight text-primary uppercase">Bundeskanzleramt Projektdatenbank</h1>
+            <p className="text-sm text-muted-foreground">Offizielles Dashboard zur Verwaltung und Filterung von Förderprojekten.</p>
           </div>
-          <div className="flex items-center gap-4 shrink-0">
-            <div className="flex items-center gap-2 bg-background border rounded-md px-3 py-1 text-sm shadow-sm">
-              <Database className="h-4 w-4 text-muted-foreground" />
+          <div className="flex items-center gap-3 shrink-0">
+            <div className="flex items-center gap-2 bg-background border rounded-md px-2.5 py-1 text-xs shadow-sm">
+              <Database className="h-3.5 w-3.5 text-muted-foreground" />
               <select
-                className="bg-transparent border-none focus:ring-0 text-sm font-medium"
+                className="bg-transparent border-none focus:ring-0 text-xs font-medium"
                 value={selectedSource}
                 onChange={(e) => setSelectedSource(e.target.value)}
               >
@@ -104,24 +104,25 @@ export default function Dashboard() {
                 ))}
               </select>
             </div>
-            <Button onClick={() => navigate("/search")} variant="outline" className="gap-2 shrink-0 border-primary/50 text-primary hover:bg-primary/5">
-              <Sparkles className="h-4 w-4" /> KI-Suche
+            <Button onClick={() => navigate("/search")} variant="outline" size="sm" className="gap-2 shrink-0 border-primary/50 text-primary hover:bg-primary/5">
+              <Sparkles className="h-3.5 w-3.5" /> KI-Suche
             </Button>
-            <Button onClick={() => navigate("/upload")} className="gap-2 shrink-0">
-              <Plus className="h-4 w-4" /> Projekt Hochladen
+            <Button onClick={() => navigate("/upload")} size="sm" className="gap-2 shrink-0">
+              <Plus className="h-3.5 w-3.5" /> Projekt Hochladen
             </Button>
           </div>
         </header>
 
         {/* Filters */}
-        <Card>
-          <CardHeader>
-            <CardTitle>Filter</CardTitle>
+        <Card className="shadow-sm">
+          <CardHeader className="py-3 px-5">
+            <CardTitle className="text-base">Filter</CardTitle>
           </CardHeader>
-          <CardContent className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+          <CardContent className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 px-5 pb-4">
             <div className="space-y-1">
-              <label className="text-sm font-medium">Suche</label>
+              <label className="text-xs font-medium">Suche</label>
               <Input
+                className="h-8 text-sm"
                 placeholder="Suche nach Maßnahmen oder IDs..."
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
@@ -129,25 +130,25 @@ export default function Dashboard() {
             </div>
             
             <div className="space-y-1 flex flex-col">
-              <label className="text-sm font-medium">Projekttitel</label>
+              <label className="text-xs font-medium">Projekttitel</label>
               <select
-                className="flex h-9 w-full items-center justify-between whitespace-nowrap rounded-md border border-input bg-transparent px-3 py-2 text-sm shadow-sm ring-offset-background placeholder:text-muted-foreground focus:outline-none focus:ring-1 focus:ring-ring disabled:cursor-not-allowed disabled:opacity-50"
+                className="flex h-8 w-full items-center justify-between whitespace-nowrap rounded-md border border-input bg-transparent px-3 py-1 text-sm shadow-sm ring-offset-background placeholder:text-muted-foreground focus:outline-none focus:ring-1 focus:ring-ring disabled:cursor-not-allowed disabled:opacity-50"
                 value={titleFilter}
                 onChange={(e) => setTitleFilter(e.target.value)}
               >
                 <option value="">Alle Titel</option>
                 {uniqueTitles.map((title) => (
                   <option key={title} value={title}>
-                    {title.length > 40 ? title.substring(0, 40) + '...' : title}
+                    {title.length > 30 ? title.substring(0, 30) + '...' : title}
                   </option>
                 ))}
               </select>
             </div>
 
             <div className="space-y-1 flex flex-col">
-              <label className="text-sm font-medium">Projektträger</label>
+              <label className="text-xs font-medium">Projektträger</label>
               <select
-                className="flex h-9 w-full items-center justify-between whitespace-nowrap rounded-md border border-input bg-transparent px-3 py-2 text-sm shadow-sm ring-offset-background placeholder:text-muted-foreground focus:outline-none focus:ring-1 focus:ring-ring disabled:cursor-not-allowed disabled:opacity-50"
+                className="flex h-8 w-full items-center justify-between whitespace-nowrap rounded-md border border-input bg-transparent px-3 py-1 text-sm shadow-sm ring-offset-background placeholder:text-muted-foreground focus:outline-none focus:ring-1 focus:ring-ring disabled:cursor-not-allowed disabled:opacity-50"
                 value={carrierFilter}
                 onChange={(e) => setCarrierFilter(e.target.value)}
               >
@@ -161,9 +162,9 @@ export default function Dashboard() {
             </div>
 
             <div className="space-y-1 flex flex-col">
-              <label className="text-sm font-medium">Standort</label>
+              <label className="text-xs font-medium">Standort</label>
               <select
-                className="flex h-9 w-full items-center justify-between whitespace-nowrap rounded-md border border-input bg-transparent px-3 py-2 text-sm shadow-sm ring-offset-background placeholder:text-muted-foreground focus:outline-none focus:ring-1 focus:ring-ring disabled:cursor-not-allowed disabled:opacity-50"
+                className="flex h-8 w-full items-center justify-between whitespace-nowrap rounded-md border border-input bg-transparent px-3 py-1 text-sm shadow-sm ring-offset-background placeholder:text-muted-foreground focus:outline-none focus:ring-1 focus:ring-ring disabled:cursor-not-allowed disabled:opacity-50"
                 value={locationFilter}
                 onChange={(e) => setLocationFilter(e.target.value)}
               >
@@ -177,8 +178,9 @@ export default function Dashboard() {
             </div>
 
             <div className="space-y-1">
-              <label className="text-sm font-medium">Zielgruppe</label>
+              <label className="text-xs font-medium">Zielgruppe</label>
               <Input
+                className="h-8 text-sm"
                 placeholder="z.B. Migrationshintergrund"
                 value={audienceFilter}
                 onChange={(e) => setAudienceFilter(e.target.value)}
@@ -186,8 +188,9 @@ export default function Dashboard() {
             </div>
 
             <div className="space-y-1">
-              <label className="text-sm font-medium">Startdatum (Von)</label>
+              <label className="text-xs font-medium">Startdatum (Von)</label>
               <Input
+                className="h-8 text-sm"
                 type="date"
                 value={startDateFilter}
                 onChange={(e) => setStartDateFilter(e.target.value)}
@@ -195,17 +198,18 @@ export default function Dashboard() {
             </div>
 
             <div className="space-y-1">
-              <label className="text-sm font-medium">Enddatum (Bis)</label>
+              <label className="text-xs font-medium">Enddatum (Bis)</label>
               <Input
+                className="h-8 text-sm"
                 type="date"
                 value={endDateFilter}
                 onChange={(e) => setEndDateFilter(e.target.value)}
               />
             </div>
 
-            <div className="flex items-end pb-1">
+            <div className="flex items-end pb-1.5">
               <button 
-                className="text-sm text-muted-foreground hover:text-foreground underline underline-offset-4"
+                className="text-xs text-muted-foreground hover:text-foreground underline underline-offset-4"
                 onClick={() => {
                   setSearchTerm("")
                   setTitleFilter("")
@@ -223,55 +227,55 @@ export default function Dashboard() {
         </Card>
 
         {/* Results */}
-        <div className="space-y-4">
-          <h2 className="text-xl font-semibold tracking-tight">
-            Ergebnisse <Badge variant="secondary" className="ml-2">{filteredRecords.length}</Badge>
+        <div className="space-y-3">
+          <h2 className="text-lg font-semibold tracking-tight">
+            Ergebnisse <Badge variant="secondary" className="ml-2 text-xs">{filteredRecords.length}</Badge>
           </h2>
 
-          <div className="grid gap-4 md:grid-cols-2">
+          <div className="grid gap-3 md:grid-cols-2">
             {filteredRecords.map((record) => {
               const isOngoing = record.laufzeit_ende >= today
 
               return (
                 <Card 
                   key={record.projektnummer} 
-                  className={`flex flex-col transition-all duration-300 ${
+                  className={`flex flex-col transition-all duration-300 shadow-sm ${
                     isOngoing 
-                      ? "border-green-200 bg-green-50/30 shadow-sm" 
+                      ? "border-green-200 bg-green-50/30" 
                       : "opacity-80 grayscale-[0.2]"
                   }`}
                 >
-                  <CardHeader>
-                    <div className="flex items-start justify-between gap-4">
-                      <div className="space-y-1">
-                        <div className="flex items-center gap-2 mb-1">
-                          <CardTitle className="text-lg leading-tight">{record.projekttitel}</CardTitle>
+                  <CardHeader className="p-4 pb-2">
+                    <div className="flex items-start justify-between gap-3">
+                      <div className="space-y-0.5">
+                        <div className="flex items-center gap-2 mb-0.5">
+                          <CardTitle className="text-base leading-tight">{record.projekttitel}</CardTitle>
                           {isOngoing ? (
-                            <Badge className="bg-green-600 hover:bg-green-700 text-white border-none text-[10px] h-5 px-1.5 uppercase">Laufend</Badge>
+                            <Badge className="bg-green-600 hover:bg-green-700 text-white border-none text-[9px] h-4.5 px-1 uppercase">Laufend</Badge>
                           ) : (
-                            <Badge variant="secondary" className="text-[10px] h-5 px-1.5 uppercase">Abgeschlossen</Badge>
+                            <Badge variant="secondary" className="text-[9px] h-4.5 px-1 uppercase">Abgeschlossen</Badge>
                           )}
                         </div>
-                        <CardDescription>
+                        <CardDescription className="text-xs">
                           {record.projektnummer} • {record.projekttraeger}
                         </CardDescription>
                       </div>
-                      <Badge variant="outline" className="shrink-0 bg-background/50">
+                      <Badge variant="outline" className="shrink-0 bg-background/50 text-[10px] px-1.5">
                         {record.hauptprojektstandort}
                       </Badge>
                     </div>
                   </CardHeader>
-                  <CardContent className="flex-1 space-y-4">
-                    <div className="grid grid-cols-2 gap-4 text-sm">
+                  <CardContent className="flex-1 space-y-3 p-4 pt-2">
+                    <div className="grid grid-cols-2 gap-3 text-xs">
                       <div>
-                        <span className="text-muted-foreground block text-xs uppercase tracking-wider mb-1">Laufzeit</span>
+                        <span className="text-muted-foreground block text-[10px] uppercase tracking-wider mb-0.5">Laufzeit</span>
                         {record.laufzeit_beginn} bis {record.laufzeit_ende}
                       </div>
                       <div>
-                        <span className="text-muted-foreground block text-xs uppercase tracking-wider mb-1">Zielerreichung</span>
+                        <span className="text-muted-foreground block text-[10px] uppercase tracking-wider mb-0.5">Zielerreichung</span>
                         <div className="flex items-center gap-2">
-                          <span>{record.hauptindikator_erfuellung_prozent}%</span>
-                          <div className="h-2 w-full max-w-[100px] overflow-hidden rounded-full bg-secondary">
+                          <span className="font-medium">{record.hauptindikator_erfuellung_prozent}%</span>
+                          <div className="h-1.5 w-full max-w-[80px] overflow-hidden rounded-full bg-secondary">
                             <div 
                               className="h-full bg-primary" 
                               style={{ width: `${Math.min(Number(record.hauptindikator_erfuellung_prozent) || 0, 100)}%` }}
@@ -281,35 +285,30 @@ export default function Dashboard() {
                       </div>
                     </div>
 
-                    <div className="space-y-2">
-                      <span className="text-muted-foreground text-xs uppercase tracking-wider block">Zielgruppen</span>
+                    <div className="space-y-1.5">
+                      <span className="text-muted-foreground text-[10px] uppercase tracking-wider block">Zielgruppen</span>
                       <div className="flex flex-wrap gap-1">
-                        {ensureArray(record.zielgruppe_gliner_kandidaten).slice(0, 5).map((aud, i) => (
-                          <Badge key={i} variant="secondary" className="text-xs font-normal">
+                        {ensureArray(record.zielgruppe_gliner_kandidaten).slice(0, 4).map((aud, i) => (
+                          <Badge key={i} variant="secondary" className="text-[10px] font-normal py-0">
                             {aud}
                           </Badge>
                         ))}
-                        {ensureArray(record.zielgruppe_gliner_kandidaten).length > 5 && (
-                          <Badge variant="secondary" className="text-xs font-normal">
-                            +{ensureArray(record.zielgruppe_gliner_kandidaten).length - 5} weitere
-                          </Badge>
-                        )}
                       </div>
                     </div>
 
-                    <div className="space-y-2">
-                      <span className="text-muted-foreground text-xs uppercase tracking-wider block">Kernmaßnahmen</span>
+                    <div className="space-y-1.5">
+                      <span className="text-muted-foreground text-[10px] uppercase tracking-wider block">Kernmaßnahmen</span>
                       <div className="flex flex-wrap gap-1">
-                        {ensureArray(record.projektmassnahmen_gliner_kandidaten).slice(0, 5).map((measure, i) => (
-                          <Badge key={i} variant="outline" className="text-xs font-normal bg-background">
+                        {ensureArray(record.projektmassnahmen_gliner_kandidaten).slice(0, 4).map((measure, i) => (
+                          <Badge key={i} variant="outline" className="text-[10px] font-normal bg-background py-0">
                             {measure}
                           </Badge>
                         ))}
                       </div>
                     </div>
                   </CardContent>
-                  <CardFooter className="pt-0 pb-4 px-6 border-t mt-auto">
-                    <Button onClick={() => navigate(`/project/${encodeURIComponent(record.projektnummer)}`)} variant="outline" className="w-full mt-4">
+                  <CardFooter className="pt-0 pb-3 px-4 border-t mt-auto">
+                    <Button onClick={() => navigate(`/project/${encodeURIComponent(record.projektnummer)}`)} variant="ghost" size="sm" className="w-full mt-2 text-xs">
                       Details anzeigen
                     </Button>
                   </CardFooter>
