@@ -1,0 +1,1994 @@
+{
+  "bundle": {
+    "key": "2026_2027:50",
+    "year_folder": "2026_2027",
+    "project_number": "50",
+    "project_slug": "handwerk-zukunft",
+    "soll_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Indikatoren.xlsx",
+    "ist_excel": null,
+    "project_description": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+    "final_report": null,
+    "file_count": 2
+  },
+  "project_meta": {
+    "projekttraeger": {
+      "value": "Ausfüllhilfe",
+      "confidence": 0.693,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Indikatoren.xlsx",
+        "sheet": "M4",
+        "matched_label": "Titel der Maßnahme lt. Projektbeschreibung",
+        "label_cell": "D3",
+        "value_cell": "J3"
+      }
+    },
+    "projekttitel": {
+      "value": "HandWerk.Zukunft – Berufsvorbereitungskurse mit Lehrvermittlung",
+      "confidence": 0.697,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Projekttitel",
+        "label_cell": "C6",
+        "value_cell": "D6"
+      }
+    },
+    "projektnummer": {
+      "value": "Steiermark",
+      "confidence": 0.624,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Standort Projektmanagment",
+        "label_cell": "C8",
+        "value_cell": "D8"
+      }
+    },
+    "laufzeit_beginn": {
+      "value": "2026-01-01",
+      "confidence": 0.818,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Laufzeit Beginn",
+        "label_cell": "C10",
+        "value_cell": "D10"
+      }
+    },
+    "laufzeit_ende": {
+      "value": "2027-12-31",
+      "confidence": 0.794,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Laufzeit Ende",
+        "label_cell": "C11",
+        "value_cell": "D11"
+      }
+    },
+    "hauptprojektstandort": {
+      "value": "Steiermark",
+      "confidence": 0.896,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Haupttprojektstandort",
+        "label_cell": "C9",
+        "value_cell": "D9"
+      }
+    }
+  },
+  "main_kpi": {},
+  "target_group_evidence": [
+    {
+      "score": 0.747,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17,
+      "text": "Zielgruppen sind junge Menschen bis 24 Jahre mit Migrationshintergrund, die einen Förderbedarf vor Beginn einer Lehre haben. Durch unsere langjährige Vernetzung mit verschiedenen Trägern und Jugendangeboten ist HANDWERK.ZUKUNFT gut etabliert. Ebenso ermöglicht die Kooperation mit dem AMS eine rasche Teilnehmer:innen-Gewinnung. Aus Erfahrungen der letzten Kurse geht hervor, dass Absolvent:innen von HANDWERK.ZUKUNFT als starke Multiplikatoren fungieren. Daher werden Absolvent:innen als Role-Models in laufende Kurse eingeladen um als Motivatoren zu dienen. Dies zeigt große Wirkung. Auch die gute Vernetzung mit verschiedenen Organisationen wie dem Bit Schulungscenter, Alpha Nova Jugendcoaching und LOGA Jugendmanagement führt zu einer breiten Reichweite des Projekts. Die Zusammenarbeit mit dem Jugendcoaching ermöglicht uns mit den Jugendlichen noch vor bzw. kurz nach Beendigung der Schulpflicht in Kontakt zu treten und so einer längeren Phase der Jugendarbeitslosigkeit entgegen zu wirken."
+    },
+    {
+      "score": 0.718,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4,
+      "text": "Das Ziel der Fördermaßnahme ist es, Menschen mit Migrationshintergrund durch Training und Beratung für die Aufnahme in eine Lehre zu qualifizieren und somit deren dauerhafte Selbsterhaltungsfähigkeit und gesellschaftliche Teilhabe zu ermöglichen."
+    },
+    {
+      "score": 0.687,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 9,
+      "text": "Für viele junge Menschen mit familiärer Einwanderungsgeschichte und oftmals fehlenden Vorbildern ist der Übergang von der Schule ins Berufsleben eine besondere Herausforderung. Bei zu langer Suche nach einer Lehrstelle steigt die Frustration und der Einstieg in die Arbeitswelt wird immer schwieriger. Mit HANDWERK.ZUKUNFT werden folgende Bedürfnisse der Zielgruppe befriedigt: Bedürfnis nach beruflichem Erfolg und selbstbestimmter Lebensführung durch aktive Teilhabe am Erwerbsleben. Dies führt zu persönlichen Entwicklungsmöglichkeiten und Chancengleichheit. Bedürfnis nach finanzieller Absicherung und eigener Lebensplanung. Eine Lehre bietet sichere Berufsmöglichkeiten für die Zukunft. Bedürfnis nach Klärung von vorhandenen Kompetenzen und Berufswünschen. Fehlendes Orientierungs- und Systemwissen wird durch bedarfsgerechte Schulungsinhalte ausgeräumt. Bedürfnis nach Verbesserung der Deutschkenntnisse und der vorhandenen Kompetenzen. Eine zielgerichtete Beratung, Vorqualifizierung und Vorbereitung auf den Berufseinstieg sind notwendig."
+    }
+  ],
+  "measures_evidence": [
+    {
+      "score": 0.751,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30,
+      "text": "Fachsprachlicher Deutschkurs und Workshopreihe, Praktikum in Betrieben"
+    },
+    {
+      "score": 0.727,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 133,
+      "text": "Bei Workshops oder Kursen: Welche Voraussetzungen sind für die Teilnahme erforderlich (wie etwa sprachliche Niveaus)?"
+    },
+    {
+      "score": 0.722,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 36,
+      "text": "Erfolgreiche Aufnahme von Teilnehmer:innen in eine Lehrausbildung --> individuelle Beratung, Vermittlung von Orientierung zu Lehrstellen, Unterstützung bei der Suche nach Praktikums- u. Ausbildungsplätzen."
+    }
+  ],
+  "gliner_entities": [
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektinhalt",
+      "score": 0.373,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 20
+    },
+    {
+      "label": "Region",
+      "text": "Regionale Abdeckung",
+      "score": 0.623,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 22
+    },
+    {
+      "label": "Region",
+      "text": "Bundesland",
+      "score": 0.656,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 22
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.682,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 24
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.863,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Umzusetzende Maßnahmen",
+      "score": 0.534,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 28
+    },
+    {
+      "label": "Wirkung",
+      "text": "Nachhaltige Wirkung",
+      "score": 0.696,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.837,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 38
+    },
+    {
+      "label": "Region",
+      "text": "Einzugsgebiet",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.858,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 42
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.426,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 42
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.856,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 42
+    },
+    {
+      "label": "Region",
+      "text": "Regionale Abdeckung",
+      "score": 0.54,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Region",
+      "text": "Regionen",
+      "score": 0.635,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmende",
+      "score": 0.528,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Region",
+      "text": "Graz Umgebung",
+      "score": 0.519,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Region",
+      "text": "Großraum Graz",
+      "score": 0.835,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 48
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.758,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 61
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.741,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 62
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.61,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.876,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 66
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenerreichung",
+      "score": 0.443,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 72
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.688,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 73
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "ÖIF",
+      "score": 0.611,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 73
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.688,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 73
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenerreichung",
+      "score": 0.389,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 73
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.696,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.501,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenzugehörigkeit",
+      "score": 0.513,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Wirkung",
+      "text": "Langfristige Wirkung",
+      "score": 0.699,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 79
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.81,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 80
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.54,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 80
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.392,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 80
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.858,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 82
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.506,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 83
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.504,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 83
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikatoren",
+      "score": 0.574,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 83
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "konkreten Maßnahmen zur Qualitätssicherung",
+      "score": 0.385,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Supervision",
+      "score": 0.782,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Teambesprechungen",
+      "score": 0.744,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Evaluierungen",
+      "score": 0.827,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "konkreten Maßnahmen zur Qualitätssicherung",
+      "score": 0.39,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektziel",
+      "text": "Projektziele",
+      "score": 0.445,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 103
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielsetzung",
+      "score": 0.794,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 109
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.875,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 109
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.408,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 109
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.584,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 112
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielerreichung",
+      "score": 0.572,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 112
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.375,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 112
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.457,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 112
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "3 Kurse",
+      "score": 0.411,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 121
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratung",
+      "score": 0.397,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 122
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratung",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 122
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshopreihe",
+      "score": 0.622,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 123
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursen",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 127
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutschkursen",
+      "score": 0.6,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 129
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Wie viele Personen",
+      "score": 0.593,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 132
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.488,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 133
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.42,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.404,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Sie",
+      "score": 0.406,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 135
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 1",
+      "score": 0.742,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 138
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 144
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 144
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.774,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 149
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 155
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 155
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 3",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 168
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 168
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 4",
+      "score": 0.767,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 175
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 181
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 181
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 5",
+      "score": 0.735,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 187
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 193
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 193
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 6",
+      "score": 0.832,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 199
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 205
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 205
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 7",
+      "score": 0.834,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 212
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 218
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 218
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 8",
+      "score": 0.826,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 224
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 230
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 230
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 9",
+      "score": 0.854,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 237
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 243
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 243
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationshintergrund",
+      "score": 0.807,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.594,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "kompetenzbildende Workshops",
+      "score": 0.498,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Die Teilnehmenden",
+      "score": 0.64,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.396,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Fördermaßnahme",
+      "score": 0.461,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationshintergrund",
+      "score": 0.897,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektziel",
+      "text": "gesellschaftliche Teilhabe",
+      "score": 0.488,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.437,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 1",
+      "score": 0.429,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Clearing",
+      "score": 0.406,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Erstgespräch und Skills Check",
+      "score": 0.435,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Erstellung eines individuellen Aktionsplans",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.5,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursmaßnahme",
+      "score": 0.486,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Berufsbezogener (fachsprachlicher) Deutschkurs",
+      "score": 0.592,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "kompetenzbildende Workshops",
+      "score": 0.652,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Praktika in Betrieben",
+      "score": 0.52,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 3",
+      "score": 0.564,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursbegleitende Beratung",
+      "score": 0.557,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Unterstützung und Hilfestellung bei der Suche nach Praktikumsstellen bzw. einer Lehrstelle",
+      "score": 0.369,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Die durchgeführten Maßnahmen",
+      "score": 0.613,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Wirkung",
+      "text": "tragen zur beruflichen Orientierung bei",
+      "score": 0.537,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Wirkung",
+      "text": "ermöglichen den Einstieg in eine Lehre",
+      "score": 0.383,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Wirkung",
+      "text": "reduzieren die Drop-Out Quote während der Lehre",
+      "score": 0.429,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "BMEIA",
+      "score": 0.484,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 7
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "BKA",
+      "score": 0.773,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 7
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationshintergrund",
+      "score": 0.609,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zahlreiche junge Menschen",
+      "score": 0.478,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen",
+      "score": 0.494,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "junge Menschen",
+      "score": 0.657,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 9
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.729,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 9
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "junger Menschen",
+      "score": 0.428,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 10
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.801,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 10
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.909,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 10
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "15- bis 24-jährigen Jugendlichen",
+      "score": 0.582,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 10
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche mit Migrationshintergrund",
+      "score": 0.754,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 10
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "migrants care",
+      "score": 0.436,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 11
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen",
+      "score": 0.742,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 11
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Bildung",
+      "score": 0.427,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 12
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitsmarktintegrative Maßnahmen",
+      "score": 0.772,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 12
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Selbstbestimmung und Gleichstellung",
+      "score": 0.371,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 12
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen gegen Segregation",
+      "score": 0.597,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 12
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylberechtigte und subsidiär Schutzberechtigte",
+      "score": 0.519,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 14
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "EU-Bürgerinnen und EU-Bürger",
+      "score": 0.566,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 14
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Österreicherinnen und Österreicher mit Migrationshintergrund",
+      "score": 0.514,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 14
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mehrheitsbevölkerung",
+      "score": 0.648,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 14
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "junge Menschen bis 24 Jahre",
+      "score": 0.48,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.414,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Absolvent:innen",
+      "score": 0.377,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Wirkung",
+      "text": "große Wirkung",
+      "score": 0.841,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Alpha Nova Jugendcoaching",
+      "score": 0.479,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "LOGA Jugendmanagement",
+      "score": 0.429,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.387,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Interessent:innen",
+      "score": 0.608,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.488,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.595,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Die meisten Teilnehmenden",
+      "score": 0.493,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmende",
+      "score": 0.448,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.36,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "120 Personen",
+      "score": 0.372,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "110 von 120 Personen",
+      "score": 0.359,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "90 Personen",
+      "score": 0.505,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "60 Personen",
+      "score": 0.44,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "20 von 120 Personen",
+      "score": 0.385,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationspartnern",
+      "score": 0.598,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "den Unternehmen",
+      "score": 0.394,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Fall- oder Teamsupervisionen",
+      "score": 0.359,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integration",
+      "score": 0.38,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "migrants care",
+      "score": 0.678,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Spontanhilfe und Sozialberatung",
+      "score": 0.563,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Familienzusammenführung und Suchdienst",
+      "score": 0.543,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Frauentreffen und Familientreffen",
+      "score": 0.484,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen",
+      "score": 0.889,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Region",
+      "text": "österreichischen Gesellschaft",
+      "score": 0.462,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integration",
+      "score": 0.532,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationsbiographie",
+      "score": 0.828,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen in Not und sozial Schwachen",
+      "score": 0.772,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.412,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationsbiographie",
+      "score": 0.936,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen",
+      "score": 0.621,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutschkurse",
+      "score": 0.586,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vorqualifizierungsmaßnahmen",
+      "score": 0.683,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "migrants care",
+      "score": 0.601,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "HANDWERK.ZUKUNFT",
+      "score": 0.724,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vernetzungs-angebote",
+      "score": 0.623,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationsbiographie",
+      "score": 0.938,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Projektmanager:innen",
+      "score": 0.401,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "HANDWERK.ZUKUNFT",
+      "score": 0.722,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Wirkung",
+      "text": "äußerst positiv",
+      "score": 0.521,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Wirkung",
+      "text": "Erfolgszahlen",
+      "score": 0.383,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel 1",
+      "score": 0.483,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Migrant:innen",
+      "score": 0.368,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel 2",
+      "score": 0.504,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "jungen Menschen",
+      "score": 0.608,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektziel",
+      "text": "Verbesserung der fachspezifischen Deutschkenntnisse",
+      "score": 0.37,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektziel",
+      "text": "Verbesserung der persönlichen u. beruflichen Kompetenzen",
+      "score": 0.378,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel 3",
+      "score": 0.495,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Gewinnung von Lehrbetrieben als Partner",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.561,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer:innen",
+      "score": 0.355,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen 2-3",
+      "score": 0.395,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.555,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer:innen",
+      "score": 0.452,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "effizientere Begleitung",
+      "score": 0.393,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "jugendlichen Teilnehmenden",
+      "score": 0.643,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Roten Kreuz Steiermark",
+      "score": 0.552,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "innen-Akquise",
+      "score": 0.653,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Erstgespräch",
+      "score": 0.67,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kompetenzcheck",
+      "score": 0.752,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Auswahl",
+      "score": 0.37,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 1",
+      "score": 0.885,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.878,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.654,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.709,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "junge Erwachsene",
+      "score": 0.552,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen 2-3",
+      "score": 0.467,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen 2-3",
+      "score": 0.424,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 28
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Erhebung der vorhandenen Kompetenzen",
+      "score": 0.411,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 28
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Interessent:innen",
+      "score": 0.428,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 29
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.591,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 29
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.613,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 29
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.527,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 29
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.512,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 31
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kurs",
+      "score": 0.419,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 31
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kurs",
+      "score": 0.387,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 31
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Firmen",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 31
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Förderung persönlicher Qualifikationen",
+      "score": 0.418,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Migrant:innen",
+      "score": 0.713,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Verbesserung der fachspezifischen Deutschkenntnisse",
+      "score": 0.365,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Projektziel",
+      "text": "Verbesserung der persönlichen/beruflichen Kompetenzen",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.423,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.432,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursbegleitende Beratung",
+      "score": 0.542,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.859,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 35
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer",
+      "score": 0.373,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 36
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "individuelle Beratung",
+      "score": 0.56,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 36
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vermittlung von Orientierung zu Lehrstellen",
+      "score": 0.46,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 36
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Unterstützung bei der Suche nach Praktikums- u. Ausbildungsplätzen",
+      "score": 0.413,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 36
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer:innen",
+      "score": 0.704,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 37
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer:innen",
+      "score": 0.724,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 37
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer:innen",
+      "score": 0.572,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 37
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.42,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 37
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.449,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 37
+    }
+  ]
+}

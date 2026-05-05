@@ -1,0 +1,1923 @@
+{
+  "bundle": {
+    "key": "2022_2023:130",
+    "year_folder": "2022_2023",
+    "project_number": "130",
+    "project_slug": "handwerk-zukunft",
+    "soll_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_2022_2023_Indikatoren.xlsx",
+    "ist_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Indikatorenbericht.xlsx",
+    "project_description": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+    "final_report": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+    "file_count": 4
+  },
+  "project_meta": {
+    "projekttraeger": {
+      "value": "",
+      "confidence": 0.764,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "1. ZWB ",
+        "matched_label": "Angaben zum Projekt",
+        "label_cell": "J4",
+        "value_cell": null
+      }
+    },
+    "projekttitel": {
+      "value": "HandWerk.Zukunft – Berufsvorbereitungskurse mit Lehrvermittlung",
+      "confidence": 0.697,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Projekttitel",
+        "label_cell": "C5",
+        "value_cell": "D5"
+      }
+    },
+    "projektnummer": {
+      "value": "05-130-2022/23",
+      "confidence": 0.844,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Projektnummer",
+        "label_cell": "C6",
+        "value_cell": "D6"
+      }
+    },
+    "laufzeit_beginn": {
+      "value": "2022-01-01",
+      "confidence": 0.818,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Laufzeit Beginn",
+        "label_cell": "C11",
+        "value_cell": "D11"
+      }
+    },
+    "laufzeit_ende": {
+      "value": "2023-12-31",
+      "confidence": 0.794,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Laufzeit Ende",
+        "label_cell": "C12",
+        "value_cell": "D12"
+      }
+    },
+    "hauptprojektstandort": {
+      "value": "Steiermark",
+      "confidence": 0.896,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Haupttprojektstandort",
+        "label_cell": "C10",
+        "value_cell": "D10"
+      }
+    }
+  },
+  "main_kpi": {
+    "indikator": "Anzahl der Projektteilnehmenden gesamt",
+    "soll": 180,
+    "ist": 180,
+    "erfuellung_prozent": 113.9,
+    "confidence": 0.626,
+    "evidence": {
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Indikatorenbericht.xlsx",
+      "sheet": "EB ",
+      "global_header_rows": [
+        9
+      ],
+      "local_header_rows": [
+        9
+      ],
+      "indicator_col": 3,
+      "indicator_row": 10,
+      "matched_indicator": "Anzahl der Projektteilnehmenden gesamt",
+      "soll_header": "Anzahl SOLL",
+      "soll_cell": "D10",
+      "ist_header": "Anzahl SOLL",
+      "ist_cell": "D10",
+      "percent_header": "Erfüllt in %",
+      "percent_cell": "I10"
+    }
+  },
+  "target_group_evidence": [
+    {
+      "score": 0.737,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 46,
+      "text": "Die vertraglich vereinbarten Zielgruppen konnten sehr gut erreicht werden. Dabei handelte es sich um Jugendliche und junge Erwachsene zwischen 15 und 25 Jahren mit Migrationshintergrund. Die erreichte Zielgruppe setzte sich wie folgt zusammen:"
+    },
+    {
+      "score": 0.681,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 33,
+      "text": "Steigerung der Erwerbstätigkeit von Migrant*innen durch Informationsvermittlung und Beratung zu Möglichkeiten der Ausbildung und zum Lehrstellenmarkt (Beratung)"
+    },
+    {
+      "score": 0.667,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 105,
+      "text": "HandWerk.Zukunft hat sich seit 2019 erfolgreich als Projekt etabliert, das für immer mehr Personen mit Migrationshintergrund als Möglichkeit zur Orientierung bei der Wahl eines (Lehr-) Berufes bzw. einer Berufsausbildung wahrgenommen wird. Der besondere Wert dieses Projektes liegt in der Verknüpfung eines individualisierten Orientierungs- und Beratungsangebotes in Verbindung mit einer Vorqualifizierungsmaßnahme, samt der Vermittlung von Wissen über Ausbildungsmöglichkeiten sowie der Vermittlung realer Jobperspektiven."
+    }
+  ],
+  "measures_evidence": [
+    {
+      "score": 0.72,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 142,
+      "text": "Die Workshop- und Deutschkursunterlagen wurden flexibel auf den Förderbedarf der Teilnehmer*innen abgestimmt, somit war ein maximaler Lernerfolg möglich. Durch Besuche der verschiedenen Lehrlingsveranstaltungen und Besichtigung von Firmen wurden den Jugendlichen Einblicke in die Arbeitswelt vermittelt."
+    },
+    {
+      "score": 0.706,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 68,
+      "text": "Modul 2 - Berufsspezifische Vorbereitung, fachbezogener Deutschkurs, Workshopreihe, sowie ein Kurzpraktikum in einem Unternehmen."
+    },
+    {
+      "score": 0.704,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 35,
+      "text": "Kompetenzen (Deutschkurse und Workshops, Training)"
+    }
+  ],
+  "gliner_entities": [
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.853,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Handlungsziele und Maßnahmen",
+      "score": 0.41,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 1
+    },
+    {
+      "label": "Wirkung",
+      "text": "Langfristige Wirkung",
+      "score": 0.57,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 1
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektpartnerschaft",
+      "score": 0.814,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.917,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 2
+    },
+    {
+      "label": "Region",
+      "text": "Regionen",
+      "score": 0.397,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.608,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.357,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "EU-Bürgerinnen und EU-Bürger",
+      "score": 0.456,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Österreicherinnen und Österreicher mit Migrationshintergrund",
+      "score": 0.416,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mehrheitsbevölkerung",
+      "score": 0.522,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.434,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Männer",
+      "score": 0.493,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien",
+      "score": 0.419,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen mit Kinderbetreuungspflichten",
+      "score": 0.351,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "unbegleitete minderjährige Flüchtlinge",
+      "score": 0.765,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.852,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 5
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.529,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "ein gewisser Anteil der Teilnehmenden",
+      "score": 0.512,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 5
+    },
+    {
+      "label": "Projektziel",
+      "text": "Wirkungsindikator Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.479,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 6
+    },
+    {
+      "label": "Projektziel",
+      "text": "Wirkungsindikator",
+      "score": 0.408,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 6
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.374,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 6
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.352,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 7
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.733,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 7
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.384,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 7
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.646,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 7
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 8
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 8
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 8
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.65,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 8
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.355,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 9
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 9
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 9
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.65,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 9
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.355,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 10
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.742,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 10
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.383,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 10
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.643,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 10
+    },
+    {
+      "label": "Wirkung",
+      "text": "Langfristige Wirkung",
+      "score": 0.447,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.491,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.606,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Wirkung",
+      "text": "Multiplikatoreffekt",
+      "score": 0.625,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integrationserfolge",
+      "score": 0.391,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.871,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Wirkung",
+      "text": "Multiplikatoreffekt",
+      "score": 0.722,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektpartner",
+      "score": 0.564,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektpartner",
+      "score": 0.603,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektträgern",
+      "score": 0.377,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 15
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.919,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 18
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.582,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 18
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.776,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 18
+    },
+    {
+      "label": "Projektziel",
+      "text": "übergeordnetes Ziel",
+      "score": 0.765,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitsmarktintegration von Jugendlichen",
+      "score": 0.571,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektziel",
+      "text": "Handlungsziel",
+      "score": 0.834,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche mit Migrationshintergrund",
+      "score": 0.673,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.738,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektziel",
+      "text": "übergeordnetes Ziel",
+      "score": 0.476,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektziel",
+      "text": "Handlungsziel",
+      "score": 0.768,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.493,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektziel",
+      "text": "übergeordnetes Ziel",
+      "score": 0.365,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 20
+    },
+    {
+      "label": "Projektziel",
+      "text": "Wirkungsindikator",
+      "score": 0.473,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 20
+    },
+    {
+      "label": "Projektziel",
+      "text": "übergeordnetes Ziel",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 21
+    },
+    {
+      "label": "Projektziel",
+      "text": "Wirkungsindikator",
+      "score": 0.482,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 21
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Erreichte Zielgruppe",
+      "score": 0.415,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 19
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Umgesetzte Maßnahmen",
+      "score": 0.403,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 20
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.598,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 22
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe der Vertriebenen",
+      "score": 0.762,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 25
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "durchgeführten Maßnahmen",
+      "score": 0.45,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 30
+    },
+    {
+      "label": "Wirkung",
+      "text": "erreichte Wirkung",
+      "score": 0.765,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 30
+    },
+    {
+      "label": "Projektziel",
+      "text": "erreichten Ziele",
+      "score": 0.609,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Projektziel",
+      "text": "Die übergeordneten Projektziele",
+      "score": 0.638,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Migrant*innen",
+      "score": 0.769,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 33
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kompetenzen",
+      "score": 0.372,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 35
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutschkurse und Workshops",
+      "score": 0.482,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 35
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Training",
+      "score": 0.443,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 35
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Vermittlung der Jugendlichen",
+      "score": 0.451,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 36
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Förderung der Integrationsmaßnahmen",
+      "score": 0.613,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 37
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "93 Jugendliche",
+      "score": 0.64,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 39
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.71,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 39
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.549,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 39
+    },
+    {
+      "label": "Wirkung",
+      "text": "entdeckten die Freude am Lernen wieder",
+      "score": 0.369,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 39
+    },
+    {
+      "label": "Region",
+      "text": "Bereichszeitraum",
+      "score": 0.433,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.686,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.776,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.847,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.871,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.554,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche und junge Erwachsene zwischen 15 und 25 Jahren",
+      "score": 0.456,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.538,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 53
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmende mit Migrationshintergrund",
+      "score": 0.67,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 53
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.444,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 56
+    },
+    {
+      "label": "Region",
+      "text": "unteren Alterssegment",
+      "score": 0.487,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 56
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "16 und 17 Jährigen",
+      "score": 0.458,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 57
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "15, 18 und 19 Jährigen",
+      "score": 0.355,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 57
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmerinnen und Teilnehmer",
+      "score": 0.518,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 58
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "6 Kursmaßnahmen",
+      "score": 0.435,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 58
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursmaßnahme",
+      "score": 0.497,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Modul 1",
+      "score": 0.698,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 64
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Skills Check",
+      "score": 0.54,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 64
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Modul 1",
+      "score": 0.449,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Netzwerkpartnern",
+      "score": 0.819,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "interessierte Personen",
+      "score": 0.76,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Berufsvorbereitungsmodul",
+      "score": 0.387,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Die Projektmitarbeiter*innen",
+      "score": 0.389,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 66
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.512,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 66
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.615,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 66
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Aktionsplan",
+      "score": 0.416,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 66
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kompetenzcheck",
+      "score": 0.401,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 67
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "geeignete Projekt-Teilnehmer*innen",
+      "score": 0.575,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 67
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Modul 2",
+      "score": 0.411,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 68
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Berufsspezifische Vorbereitung",
+      "score": 0.406,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 68
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "fachbezogener Deutschkurs",
+      "score": 0.553,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 68
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshopreihe",
+      "score": 0.679,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 68
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer*innen",
+      "score": 0.512,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 72
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer*innen",
+      "score": 0.479,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 72
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer*innen",
+      "score": 0.548,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 72
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.67,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 74
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kursteilnehmer*innen",
+      "score": 0.416,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 74
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.559,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 74
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer*innen",
+      "score": 0.875,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer*innen",
+      "score": 0.787,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Wirkung",
+      "text": "Erfolge",
+      "score": 0.357,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer*innen",
+      "score": 0.833,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "sechs Kursmaßnahmen",
+      "score": 0.411,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Modul 3",
+      "score": 0.604,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 77
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Mentoring",
+      "score": 0.502,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 77
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Freiwillige",
+      "score": 0.554,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 77
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "kursbegleitende Beratung und Unterstützung",
+      "score": 0.5,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 77
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Wertevermittlung",
+      "score": 0.497,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 77
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer*innen",
+      "score": 0.914,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 78
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Lehrstellensuche",
+      "score": 0.417,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 78
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer*innen",
+      "score": 0.878,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 78
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer*innen",
+      "score": 0.452,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 80
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 81
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "einige Kursteilnehmer",
+      "score": 0.539,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 82
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "gezielte Maßnahmen",
+      "score": 0.372,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 82
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "individuelle Bewerbungscoachings",
+      "score": 0.414,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 82
+    },
+    {
+      "label": "Wirkung",
+      "text": "gute Erfolge erzielt werden",
+      "score": 0.498,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 82
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Moduls 4",
+      "score": 0.624,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 84
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Berufspädagoginnen",
+      "score": 0.395,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 84
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Modul 1",
+      "score": 0.771,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 92
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Teilnehmer*inne-Akquise und Erstgespräche",
+      "score": 0.366,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 92
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursmaßnahmen",
+      "score": 0.407,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 92
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Modul 2",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 92
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Interessent*innen",
+      "score": 0.584,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 92
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursmaßnahmen",
+      "score": 0.542,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 93
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Modul 2",
+      "score": 0.539,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 93
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kurs 1",
+      "score": 0.446,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 94
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kurs 2",
+      "score": 0.515,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 95
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kurs 3",
+      "score": 0.506,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 96
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kurs 4",
+      "score": 0.512,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 97
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kurs 5",
+      "score": 0.415,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 98
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kurs 6",
+      "score": 0.482,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 99
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratung und Mentoring",
+      "score": 0.625,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Modul 4",
+      "score": 0.487,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Reflexionsgespräche",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Nachbetreuung",
+      "score": 0.413,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Öffentlichkeitsarbeit",
+      "score": 0.454,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 101
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Partnerorganisationen",
+      "score": 0.64,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 101
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "arbeitsmarktpolitischen Einrichtungen",
+      "score": 0.518,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 101
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche und junge Erwachsene",
+      "score": 0.61,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 101
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Evaluierungen",
+      "score": 0.503,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 102
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen mit Migrationshintergrund",
+      "score": 0.486,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 105
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vorqualifizierungsmaßnahme",
+      "score": 0.763,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 105
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "HandWerk.Zukunft",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 106
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Migrant*innen",
+      "score": 0.729,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 106
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "alle Teilnehmer*innen",
+      "score": 0.505,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 106
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitsmarkterfolg",
+      "score": 0.404,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 107
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kursteilnehmer*innen",
+      "score": 0.6,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 107
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursmaßnahme",
+      "score": 0.568,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 107
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitsmarkterfolg",
+      "score": 0.486,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 107
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kursteilnehmer",
+      "score": 0.64,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 107
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursmaßnahme",
+      "score": 0.531,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 107
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursmaßnahmen",
+      "score": 0.481,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 109
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.552,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 114
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.387,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 114
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "junge Erwachsene",
+      "score": 0.352,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 114
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "HANDWERK.ZUKUNFT",
+      "score": 0.381,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 114
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "7 Teilnehmer",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 115
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursmaßnahme",
+      "score": 0.539,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 115
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "55 Personen",
+      "score": 0.477,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 119
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Viele unserer teilnehmenden Jugendlichen",
+      "score": 0.555,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 121
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.813,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 124
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Praktikumsstellen",
+      "score": 0.483,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 124
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Betrieben",
+      "score": 0.494,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 124
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Praktikum",
+      "score": 0.435,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 124
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.831,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 124
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektteam",
+      "score": 0.359,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 124
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Praktikum",
+      "score": 0.506,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 124
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Einige der ESIRAS-Absolvent*innen",
+      "score": 0.409,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 128
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "jene Jugendlichen",
+      "score": 0.56,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 128
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.456,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 128
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.593,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 135
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.815,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 135
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe der Vertriebenen",
+      "score": 0.764,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 136
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektaktivitäten",
+      "score": 0.367,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 137
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.561,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 137
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.761,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 138
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "HANDWERK.ZUKUNFT",
+      "score": 0.761,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 141
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektpartnern",
+      "score": 0.679,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 141
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "verschiedenen Unternehmen",
+      "score": 0.4,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 141
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Interessent*innen",
+      "score": 0.701,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 141
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursmaßnahme",
+      "score": 0.499,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 141
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursmaßnahme",
+      "score": 0.375,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 141
+    },
+    {
+      "label": "Projektziel",
+      "text": "optimale Lösungen",
+      "score": 0.543,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 141
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "junge Menschen",
+      "score": 0.738,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 141
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.685,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 142
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Pädagoginnen",
+      "score": 0.633,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 143
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Sozialarbeiterinnen",
+      "score": 0.521,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 143
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "DaF/DaZ-Trainerinnen",
+      "score": 0.516,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 143
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer*innen",
+      "score": 0.603,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 143
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.392,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 143
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.387,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 145
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursmaßnahme",
+      "score": 0.653,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 145
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.43,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 145
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer*innen",
+      "score": 0.402,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 145
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.432,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 145
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.57,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Freiwillige",
+      "score": 0.443,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Praktika",
+      "score": 0.418,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "CStrom Elektrotechniklinie GmbH",
+      "score": 0.408,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    }
+  ]
+}

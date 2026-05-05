@@ -1,0 +1,2379 @@
+{
+  "bundle": {
+    "key": "2019_2020:35",
+    "year_folder": "2019_2020",
+    "project_number": "35",
+    "project_slug": "deutsch-im-alltag",
+    "soll_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Indikatoren.xlsx",
+    "ist_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Indikatorenbericht.xlsx",
+    "project_description": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+    "final_report": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+    "file_count": 4
+  },
+  "project_meta": {
+    "projekttraeger": {
+      "value": "Verein SprachBrücke Wien",
+      "confidence": 0.819,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Indikatorenbericht.xlsx",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektträger",
+        "label_cell": "C4",
+        "value_cell": "D4"
+      }
+    },
+    "projekttitel": {
+      "value": "Deutsch im Alltag – Schritt für Schritt",
+      "confidence": 0.697,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Indikatorenbericht.xlsx",
+        "sheet": "Indikatoren",
+        "matched_label": "Projekttitel",
+        "label_cell": "C5",
+        "value_cell": "D5"
+      }
+    },
+    "projektnummer": {
+      "value": "35",
+      "confidence": 0.844,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Indikatorenbericht.xlsx",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektnummer",
+        "label_cell": "C6",
+        "value_cell": "D6"
+      }
+    },
+    "laufzeit_beginn": {
+      "value": "Verein SprachBrücke Wien",
+      "confidence": 0.576,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Indikatorenbericht.xlsx",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektträger",
+        "label_cell": "C4",
+        "value_cell": "D4"
+      }
+    },
+    "laufzeit_ende": {
+      "value": "#DIV/0!",
+      "confidence": 0.648,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Indikatorenbericht.xlsx",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektteilnehmerinnen und Projektteilnehmer nach Alter",
+        "label_cell": "C13",
+        "value_cell": "F13"
+      }
+    },
+    "hauptprojektstandort": {
+      "value": "Verein SprachBrücke Wien",
+      "confidence": 0.746,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Indikatorenbericht.xlsx",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektträger",
+        "label_cell": "C4",
+        "value_cell": "D4"
+      }
+    }
+  },
+  "main_kpi": {
+    "indikator": "Anzahl der Teilnehmerinnen und Teilnehmer im Projekt",
+    "soll": 80,
+    "ist": 76,
+    "erfuellung_prozent": 95.0,
+    "confidence": 0.832,
+    "evidence": {
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Indikatorenbericht.xlsx",
+      "sheet": "Indikatoren",
+      "global_header_rows": [
+        7
+      ],
+      "local_header_rows": [
+        7
+      ],
+      "indicator_col": 3,
+      "indicator_row": 9,
+      "matched_indicator": "Anzahl der Teilnehmerinnen und Teilnehmer im Projekt",
+      "soll_header": "Anzahl lt. Vertrag (SOLL)",
+      "soll_cell": "D9",
+      "ist_header": "Anzahl Endbericht (IST)",
+      "ist_cell": "E9",
+      "percent_header": "Erfüllt in %",
+      "percent_cell": "F9"
+    }
+  },
+  "target_group_evidence": [
+    {
+      "score": 0.729,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54,
+      "text": "DEUTSCH IM ALLTAG ist ein international erfolgreiches, wissensbasiertes Programm zur frühen Bildungsförderung in Familien mit Migrationserfahrung. Es zielt darauf ab, die Entwicklungsmöglichkeiten von Kindern frühzeitig und nachhaltig zu verbessern. Zielgruppe sind sozial- und bildungsbenachteiligte Familien mit Kindern im Alter von 3 bis 7 Jahren. In aufsuchender Familienarbeit durch muttersprachliche Hausbesucherinnen werden innerfamiliäre Bildungsaktivitäten auf spielerische Weise angeregt und vertieft und die Kinder auf den Schulbesuch vorbereitet. Durch begleitende Gruppentreffen und Exkursionen im sozialen Umfeld werden Kultur, Werte und Lebensweisen der Aufnahmegesellschaft vermittelt. Die Bildungssensibilisierung der gesamten Familie und die Verbesserung der sozialen Integration stellen einen wichtigen Beitrag zur Chancengerechtigkeit für Familien mit Migrationserfahrung dar."
+    },
+    {
+      "score": 0.706,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120,
+      "text": "Verein SprachBrücke arbeitet seit mehr als 20 Jahren im Rahmen verschiedener Dienstleistungsangebote (Interdisziplinäre Frühförderung und Familienbegleitung, Jugendcoaching, Familienentlastung, Kinder- und Jugendhilfe) mit Menschen mit Migrationserfahrung und -hintergrund. Dabei haben wir Kooperationen mit relevanten Partnerorganisationen aufgebaut und im Zuge von Vernetzungstätigkeit und Weiterbildungen für MitarbeiterInnen wichtige Erfahrungen im Bereich Migration erworben. Seit 2009 setzen wir das Projekt DEUTSCH IM ALLTAG erfolgreich als einziger Anbieter in der Steiermark um: durch unsere Expertise konnten wir mit den Stadtgemeinden Graz und Kapfenberg verlässliche Beziehungen aufbauen und leisten mit unserer Arbeit einen Beitrag für den sozialen Zusammenhalt in den Gemeinden. Seit 2015 führt Verein SprachBrücke eine Einrichtung zur Begleitung von bis zu 30 unbegleiteten, minderjährigen Jugendlichen, die geflüchtet sind und sich in der Grundversorgung befinden. Ihnen bieten wir Wohnraum und Begleitung und erschließen mit ihnen gemeinsam Bildungsmöglichkeiten und soziale Netze, um das Ankommen in der österreichischen Gesellschaft zu erleichtern. In diesem Sinn begleiten wir auch junge Erwachsene. Wir betreiben inklusive Wohngemeinschaften für Menschen mit und ohne Fluchterfahrung sowie im Auftrag der Stadt Graz das Projekt Inklusionsassistenz und Peerberatung, das sich an Personen mit längerfristiger Aufenthaltsperspektive wendet."
+    },
+    {
+      "score": 0.7,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27,
+      "text": "Verein SprachBrücke ist ein international erfolgreiches, wissensbasiertes Programm zur frühen Bildungsförderung. Es zielt darauf ab, die Entwicklungsmöglichkeiten von Kindern frühzeitig und nachhaltig zu verbessern. Zielgruppe sind bildungsbenachteiligte Familien mit Migrationshintergrund mit Kindern im Alter von 3 bis 7 Jahren. Die Projektziele sind frühe innerfamiliäre und ganzheitliche Förderung der Kinder zur Vorbereitung auf den Schuleintritt, Bildungssensibilisierung der gesamten Familie sowie die Verbesserung der sozialen Integration durch Vermittlung der Kultur, der Werte und Lebensweisen der Aufnahmegesellschaft. Deutsch im Alltag – Schritt für Schritt wurde als ressourcenorientiertes Modell entwickelt und setzt alle Interventionen konsequent mit dem Empowerment-Ansatz um. Dies geschieht mittels niederschwelliger und sensibler Kontaktaufnahme zur Zielgruppe durch muttersprachliche Hausbesucherinnen und aufsuchende Arbeit im Wohnumfeld der Zielgruppe, durch Arbeit mit strukturierten Materialien (anhand eines erprobten Curriculums), Gruppentreffen und Exkursionen im sozialen Umfeld sowie Zusammenarbeit mit bestehenden Sozial- und Bildungseinrichtungen."
+    }
+  ],
+  "measures_evidence": [
+    {
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 127,
+      "text": "Erfahrungen in der Projektabwicklung"
+    },
+    {
+      "score": 0.708,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 129,
+      "text": "(Beschreiben Sie kurz Ihre Erfahrung in der Abwicklung von öffentlich geförderten Projekten und zeigen Sie auf, welche Expertisen aus diesen Projekten dem beantragten Projekt zuträglich sind. Geben Sie ein Beispiel an (Name des Projekts, Fördergebers, Fördersumme, Laufzeit). Max. 2000 Zeichen!)"
+    },
+    {
+      "score": 0.696,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 240,
+      "text": "Frühere bzw. zukünftige Projektförderungen"
+    }
+  ],
+  "gliner_entities": [
+    {
+      "label": "Region",
+      "text": "Region 4",
+      "score": 0.865,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 14
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.796,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 15
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.622,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe 5",
+      "score": 0.672,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen zur Zielerreichung",
+      "score": 0.394,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 35
+    },
+    {
+      "label": "Projektziel",
+      "text": "Quantitative Ziele",
+      "score": 0.573,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 37
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.484,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Wirkung",
+      "text": "nachhaltige Wirkung",
+      "score": 0.67,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Wirkung",
+      "text": "Multiplikatoreffekt",
+      "score": 0.355,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien mit Migrationserfahrung",
+      "score": 0.67,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern",
+      "score": 0.415,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "innerfamiliäre Bildungsaktivitäten",
+      "score": 0.373,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien mit Migrationserfahrung",
+      "score": 0.744,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.724,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 62
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.813,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 68
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.46,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.769,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "zugewanderte Menschen",
+      "score": 0.677,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt DEUTSCH IM ALLTAG",
+      "score": 0.711,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "DEUTSCH IM ALLTAG",
+      "score": 0.79,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Region",
+      "text": "beide Regionen",
+      "score": 0.593,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "DEUTSCH IM ALLTAG",
+      "score": 0.792,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "HausbesucherInnen",
+      "score": 0.519,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendliche",
+      "score": 0.9,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 79
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "DEUTSCH IM ALLTAG",
+      "score": 0.627,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 79
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.838,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 79
+    },
+    {
+      "label": "Wirkung",
+      "text": "Langfristig wird damit die soziale und berufliche Integration verbessert",
+      "score": 0.674,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 79
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.534,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 88
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.761,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.622,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.776,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 99
+    },
+    {
+      "label": "Region",
+      "text": "Region XY",
+      "score": 0.874,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 99
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "bildungsbenachteiligte Eltern",
+      "score": 0.738,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mütter mit Migrationshintergrund",
+      "score": 0.534,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit niedrigem sozioökonomischen Status",
+      "score": 0.478,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "nicht berufstätige Frauen",
+      "score": 0.509,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "viele Kinder",
+      "score": 0.373,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen",
+      "score": 0.448,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Region",
+      "text": "Graz, Kapfenberg",
+      "score": 0.398,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.639,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 103
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.61,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 104
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen in diesen Familien",
+      "score": 0.482,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 104
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.572,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 104
+    },
+    {
+      "label": "Projektziel",
+      "text": "Empowerment",
+      "score": 0.388,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 104
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.754,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 106
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.864,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 107
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.388,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 107
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.821,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 107
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.74,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 108
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "MitarbeiterInnen",
+      "score": 0.388,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 108
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.827,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 108
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "TeilnehmerInnen",
+      "score": 0.417,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 109
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielsetzungen",
+      "score": 0.395,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 113
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Verein SprachBrücke",
+      "score": 0.396,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 115
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationserfahrung und -hintergrund",
+      "score": 0.688,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "relevanten Partnerorganisationen",
+      "score": 0.6,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "DEUTSCH IM ALLTAG",
+      "score": 0.617,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.946,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "minderjährigen Jugendlichen",
+      "score": 0.463,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "junge Erwachsene",
+      "score": 0.774,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit und ohne Fluchterfahrung",
+      "score": 0.557,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Inklusionsassistenz und Peerberatung",
+      "score": 0.601,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen mit längerfristiger Aufenthaltsperspektive",
+      "score": 0.397,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "berufliche Ausbildungsbegleitung",
+      "score": 0.357,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "benachteiligte Jugendliche",
+      "score": 0.82,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche und Erwachsene",
+      "score": 0.686,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "jungen Menschen",
+      "score": 0.564,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Empowerment",
+      "score": 0.36,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Start?Klar!",
+      "score": 0.359,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Verein SprachBrücke",
+      "score": 0.434,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Bietergemeinschaft dieser Leistung des Sozialministeriums",
+      "score": 0.352,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Berufsausbildungsassistenz",
+      "score": 0.355,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche mit Migrationshintergrund",
+      "score": 0.716,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Arbeitsuchende",
+      "score": 0.654,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "benachteiligte Menschen",
+      "score": 0.694,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Lernassistenz",
+      "score": 0.467,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "maßgeblichen Stakeholdern",
+      "score": 0.627,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.869,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Lernbegleitung",
+      "score": 0.366,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Region",
+      "text": "Land Steiermark",
+      "score": 0.915,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 132
+    },
+    {
+      "label": "Region",
+      "text": "steiermärkische Gemeinden und Städte",
+      "score": 0.447,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 132
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Jugendcoaching",
+      "score": 0.517,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 132
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Berufsausbildungsassistenz",
+      "score": 0.577,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 132
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "DEUTSCH IM ALLTAG",
+      "score": 0.469,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 132
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.982,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 141
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "EIF",
+      "score": 0.626,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 141
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "BMI",
+      "score": 0.704,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 141
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "regionale Förderungen",
+      "score": 0.487,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 141
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.464,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 150
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Vereinen",
+      "score": 0.435,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 150
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektträgern",
+      "score": 0.671,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 150
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.904,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 150
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.535,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 150
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Danaida",
+      "score": 0.401,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 151
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Ikemba",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 151
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Sozialreferat der Stadt Kapfenberg",
+      "score": 0.404,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 151
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "SozialarbeiterInnen",
+      "score": 0.361,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 151
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "TeilnehmerInnen",
+      "score": 0.425,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 152
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Müttern/Eltern",
+      "score": 0.585,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 152
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern",
+      "score": 0.457,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 152
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Potentielle TeilnehmerInnen",
+      "score": 0.718,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 153
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektmitarbeiterinnen",
+      "score": 0.636,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 153
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Hausbesucherinnen",
+      "score": 0.442,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 153
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "KindergartenpädagogInnen",
+      "score": 0.368,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 153
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "DEUTSCH IM ALLTAG",
+      "score": 0.707,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 154
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "DEUTSCH IM ALLTAG",
+      "score": 0.472,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 154
+    },
+    {
+      "label": "Region",
+      "text": "Österreich",
+      "score": 0.622,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 154
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Beratungsgruppe in Wien",
+      "score": 0.357,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 154
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "internationalen ProjektpartnerInnen",
+      "score": 0.604,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 154
+    },
+    {
+      "label": "Projektziel",
+      "text": "Erhöhung der Beschäftigungsrate",
+      "score": 0.356,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 161
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylberechtigten",
+      "score": 0.584,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 161
+    },
+    {
+      "label": "Projektziel",
+      "text": "Vermittlung von Arbeitsplätzen",
+      "score": 0.563,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 161
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "DEUTSCH IM ALLTAG",
+      "score": 0.37,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Projektziel",
+      "text": "die Bildungssensibilisierung der Familie",
+      "score": 0.467,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern",
+      "score": 0.432,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Eltern",
+      "score": 0.425,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Müttern",
+      "score": 0.577,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziele",
+      "score": 0.649,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 174
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziele",
+      "score": 0.611,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 174
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Akquisephase",
+      "score": 0.352,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 175
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "lokalen Kooperations-partnerInnen",
+      "score": 0.721,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 175
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Migrantenvereine",
+      "score": 0.55,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 175
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.397,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 175
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Aufnahmegespräch",
+      "score": 0.385,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 175
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.369,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Region",
+      "text": "Betreuungsgebietes",
+      "score": 0.408,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mütter und Kinder",
+      "score": 0.579,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Das Arbeitsgespräch",
+      "score": 0.438,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 179
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Teamsitzungen",
+      "score": 0.373,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 179
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Das Arbeitsgespräch",
+      "score": 0.398,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 179
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Monitoring",
+      "score": 0.477,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 179
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Guidance",
+      "score": 0.499,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 179
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gruppentreffen und Exkursionen",
+      "score": 0.557,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 179
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Akquisetermine",
+      "score": 0.696,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 179
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.906,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 180
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.903,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 180
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.955,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 180
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.944,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 180
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.5,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 181
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Hausbesuche",
+      "score": 0.508,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 181
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.753,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 181
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.601,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 181
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Hausbesuche",
+      "score": 0.502,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 181
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.502,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 182
+    },
+    {
+      "label": "Wirkung",
+      "text": "positiven Verstärkung",
+      "score": 0.4,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 182
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.486,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 185
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Programmerfolg",
+      "score": 0.351,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 185
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Teamsitzungen",
+      "score": 0.394,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 185
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gruppentreffen und Exkursionen",
+      "score": 0.382,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 185
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.526,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 185
+    },
+    {
+      "label": "Projektziel",
+      "text": "Projektziels",
+      "score": 0.834,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 188
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Eltern",
+      "score": 0.435,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Hausbesuche",
+      "score": 0.492,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Müttern mit kleinen Kindern",
+      "score": 0.594,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.398,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Müttern",
+      "score": 0.676,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Hausbesuche",
+      "score": 0.553,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Externe ReferentInnen/FachexpertInnen",
+      "score": 0.628,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.583,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.668,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Projektziel",
+      "text": "Quantitative Ziele",
+      "score": 0.58,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 195
+    },
+    {
+      "label": "Projektziel",
+      "text": "Indikatoren",
+      "score": 0.456,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 195
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.911,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 211
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.894,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 211
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.439,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 215
+    },
+    {
+      "label": "Wirkung",
+      "text": "nachhaltige Wirkung",
+      "score": 0.67,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 215
+    },
+    {
+      "label": "Wirkung",
+      "text": "Multiplikatoreffekt",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 215
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.587,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 216
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.791,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 216
+    },
+    {
+      "label": "Wirkung",
+      "text": "Multiplikatoreffekt",
+      "score": 0.369,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 216
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.703,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern",
+      "score": 0.685,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.897,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "DEUTSCH IM ALLTAG",
+      "score": 0.52,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder mit Migrationshintergrund",
+      "score": 0.608,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "DEUTSCH IM ALLTAG",
+      "score": 0.657,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Müttern",
+      "score": 0.355,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "DEUTSCH IM ALLTAG",
+      "score": 0.524,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "DEUTSCH IM ALLTAG",
+      "score": 0.554,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "DEUTSCH IM ALLTAG",
+      "score": 0.691,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integrationserfolge",
+      "score": 0.474,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 222
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.645,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 222
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkt",
+      "score": 0.502,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 222
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.604,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 222
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.488,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 223
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.418,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 223
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmende",
+      "score": 0.49,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 223
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.459,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 223
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen zur Qualitätssicherung",
+      "score": 0.55,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 226
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "KindergartenpädagogInnen und LehrerInnen",
+      "score": 0.372,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 231
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "LehrerInnen",
+      "score": 0.441,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 234
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "beratungsgruppe.at",
+      "score": 0.775,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 237
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Umsetzung",
+      "score": 0.354,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 237
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "beratungsgruppe.at",
+      "score": 0.643,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 237
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Qualitätssicherung",
+      "score": 0.549,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 237
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Qualitätssicherung",
+      "score": 0.39,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 237
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Umgesetzte Maßnahmen",
+      "score": 0.397,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 17
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.622,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 18
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern",
+      "score": 0.442,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Projektziel",
+      "text": "Projektziele",
+      "score": 0.383,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Projektziel",
+      "text": "frühe innerfamiliäre und ganzheitliche Förderung der Kinder zur Vorbereitung auf den Schuleintritt",
+      "score": 0.402,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Projektziel",
+      "text": "Verbesserung der sozialen Integration",
+      "score": 0.441,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Projektziel",
+      "text": "Deutsch im Alltag – Schritt für Schritt",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.503,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.482,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Zusammenarbeit mit bestehenden Sozial- und Bildungseinrichtungen",
+      "score": 0.678,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien",
+      "score": 0.502,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 28
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien",
+      "score": 0.524,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 28
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielerreichung",
+      "score": 0.479,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziele",
+      "score": 0.717,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 33
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.638,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 33
+    },
+    {
+      "label": "Projektziel",
+      "text": "Die geplanten Ziele",
+      "score": 0.547,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 34
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Eltern",
+      "score": 0.358,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 36
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Eltern",
+      "score": 0.376,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 36
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutsch im Alltag – Schritt für Schritt",
+      "score": 0.369,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.51,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "lokalen KooperationspartnerInnen",
+      "score": 0.804,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.429,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.488,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mütter",
+      "score": 0.468,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.373,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mütter",
+      "score": 0.629,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien/Frauen",
+      "score": 0.489,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien",
+      "score": 0.438,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutsch im Alltag – Schritt für Schritt",
+      "score": 0.423,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien",
+      "score": 0.54,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutsch im Alltag – Schritt für Schritt",
+      "score": 0.493,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien",
+      "score": 0.568,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutsch im Alltag – Schritt für Schritt-Mütter",
+      "score": 0.374,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutsch im Alltag – Schritt für Schritt",
+      "score": 0.478,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Wirkung",
+      "text": "große HIlfe",
+      "score": 0.36,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Wirkung",
+      "text": "immens hilfreich",
+      "score": 0.418,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Region",
+      "text": "Betreuungsgebietes",
+      "score": 0.351,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mütter",
+      "score": 0.59,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Wirkung",
+      "text": "positive Effekte",
+      "score": 0.702,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mütter",
+      "score": 0.504,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.474,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.504,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Hausbesucherinnen",
+      "score": 0.533,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.695,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 53
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "das Projekt",
+      "score": 0.371,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 53
+    },
+    {
+      "label": "Wirkung",
+      "text": "Verbesserung der deutschen Sprachkenntnisse",
+      "score": 0.375,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 58
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern",
+      "score": 0.413,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 58
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.438,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 58
+    },
+    {
+      "label": "Wirkung",
+      "text": "Stärkung der Eltern in ihrer erzieherischen Kompetenz",
+      "score": 0.457,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 58
+    },
+    {
+      "label": "Projektziel",
+      "text": "vertraglichen Ziele",
+      "score": 0.414,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "österreichische Bundesregierung",
+      "score": 0.462,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Wirkung",
+      "text": "Folgewirkungen",
+      "score": 0.509,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Verzögerungen",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Einführung von Kurzarbeit",
+      "score": 0.489,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Mietzinsreduktionen",
+      "score": 0.654,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Nutzung alternativer Infrastruktur",
+      "score": 0.354,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Hausbesuche",
+      "score": 0.5,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Akquisemaßnahmen",
+      "score": 0.669,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitstreffen",
+      "score": 0.524,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Teamsitzungen",
+      "score": 0.41,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "BKA",
+      "score": 0.53,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 77
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Schutzmaßnahmen",
+      "score": 0.537,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 77
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Hilfsangebote in Krisen",
+      "score": 0.357,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 77
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmerinnen",
+      "score": 0.532,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 78
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien",
+      "score": 0.378,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 78
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmerinnen",
+      "score": 0.544,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 78
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.874,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 86
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.858,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 86
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "qualitätssichernde Maßnahmen",
+      "score": 0.475,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 86
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen zur Qualitätssicherung",
+      "score": 0.579,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutsch im Alltag – Schritt für Schritt",
+      "score": 0.862,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 90
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutsch im Alltag – Schritt für Schritt",
+      "score": 0.792,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 90
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "verschiedene TeilnehmerInnen",
+      "score": 0.444,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 90
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mütter/Eltern und Kinder",
+      "score": 0.401,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 90
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.464,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 90
+    },
+    {
+      "label": "Region",
+      "text": "Regionalteam Graz",
+      "score": 0.679,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 91
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Qualitätsentwicklung",
+      "score": 0.476,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 91
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Eltern",
+      "score": 0.578,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 95
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung der Maßnahmen",
+      "score": 0.529,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 95
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.689,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 97
+    }
+  ]
+}

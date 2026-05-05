@@ -1,0 +1,3259 @@
+{
+  "bundle": {
+    "key": "2019_2020:165",
+    "year_folder": "2019_2020",
+    "project_number": "165",
+    "project_slug": "begegnungsraeume",
+    "soll_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Indikatoren.xlsx",
+    "ist_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Indikatorenbericht.xls",
+    "project_description": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+    "final_report": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+    "file_count": 4
+  },
+  "project_meta": {
+    "projekttraeger": {
+      "value": "Diakonie Flüchtlingsdienst gem. GmbH",
+      "confidence": 0.819,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Indikatorenbericht.xls",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektträger",
+        "label_cell": "C4",
+        "value_cell": "D4"
+      }
+    },
+    "projekttitel": {
+      "value": "Banonda - Dialog und Integration",
+      "confidence": 0.697,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Indikatorenbericht.xls",
+        "sheet": "Indikatoren",
+        "matched_label": "Projekttitel",
+        "label_cell": "C5",
+        "value_cell": "D5"
+      }
+    },
+    "projektnummer": {
+      "value": "165-2019&2020",
+      "confidence": 0.844,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Indikatorenbericht.xls",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektnummer",
+        "label_cell": "C6",
+        "value_cell": "D6"
+      }
+    },
+    "laufzeit_beginn": {
+      "value": "Diakonie Flüchtlingsdienst gem. GmbH",
+      "confidence": 0.576,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Indikatorenbericht.xls",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektträger",
+        "label_cell": "C4",
+        "value_cell": "D4"
+      }
+    },
+    "laufzeit_ende": {
+      "value": "7",
+      "confidence": 0.648,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Indikatorenbericht.xls",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektteilnehmerinnen und Projektteilnehmer nach Alter",
+        "label_cell": "C13",
+        "value_cell": "F13"
+      }
+    },
+    "hauptprojektstandort": {
+      "value": "Diakonie Flüchtlingsdienst gem. GmbH",
+      "confidence": 0.746,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Indikatorenbericht.xls",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektträger",
+        "label_cell": "C4",
+        "value_cell": "D4"
+      }
+    }
+  },
+  "main_kpi": {
+    "indikator": "Anzahl der Teilnehmerinnen und Teilnehmer im Projekt",
+    "soll": 510,
+    "ist": 509,
+    "erfuellung_prozent": 99.8,
+    "confidence": 0.832,
+    "evidence": {
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Indikatorenbericht.xls",
+      "sheet": "Indikatoren",
+      "global_header_rows": [
+        7
+      ],
+      "local_header_rows": [
+        7
+      ],
+      "indicator_col": 3,
+      "indicator_row": 9,
+      "matched_indicator": "Anzahl der Teilnehmerinnen und Teilnehmer im Projekt",
+      "soll_header": "Anzahl lt. Vertrag (SOLL)",
+      "soll_cell": "D9",
+      "ist_header": "Anzahl Endbericht (IST)",
+      "ist_cell": "E9",
+      "percent_header": "Erfüllt in %",
+      "percent_cell": "F9"
+    }
+  },
+  "target_group_evidence": [
+    {
+      "score": 0.843,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 140,
+      "text": "BACH Stütz- und Förderangebote für Jugendliche und junge Erwachsene mit Migrationsbiographie und erhöhtem Förderbedarf (NÖ); Laufzeit: 01.01.2018 – 31.12.2018"
+    },
+    {
+      "score": 0.814,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 154,
+      "text": "BACH Vorbereitungskurs zum Nachholen des Pflichtschulabschlusses für Jugendliche und junge Erwachsene mit Migrationsbiographie mit erhöhtem Förderbedarf (NÖ); Laufzeit: 01.09.2014 – 31.12.2015"
+    },
+    {
+      "score": 0.804,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 148,
+      "text": "BACH - Stützangebote im Vorbereitungskurs zum Nachholen des Pflichtschulabschlusses für Jugendliche und junge Erwachsene mit Migrationsbiographie und erhöhtem Förderbedarf (NÖ); Laufzeit: 01.01.2016 – 31.12.2016"
+    }
+  ],
+  "measures_evidence": [
+    {
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 128,
+      "text": "Erfahrungen in der Projektabwicklung"
+    },
+    {
+      "score": 0.708,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 130,
+      "text": "(Beschreiben Sie kurz Ihre Erfahrung in der Abwicklung von öffentlich geförderten Projekten und zeigen Sie auf, welche Expertisen aus diesen Projekten dem beantragten Projekt zuträglich sind. Geben Sie ein Beispiel an (Name des Projekts, Fördergebers, Fördersumme, Laufzeit). Max. 2000 Zeichen!)"
+    },
+    {
+      "score": 0.696,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 254,
+      "text": "Frühere bzw. zukünftige Projektförderungen"
+    }
+  ],
+  "gliner_entities": [
+    {
+      "label": "Region",
+      "text": "Region 4",
+      "score": 0.865,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 14
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.796,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 15
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.604,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.601,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen zur Zielerreichung",
+      "score": 0.382,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 35
+    },
+    {
+      "label": "Projektziel",
+      "text": "Quantitative Ziele",
+      "score": 0.569,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 37
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.473,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Wirkung",
+      "text": "nachhaltige Wirkung",
+      "score": 0.664,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integration",
+      "score": 0.553,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "neu Zugewanderten",
+      "score": 0.631,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Wohnbevölkerung",
+      "score": 0.391,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Region",
+      "text": "ländlichen Raum",
+      "score": 0.624,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Region",
+      "text": "Pongau",
+      "score": 0.875,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Region",
+      "text": "Pinzgau",
+      "score": 0.872,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Region",
+      "text": "Lungau",
+      "score": 0.904,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integration",
+      "score": 0.585,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zugezogene und autochthone Wohnbevölkerung",
+      "score": 0.6,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Angebote und Maßnahmen im Integrationsbereich",
+      "score": 0.443,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "alle Bürger*innen einer Gemeinde",
+      "score": 0.459,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Region",
+      "text": "Pinzgau",
+      "score": 0.889,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 60
+    },
+    {
+      "label": "Region",
+      "text": "Pongau",
+      "score": 0.856,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 60
+    },
+    {
+      "label": "Region",
+      "text": "Lungau",
+      "score": 0.854,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 60
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt Banonda 2018",
+      "score": 0.354,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 60
+    },
+    {
+      "label": "Region",
+      "text": "Schwarzach",
+      "score": 0.417,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 60
+    },
+    {
+      "label": "Region",
+      "text": "Lend",
+      "score": 0.7,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 60
+    },
+    {
+      "label": "Region",
+      "text": "Bischofshofen",
+      "score": 0.382,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 60
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.724,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt Banonda",
+      "score": 0.66,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "einheimischen Bevölkerung",
+      "score": 0.525,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.85,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.851,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Wohngenossenschaften",
+      "score": 0.456,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "autochtone Bevölkerung",
+      "score": 0.494,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt Banonda",
+      "score": 0.458,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.813,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 67
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.46,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 68
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.769,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 68
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "interkultureller Dialog",
+      "score": 0.367,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Sprachtraining",
+      "score": 0.502,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "interkulturelle Veranstaltungen",
+      "score": 0.554,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Nachbarschaftstreffen",
+      "score": 0.697,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "einheimische Bevölkerung",
+      "score": 0.661,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Zugezogene",
+      "score": 0.687,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Banonda",
+      "score": 0.476,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Projektzielgruppen",
+      "score": 0.422,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 74
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "niederschwelligen Aktionen",
+      "score": 0.718,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 74
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.739,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 74
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Die geplanten Maßnahmen",
+      "score": 0.634,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 82
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.534,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 88
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.761,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.622,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.776,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 99
+    },
+    {
+      "label": "Region",
+      "text": "Region XY",
+      "score": 0.874,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 99
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "autochthone Bevölkerung",
+      "score": 0.543,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "neu Zugezogene",
+      "score": 0.628,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Die Implementierung einer Anlaufstelle für interkulturelle Nachbarschaftskonflikte und Beratung zum Thema Zusammenleben",
+      "score": 0.352,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "einheimischen Bevölkerung",
+      "score": 0.497,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Wirkung",
+      "text": "zu Gute kommen",
+      "score": 0.374,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen mit Fluchthintergrund",
+      "score": 0.578,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 100
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.639,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 103
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zugewanderten",
+      "score": 0.506,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 104
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Schaffung von Kommunikationsräumen",
+      "score": 0.39,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 104
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Einheimischen",
+      "score": 0.417,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 104
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "neu Zugezogenen",
+      "score": 0.55,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 104
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gelungene Integration",
+      "score": 0.375,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 104
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "gesamte Gesellschaft",
+      "score": 0.36,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 104
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.754,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 106
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.864,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 107
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.388,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 107
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.821,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 107
+    },
+    {
+      "label": "Region",
+      "text": "Pongau und Pinzgau",
+      "score": 0.836,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 108
+    },
+    {
+      "label": "Wirkung",
+      "text": "gute Kontakte",
+      "score": 0.426,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 108
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.878,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 108
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "niederschwellige Maßnahmen",
+      "score": 0.487,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 108
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Zusammenarbeit mit unterschiedlichen Institutionen",
+      "score": 0.428,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 108
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.805,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 109
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratungen",
+      "score": 0.746,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 109
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.739,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 109
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielsetzungen",
+      "score": 0.395,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 113
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylsuchenden",
+      "score": 0.68,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 114
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Flüchtlingen und Migrant*innen",
+      "score": 0.413,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 114
+    },
+    {
+      "label": "Region",
+      "text": "8 Bundesländern",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 114
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integrationsprojekte",
+      "score": 0.444,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 114
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "ganzheitlichen Integration",
+      "score": 0.459,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 118
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Fluchtbiographie",
+      "score": 0.714,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 118
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integrationsberatung",
+      "score": 0.513,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 118
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Unterbringung",
+      "score": 0.407,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 118
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen zur Qualifizierung und zum Spracherwerb",
+      "score": 0.595,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 118
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationspartner*innen",
+      "score": 0.575,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 119
+    },
+    {
+      "label": "Region",
+      "text": "österreichweit",
+      "score": 0.757,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 119
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Basisbildungs- und Pflichtschulabschlusskursen",
+      "score": 0.505,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 119
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Finalwohnungen vermittelt",
+      "score": 0.352,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 119
+    },
+    {
+      "label": "Region",
+      "text": "Gemeinden",
+      "score": 0.405,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 123
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.591,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 123
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Bürgermeister*innen und/oder Gemeindebeauftragten",
+      "score": 0.42,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 124
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Multiplikator*innen der Gemeinden",
+      "score": 0.371,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 124
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.595,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 124
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "fall- und praxisbezogene Integrationsangebote",
+      "score": 0.417,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 124
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.47,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektgemeinden",
+      "score": 0.363,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Wirkung",
+      "text": "gesamtgesellschaftlicher Mehrwert",
+      "score": 0.637,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.783,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 126
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.73,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 126
+    },
+    {
+      "label": "Region",
+      "text": "Salzburg Stadt",
+      "score": 0.5,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 131
+    },
+    {
+      "label": "Region",
+      "text": "Salzburg Land",
+      "score": 0.8,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 131
+    },
+    {
+      "label": "Region",
+      "text": "Tirol",
+      "score": 0.474,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 131
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Sozialmedizinische Beratungsstelle für Anerkannte Flüchtlinge und Subsidiär Schutzberechtigte",
+      "score": 0.436,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 144
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche und junge Erwachsene mit Migrationsbiographie und erhöhtem Förderbedarf",
+      "score": 0.694,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 146
+    },
+    {
+      "label": "Region",
+      "text": "NÖ",
+      "score": 0.964,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 146
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche und junge Erwachsene mit Migrationsbiographie und erhöhtem Förderbedarf",
+      "score": 0.694,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 148
+    },
+    {
+      "label": "Region",
+      "text": "NÖ",
+      "score": 0.964,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 148
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "BACH Vorbereitungskurs zum Nachholen des Pflichtschulabschlusses",
+      "score": 0.36,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 154
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche und junge Erwachsene mit Migrationsbiographie mit erhöhtem Förderbedarf",
+      "score": 0.604,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 154
+    },
+    {
+      "label": "Region",
+      "text": "NÖ",
+      "score": 0.966,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 154
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.464,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Vereinen",
+      "score": 0.435,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektträgern",
+      "score": 0.671,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.904,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.535,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Bürgermeister*innen in 5 Gemeinden",
+      "score": 0.419,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Gemeindevertreter*innen",
+      "score": 0.479,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.524,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Region",
+      "text": "Pinzgau und Pongau",
+      "score": 0.369,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.63,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "maßgeschneiderte Aktivitäten",
+      "score": 0.444,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 165
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielerreichung",
+      "score": 0.569,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 165
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.837,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 169
+    },
+    {
+      "label": "Wirkung",
+      "text": "auf die fachliche Weiterentwicklung der Integrationsangebote einwirken",
+      "score": 0.495,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 169
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.883,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 169
+    },
+    {
+      "label": "Projektziel",
+      "text": "Erhöhung der Beschäftigungsrate",
+      "score": 0.356,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 176
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylberechtigten",
+      "score": 0.584,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 176
+    },
+    {
+      "label": "Projektziel",
+      "text": "Vermittlung von Arbeitsplätzen",
+      "score": 0.563,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 176
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel",
+      "score": 0.743,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 177
+    },
+    {
+      "label": "Projektziel",
+      "text": "Die Förderung eines offenen und friedlichen Miteinanders",
+      "score": 0.589,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 177
+    },
+    {
+      "label": "Projektziel",
+      "text": "Wahrung des sozialen Friedens",
+      "score": 0.484,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 177
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel 1",
+      "score": 0.475,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Projektziel",
+      "text": "Erfolgreiche nachhaltige Vernetzung",
+      "score": 0.541,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "relevanten Akteur*innen",
+      "score": 0.395,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Bürger-meister*innen",
+      "score": 0.461,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Gemeindevertreter*innen",
+      "score": 0.383,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Integrationsbeauftragten",
+      "score": 0.429,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Region",
+      "text": "kommunaler und regionaler Ebene",
+      "score": 0.484,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel 2",
+      "score": 0.707,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 179
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel 3",
+      "score": 0.621,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 180
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Schaffung von niederschwelligen Kommunikations- und Austauschräumen",
+      "score": 0.407,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 180
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "neu zugezogene Menschen",
+      "score": 0.815,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 180
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "ortsansässigen Wohnbevölkerung",
+      "score": 0.512,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 180
+    },
+    {
+      "label": "Projektziel",
+      "text": "Prävention von interkulturellen Konflikten",
+      "score": 0.502,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 180
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel 4",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 182
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "neu Zugezogenen",
+      "score": 0.562,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 182
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel 5",
+      "score": 0.61,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 183
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Stärkung der kulturellen Identität",
+      "score": 0.361,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 183
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel 6",
+      "score": 0.815,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 184
+    },
+    {
+      "label": "Projektziel",
+      "text": "Förderung der gesellschaftlichen Integration",
+      "score": 0.798,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 184
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.796,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 184
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziele",
+      "score": 0.649,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziele",
+      "score": 0.611,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylberechtigte",
+      "score": 0.626,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 191
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.615,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 191
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationspartnern",
+      "score": 0.75,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 191
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "NGOs und andere Initiativen",
+      "score": 0.377,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 191
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.356,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 192
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "niederschwelligen Nachbarschaftsgesprächen",
+      "score": 0.53,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 192
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.572,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 192
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "größeren Begegnunsveranstaltungen",
+      "score": 0.512,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 192
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Interessierte aus der Wohnbevölkerung",
+      "score": 0.583,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 192
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "neu zugezogene Menschen",
+      "score": 0.68,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 192
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Veranstaltungen",
+      "score": 0.381,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 192
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Partner*innen",
+      "score": 0.596,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 192
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "dritten unabhängigen Partei",
+      "score": 0.556,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 193
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Bewohner*innen",
+      "score": 0.365,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 193
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Nachbarschaftstreffen",
+      "score": 0.434,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.693,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.678,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Flüchtlinge",
+      "score": 0.866,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Vermieter*innen",
+      "score": 0.569,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Nachbar*innen",
+      "score": 0.521,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Ehrenamtliche",
+      "score": 0.669,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.601,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.503,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 196
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "interessierte Gruppen",
+      "score": 0.777,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 196
+    },
+    {
+      "label": "Region",
+      "text": "Pinzgau",
+      "score": 0.888,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 196
+    },
+    {
+      "label": "Region",
+      "text": "Pongau",
+      "score": 0.907,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 196
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.606,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 196
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "alle Interessierten",
+      "score": 0.663,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 196
+    },
+    {
+      "label": "Projektziel",
+      "text": "Evaluierung",
+      "score": 0.436,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 196
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel des Projekts",
+      "score": 0.388,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 196
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.583,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 196
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "neu Zugezogenen",
+      "score": 0.722,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 197
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Wohnbevölkerung",
+      "score": 0.557,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 197
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "gemeinsame Exkursionen",
+      "score": 0.454,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 197
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kräuterwanderungen",
+      "score": 0.675,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 197
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Brotbackworkshops",
+      "score": 0.64,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 197
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.508,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 197
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Interkulturelle Kompetenz",
+      "score": 0.694,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 197
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendliche",
+      "score": 0.928,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 199
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "gemeinsame Veranstaltung",
+      "score": 0.642,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 199
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Poetry Slams",
+      "score": 0.711,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 199
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.729,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 199
+    },
+    {
+      "label": "Projektziel",
+      "text": "Projektziels",
+      "score": 0.834,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 203
+    },
+    {
+      "label": "Region",
+      "text": "ländlichen Raum",
+      "score": 0.848,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 204
+    },
+    {
+      "label": "Region",
+      "text": "Pinzgau",
+      "score": 0.945,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 204
+    },
+    {
+      "label": "Region",
+      "text": "Pongau",
+      "score": 0.901,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 204
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zugewanderte",
+      "score": 0.639,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 204
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Einheimische",
+      "score": 0.613,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 204
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Banonda",
+      "score": 0.423,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 204
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Bedienstete von Schulen und Kindergärten",
+      "score": 0.443,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 204
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern und Jugendlichen",
+      "score": 0.753,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 204
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kulturverein Brücken BauenFlüchtlingsdienst",
+      "score": 0.515,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 204
+    },
+    {
+      "label": "Wirkung",
+      "text": "Erfolg",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 204
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "neu zugezogenen Menschen",
+      "score": 0.49,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 204
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "einheimische Bevölkerung",
+      "score": 0.522,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 204
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Bürger*innen",
+      "score": 0.594,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 204
+    },
+    {
+      "label": "Projektziel",
+      "text": "Quantitative Ziele",
+      "score": 0.58,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 207
+    },
+    {
+      "label": "Projektziel",
+      "text": "Indikatoren",
+      "score": 0.456,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 207
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.726,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 213
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Niederschwellige Maßnahmen",
+      "score": 0.417,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 214
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Bleib Steh Cafes",
+      "score": 0.499,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 214
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.439,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 227
+    },
+    {
+      "label": "Wirkung",
+      "text": "nachhaltige Wirkung",
+      "score": 0.67,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 227
+    },
+    {
+      "label": "Wirkung",
+      "text": "Multiplikatoreffekt",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 227
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.587,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 228
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.791,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 228
+    },
+    {
+      "label": "Wirkung",
+      "text": "Multiplikatoreffekt",
+      "score": 0.369,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 228
+    },
+    {
+      "label": "Region",
+      "text": "Salzburger Innergebirgs",
+      "score": 0.883,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 231
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Bleib-Steh Cafe",
+      "score": 0.547,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 233
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Folgeaktivitäten",
+      "score": 0.524,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 233
+    },
+    {
+      "label": "Wirkung",
+      "text": "langfristig ermöglicht",
+      "score": 0.407,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 233
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integrationserfolge",
+      "score": 0.474,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 236
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.645,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 236
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkt",
+      "score": 0.502,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 236
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.604,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 236
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Das Projekt",
+      "score": 0.501,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 237
+    },
+    {
+      "label": "Region",
+      "text": "anderen österreichischen Regionen",
+      "score": 0.667,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 237
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Das Projekt",
+      "score": 0.491,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 241
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "geflüchtete Frauen mit Betreuungspflichten",
+      "score": 0.637,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 241
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.506,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 241
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.601,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 241
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familienmitglieder",
+      "score": 0.542,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 241
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.606,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 241
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen zur Qualitätssicherung",
+      "score": 0.55,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 244
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Personalauswahl",
+      "score": 0.52,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 247
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Personalauswahl",
+      "score": 0.589,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 247
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Assessments",
+      "score": 0.67,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 247
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Sämtliche Veranstaltungen",
+      "score": 0.354,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 249
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.525,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 249
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer",
+      "score": 0.544,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 249
+    },
+    {
+      "label": "Projektziel",
+      "text": "Erfolgsanalyse",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 251
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Umgesetzte Maßnahmen",
+      "score": 0.403,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 17
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.591,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 18
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Begegnungsräume - Dialog und Integration",
+      "score": 0.459,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integration",
+      "score": 0.403,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "neu Zugewanderten",
+      "score": 0.543,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Region",
+      "text": "ländlichen Raum",
+      "score": 0.526,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Region",
+      "text": "Pongau",
+      "score": 0.903,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Region",
+      "text": "Pinzgau",
+      "score": 0.911,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Region",
+      "text": "Flachgau",
+      "score": 0.917,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integration",
+      "score": 0.391,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zugezogene und autochthone Wohnbevölkerung",
+      "score": 0.601,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "wichtigen Akteur*innen",
+      "score": 0.37,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.641,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.498,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.473,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Projektziel",
+      "text": "Begegnung schaffen",
+      "score": 0.39,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Projektziel",
+      "text": "Kennenlernen ermöglichten",
+      "score": 0.5,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Projektziel",
+      "text": "Vorurteile abbauten",
+      "score": 0.489,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielerreichung",
+      "score": 0.479,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziele",
+      "score": 0.717,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.638,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Projektziel",
+      "text": "Hauptziel",
+      "score": 0.396,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 33
+    },
+    {
+      "label": "Projektziel",
+      "text": "Veranstaltungen",
+      "score": 0.442,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 33
+    },
+    {
+      "label": "Projektziel",
+      "text": "Workshops",
+      "score": 0.438,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "geplante Zielgruppe",
+      "score": 0.779,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 33
+    },
+    {
+      "label": "Projektziel",
+      "text": "Teilziel 1.1",
+      "score": 0.477,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 34
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Direktoren an Schulen",
+      "score": 0.454,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 34
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kulturbeauftragten",
+      "score": 0.416,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 34
+    },
+    {
+      "label": "Projektziel",
+      "text": "Teilziel 1.2",
+      "score": 0.438,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 35
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "zugezogene Menschen",
+      "score": 0.621,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 35
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "ortsansässigen Wohnbevölkerung",
+      "score": 0.421,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 35
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Prävention von interklultrellen Konflikten",
+      "score": 0.363,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 35
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Bürgermeister*innen /Vizebürgermeister*innen",
+      "score": 0.615,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 35
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Wohnbaugenossenschaften",
+      "score": 0.571,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 35
+    },
+    {
+      "label": "Projektziel",
+      "text": "Teilziel 1.3",
+      "score": 0.382,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 36
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Interkulturelle Kompetenz",
+      "score": 0.41,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 37
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Gastein Hift!",
+      "score": 0.474,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 37
+    },
+    {
+      "label": "Projektziel",
+      "text": "Projektziel",
+      "score": 0.77,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Region",
+      "text": "Flachgau",
+      "score": 0.689,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Region",
+      "text": "Innergebirg",
+      "score": 0.509,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.414,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "geflüchtete Frauen",
+      "score": 0.714,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.366,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "geflüchtete Frauen",
+      "score": 0.789,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Region",
+      "text": "Innergebirge",
+      "score": 0.519,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.564,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.407,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.354,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.356,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Region",
+      "text": "Pinzgau",
+      "score": 0.693,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 50
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "geflüchtete und autochtone Frauen",
+      "score": 0.697,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 50
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.674,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 50
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.509,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 50
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.683,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 50
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mobilisatorinnen",
+      "score": 0.417,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mobilisatorinnen",
+      "score": 0.441,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.593,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.61,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.458,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 52
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.771,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 52
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.412,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 52
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "21 Teilnehmer*innen",
+      "score": 0.361,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 55
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Salzburger Bildungssystem und Arbeitsaussichten",
+      "score": 0.508,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 56
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "VS Bad Hofgastein",
+      "score": 0.53,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 62
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.548,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 62
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.492,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 62
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.528,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 62
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.489,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 62
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern",
+      "score": 0.536,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 62
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.462,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 62
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern",
+      "score": 0.533,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 62
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern",
+      "score": 0.599,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 62
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Eltern",
+      "score": 0.406,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 62
+    },
+    {
+      "label": "Region",
+      "text": "Flachgau",
+      "score": 0.951,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylwerber*innen",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylberechtigte",
+      "score": 0.528,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylwerber*innen",
+      "score": 0.726,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Region",
+      "text": "Pongau",
+      "score": 0.845,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 68
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien mit Kindern",
+      "score": 0.513,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 68
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien",
+      "score": 0.449,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 68
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "mind. 8 Kinder",
+      "score": 0.416,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 68
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Pongauerinnen",
+      "score": 0.355,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 68
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Agenturen",
+      "score": 0.793,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 71
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.695,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 77
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "das Projekt",
+      "score": 0.371,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 77
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.577,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 78
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Multiplikatoren",
+      "score": 0.424,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 79
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "viele Menschen",
+      "score": 0.446,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 79
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.831,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 79
+    },
+    {
+      "label": "Wirkung",
+      "text": "nachhaltige Wirkung",
+      "score": 0.819,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 80
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer*innen",
+      "score": 0.63,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 80
+    },
+    {
+      "label": "Projektziel",
+      "text": "vertraglichen Ziele",
+      "score": 0.414,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 86
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "240 Personen",
+      "score": 0.481,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektziel",
+      "text": "interkulturellen Dialoges",
+      "score": 0.492,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektziel",
+      "text": "Abbaues von Vorurteilen",
+      "score": 0.447,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.659,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.53,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.635,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.669,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.611,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen aus der Zielgruppe",
+      "score": 0.5,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Bildungsworkshops",
+      "score": 0.559,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Worshops zu interkulturellen Themen",
+      "score": 0.436,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Tanzworkshops",
+      "score": 0.525,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Digitalisierungsworkshop",
+      "score": 0.622,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 89
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "139 Personen",
+      "score": 0.63,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 90
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinderbetreuung",
+      "score": 0.445,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 91
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationspartner*innen",
+      "score": 0.578,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 91
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "österreichische Bundesregierung",
+      "score": 0.462,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 102
+    },
+    {
+      "label": "Wirkung",
+      "text": "Folgewirkungen",
+      "score": 0.509,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 102
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Verzögerungen",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 102
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Einführung von Kurzarbeit",
+      "score": 0.489,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 102
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Mietzinsreduktionen",
+      "score": 0.654,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 102
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Nutzung alternativer Infrastruktur",
+      "score": 0.354,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 102
+    },
+    {
+      "label": "Region",
+      "text": "Projektgebiet",
+      "score": 0.797,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 104
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektziele",
+      "score": 0.516,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 104
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.859,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 104
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "subsidiär Schutzberechtigten und Asylberechtigten Personen",
+      "score": 0.552,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 105
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.819,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 105
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.76,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 105
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Digitalisierung",
+      "score": 0.389,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 106
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Interessent*innen",
+      "score": 0.496,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 106
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Digitalisierungs-Einzelworkshops",
+      "score": 0.465,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 106
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Interkulturelle Kompetenz",
+      "score": 0.473,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 106
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauenrechte",
+      "score": 0.502,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 106
+    },
+    {
+      "label": "Projektziel",
+      "text": "Projektziel",
+      "score": 0.871,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 108
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "ein breiteres Publikum",
+      "score": 0.492,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 108
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.853,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 108
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen zur Qualitätssicherung",
+      "score": 0.579,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 115
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Veranstaltungen",
+      "score": 0.37,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 119
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.552,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 119
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer*innen",
+      "score": 0.58,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 119
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Mobilisator*innen",
+      "score": 0.509,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 119
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.455,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 119
+    },
+    {
+      "label": "Projektziel",
+      "text": "Erfolgsanalyse",
+      "score": 0.391,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 121
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.689,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 123
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Bleib-Steh-Cafe",
+      "score": 0.498,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 126
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Folgeaktivitäten",
+      "score": 0.49,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 126
+    },
+    {
+      "label": "Wirkung",
+      "text": "langfristig ermöglicht",
+      "score": 0.408,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 126
+    }
+  ]
+}

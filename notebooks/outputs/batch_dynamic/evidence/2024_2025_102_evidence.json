@@ -1,0 +1,2421 @@
+{
+  "bundle": {
+    "key": "2024_2025:102",
+    "year_folder": "2024_2025",
+    "project_number": "102",
+    "project_slug": "miteinander-stark",
+    "soll_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Indikatorenblatt.xlsx",
+    "ist_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Indikatorenbericht.xlsx",
+    "project_description": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+    "final_report": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+    "file_count": 4
+  },
+  "project_meta": {
+    "projekttraeger": {
+      "value": "",
+      "confidence": 0.764,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Indikatorenbericht.xlsx",
+        "sheet": "1. ZWB",
+        "matched_label": "Angaben zum Projekt",
+        "label_cell": "I4",
+        "value_cell": null
+      }
+    },
+    "projekttitel": {
+      "value": "Miteinander stark – Antisemitismusprävention und Demokratiebildung für Jugendliche",
+      "confidence": 0.697,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Projekttitel",
+        "label_cell": "C5",
+        "value_cell": "D5"
+      }
+    },
+    "projektnummer": {
+      "value": "102-2024/25",
+      "confidence": 0.844,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Projektnummer",
+        "label_cell": "C6",
+        "value_cell": "D6"
+      }
+    },
+    "laufzeit_beginn": {
+      "value": "2024-01-01",
+      "confidence": 0.818,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Laufzeit Beginn",
+        "label_cell": "C9",
+        "value_cell": "D9"
+      }
+    },
+    "laufzeit_ende": {
+      "value": "2025-12-31",
+      "confidence": 0.794,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Laufzeit Ende",
+        "label_cell": "C10",
+        "value_cell": "D10"
+      }
+    },
+    "hauptprojektstandort": {
+      "value": "Steiermark",
+      "confidence": 0.901,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Hauptprojektstandort",
+        "label_cell": "C8",
+        "value_cell": "D8"
+      }
+    }
+  },
+  "main_kpi": {
+    "indikator": "Anzahl der Projektteilnehmenden gesamt",
+    "soll": 2650,
+    "ist": 2927,
+    "erfuellung_prozent": 136.1,
+    "confidence": 0.763,
+    "evidence": {
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Indikatorenbericht.xlsx",
+      "sheet": "EB",
+      "global_header_rows": [
+        9,
+        10
+      ],
+      "local_header_rows": [
+        9,
+        10
+      ],
+      "indicator_col": 3,
+      "indicator_row": 11,
+      "matched_indicator": "Anzahl der Projektteilnehmenden gesamt",
+      "soll_header": "Anzahl SOLL lt. Vertrag",
+      "soll_cell": "D11",
+      "ist_header": "Anzahl IST - gesamt - berichtigt",
+      "ist_cell": "R11",
+      "percent_header": "Erfüllt in %",
+      "percent_cell": "S11"
+    }
+  },
+  "target_group_evidence": [
+    {
+      "score": 0.842,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 2,
+      "text": "Jugendliche und junge Erwachsene mit Migrationshintergrund zwischen 12 und 21; Studierende des Lehramts, der Pädagogik und der Sozialen Arbeit; Mitarbeitende der Jugendarbeit"
+    },
+    {
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21,
+      "text": "Durch die jahrzehntelange Tätigkeit im Handlungsfeld Migration/Integration verfügt VEREIN RESPEKT & VIELFALT ÖSTERREICH über Expertise in folgenden Schwerpunkten: Gesundheit: niederschwelliges Suchtpräventionsprojekt für Migrant*innen; Bewegungsprojekt für Migrant*innen Jugend: Beschäftigung (DER2WEG), Radikalisierungsprävention (Vorurteile überwinden/ MyVoice.MyPower), offene Jugendarbeit (Jugendzentrum ECHO) Kultur: unterschiedliche Ausstellungen, Publikationen zum Schwerpunkt Integration/Migration, Migrationssammlung Stadtteilarbeit: Konfliktmanagement, Zusammenleben in Gemeinschaft Mitglied im No Hate Speech Komitee/steirische Plattform gegen Extremismus"
+    },
+    {
+      "score": 0.753,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20,
+      "text": "Seit 2002 führt VEREIN RESPEKT & VIELFALT ÖSTERREICH unterschiedliche Projekte durch, die auf die Inklusion von Menschen mit Migrationserfahrung bzw. den gesellschaftlichen Zusammenhalt Menschen unterschiedlicher Kulturen abzielen. Die Schwerpunkte von VEREIN RESPEKT & VIELFALT ÖSTERREICH liegen in der Jugendarbeit (Jugendzentrum seit 2007, Radikalisierungsprävention, Beschäftigung), der Gesundheitsförderung (u.a. mit Bezug auf migrantisierte Communities), der Stadtteilarbeit (seit 2017) wie auch der Kulturarbeit, wo ein besonderer Fokus auf die Visibilisierung von Migrationsgeschichte gelegt wird."
+    }
+  ],
+  "measures_evidence": [
+    {
+      "score": 0.695,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 97,
+      "text": "3.1.3. Erfahrung in der Projektabwicklung"
+    },
+    {
+      "score": 0.682,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 52,
+      "text": "Welchem Förderungsschwerpunkt wird das Projekt zugeordnet? (Nur Einfachnennung möglich)"
+    },
+    {
+      "score": 0.678,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 38,
+      "text": "Abweichungen bei Projektmaßnahmen und der Zielgruppe (max. 10 Zeilen):"
+    }
+  ],
+  "gliner_entities": [
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.744,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 21
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.859,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "umzusetzende Maßnahmen",
+      "score": 0.611,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 25
+    },
+    {
+      "label": "Wirkung",
+      "text": "nachhaltige Wirkung",
+      "score": 0.588,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.927,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Region",
+      "text": "Einzugsgebiet",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Region",
+      "text": "Regionale Abdeckung",
+      "score": 0.54,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 38
+    },
+    {
+      "label": "Region",
+      "text": "Regionen",
+      "score": 0.608,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Alle genannten Maßnahmen",
+      "score": 0.493,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.925,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Region",
+      "text": "Ballungsraums Graz",
+      "score": 0.55,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Die Lehrveranstaltungen und Fortbildungen",
+      "score": 0.433,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 42
+    },
+    {
+      "label": "Region",
+      "text": "überregional",
+      "score": 0.497,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 42
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Uni Krems",
+      "score": 0.494,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 42
+    },
+    {
+      "label": "Region",
+      "text": "Kärnten",
+      "score": 0.763,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 42
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.706,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.741,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 56
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen aus einer der folgenden spezifischen Zielgruppen",
+      "score": 0.763,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 59
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.477,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 59
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "spezifischen Zielgruppen",
+      "score": 0.63,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 59
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.648,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 62
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.876,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 64
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenerreichung",
+      "score": 0.464,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.635,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 72
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.697,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 74
+    },
+    {
+      "label": "Wirkung",
+      "text": "Langfristige Wirkung",
+      "score": 0.699,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 78
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.434,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 80
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.715,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 80
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmende",
+      "score": 0.669,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 83
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.777,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 83
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.751,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 83
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "konkreten Maßnahmen zur Qualitätssicherung",
+      "score": 0.385,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Supervision",
+      "score": 0.782,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Teambesprechungen",
+      "score": 0.744,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Evaluierungen",
+      "score": 0.827,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "konkreten Maßnahmen zur Qualitätssicherung",
+      "score": 0.39,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 87
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielsetzungen",
+      "score": 0.381,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 92
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "förderungsnehmende Organisation/Verein",
+      "score": 0.535,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 92
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "förderungsnehmende Organisation/Verein",
+      "score": 0.449,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 92
+    },
+    {
+      "label": "Projektziel",
+      "text": "Projektziele",
+      "score": 0.623,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 111
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikatoren",
+      "score": 0.574,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 111
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.584,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 117
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielerreichung",
+      "score": 0.572,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 117
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.375,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 117
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.457,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 117
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "3 Kurse",
+      "score": 0.411,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 121
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratung",
+      "score": 0.397,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 122
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratung",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 122
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshopreihe",
+      "score": 0.622,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 123
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Wie viele Personen",
+      "score": 0.593,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 124
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursen",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 126
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutschkursen",
+      "score": 0.6,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 128
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.515,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 130
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.42,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 131
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.404,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 131
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Sie",
+      "score": 0.406,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 133
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 1",
+      "score": 0.742,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 138
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 138
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.774,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 141
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 145
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 145
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 3",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 149
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 153
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 153
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 4",
+      "score": 0.767,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 157
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 161
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 161
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 5",
+      "score": 0.735,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 165
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 169
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 169
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 6",
+      "score": 0.832,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 173
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 177
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 177
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 7",
+      "score": 0.834,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 181
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 185
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 185
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 8",
+      "score": 0.826,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 193
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 193
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 9",
+      "score": 0.854,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 197
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 201
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 201
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 10",
+      "score": 0.706,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 205
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 209
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 209
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Das Projekt",
+      "score": 0.362,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.709,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.851,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche und junge Erwachsene mit Migrationshintergrund",
+      "score": 0.593,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche mit Migrationshinterund zwischen 12 und 21",
+      "score": 0.512,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mitarbeiter*innen der außerschulischen und schulischen Jugendarbeit",
+      "score": 0.43,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mitarbeiter*innen der Jugendarbeit",
+      "score": 0.403,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "NGOs und Jugendzentren",
+      "score": 0.413,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektmanagement",
+      "score": 0.523,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.815,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.824,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Fachkräfte",
+      "score": 0.36,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Verein Granatapfel",
+      "score": 0.575,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Schulworkshops",
+      "score": 0.371,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.551,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Antisemitismusprävention",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.849,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "VEREIN RESPEKT & VIELFALT ÖSTERREICH",
+      "score": 0.527,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Studierenden",
+      "score": 0.745,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "KF-Universität Graz",
+      "score": 0.58,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "FH JOANNEUM",
+      "score": 0.421,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "PH Steiermark",
+      "score": 0.592,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.881,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 16
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.89,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 16
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Studierende",
+      "score": 0.924,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 16
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Studierenden",
+      "score": 0.794,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 16
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Berufstätige Fachkräfte",
+      "score": 0.591,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 16
+    },
+    {
+      "label": "Region",
+      "text": "PH Steiermark",
+      "score": 0.677,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 16
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.473,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Gleichaltrigen",
+      "score": 0.546,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "LV/FB",
+      "score": 0.515,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Fachkräfte der Jugendarbeit",
+      "score": 0.477,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Fachkräfte der offenen Jugendarbeit",
+      "score": 0.44,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Lehrende",
+      "score": 0.466,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Studierende psychosozialer Berufe/Lehramt",
+      "score": 0.503,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Wirkung",
+      "text": "nachhaltigen Wirkung",
+      "score": 0.835,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationserfahrung",
+      "score": 0.626,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen unterschiedlicher Kulturen",
+      "score": 0.606,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Jugendarbeit",
+      "score": 0.362,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Jugendzentrum",
+      "score": 0.404,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Radikalisierungsprävention",
+      "score": 0.591,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beschäftigung",
+      "score": 0.567,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gesundheitsförderung",
+      "score": 0.6,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Stadtteilarbeit",
+      "score": 0.465,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kulturarbeit",
+      "score": 0.453,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.474,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Fachkräfte",
+      "score": 0.36,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektziel",
+      "text": "Handlungssicherheit",
+      "score": 0.354,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Fachöffentlichkeit",
+      "score": 0.374,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Talkshops",
+      "score": 0.458,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen zwischen 12 und 21",
+      "score": 0.472,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "jüngere Zielgruppe",
+      "score": 0.839,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "jüngere Zielgruppe",
+      "score": 0.834,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "verjüngten Zielgruppe",
+      "score": 0.462,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Challenge",
+      "score": 0.529,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Challenge",
+      "score": 0.516,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Challenge",
+      "score": 0.568,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.614,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.437,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.745,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.564,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Challenge",
+      "score": 0.509,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche",
+      "score": 0.612,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.615,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Fortbildungen",
+      "score": 0.444,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mitarbeiter*innen der schulischen und außerschulischen Jugendarbeit",
+      "score": 0.557,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.458,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.384,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mitarbeiter*innen der offenen Jugendarbeit",
+      "score": 0.566,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Akteur*innen in Jugendprojekten",
+      "score": 0.445,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Schulsozialarbeiter*innen",
+      "score": 0.371,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Fortbildungen",
+      "score": 0.388,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Region",
+      "text": "steiermarkweit",
+      "score": 0.902,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Fachkräfte der Jugendarbeit",
+      "score": 0.402,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Fortbildungen",
+      "score": 0.358,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "angehende Lehrende und Sozialarbeiter*innen",
+      "score": 0.41,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Professionist*innen",
+      "score": 0.454,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.613,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.471,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Pädagog*innen",
+      "score": 0.592,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.658,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kolleg für Sozialpädagogik",
+      "score": 0.467,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.91,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Region",
+      "text": "Kärnten",
+      "score": 0.887,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Region",
+      "text": "Burgenland",
+      "score": 0.909,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "angehende Lehrende und Sozialarbeiter*innen",
+      "score": 0.41,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 35
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Träger der offenen Jugendarbeit",
+      "score": 0.411,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 36
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.706,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 36
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Durchführung des Projekts",
+      "score": 0.388,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 41
+    },
+    {
+      "label": "Projektziel",
+      "text": "Erreichen der inhaltlichen Ziele",
+      "score": 0.687,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 41
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektkoordination",
+      "score": 0.62,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 42
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Berichtswesen und Abrechnungsmanagement",
+      "score": 0.427,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 42
+    },
+    {
+      "label": "Projektziel",
+      "text": "inhaltlichen Zielen",
+      "score": 0.604,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 42
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Relevante Stakeholder*innen",
+      "score": 0.476,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 48
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "VEREIN RESPEKT & VIELFALT ÖSTERREICH",
+      "score": 0.372,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 48
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Netzwerkpartner*innen",
+      "score": 0.478,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 48
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.525,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 20
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.473,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektmaßnahmen",
+      "score": 0.422,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Talkshops",
+      "score": 0.458,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.76,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vernetzungen zum regelmäßigen Austausch",
+      "score": 0.692,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Region",
+      "text": "österreichweit",
+      "score": 0.411,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Wirkung",
+      "text": "Bisherige Wirkung",
+      "score": 0.554,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 33
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Reflexionsprozess",
+      "score": 0.437,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 34
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.626,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 34
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Betreuenden",
+      "score": 0.439,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 34
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Reflexionsprozess",
+      "score": 0.377,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 34
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.771,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 34
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Das Projekt",
+      "score": 0.562,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 36
+    },
+    {
+      "label": "Wirkung",
+      "text": "innovativen Wirkung",
+      "score": 0.707,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 36
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektmaßnahmen",
+      "score": 0.588,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 38
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.852,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 38
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektmaßnahmen",
+      "score": 0.464,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 39
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektmaßnahmen",
+      "score": 0.823,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 42
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "kaufmännischen Maßnahme",
+      "score": 0.579,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.725,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.828,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 47
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.813,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 47
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.84,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 47
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.523,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 47
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenerreichung",
+      "score": 0.484,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 47
+    },
+    {
+      "label": "Wirkung",
+      "text": "Bisherige Wirkung",
+      "score": 0.382,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 50
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.801,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.48,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Wirkung",
+      "text": "schwer messbare Wirkungen",
+      "score": 0.373,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektaktivität",
+      "score": 0.448,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.712,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektmaßnahmen",
+      "score": 0.409,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 52
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektpartnerschaften",
+      "score": 0.709,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 55
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahmen",
+      "score": 0.513,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 55
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Qualitätssicherungsmaßnahmen",
+      "score": 0.52,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 59
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wie haben sich diese auf die Projektumsetzung ausgewirkt",
+      "score": 0.489,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 59
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche zwischen 12 und 21",
+      "score": 0.868,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mitarbeiter*innen der außerschulischen Jugendarbeit",
+      "score": 0.597,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Lehramtsstudierende",
+      "score": 0.902,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche zwischen 12 und 21",
+      "score": 0.818,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mitarbeiter*innen der außerschulischen Jugendarbeit",
+      "score": 0.583,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Lehramtsstudierende",
+      "score": 0.893,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche zwischen 12 und 21",
+      "score": 0.824,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mitarbeiter*innen der außerschulischen Jugendarbeit",
+      "score": 0.587,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Lehramtsstudierende",
+      "score": 0.895,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche zwischen 12 und 21",
+      "score": 0.847,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mitarbeiter*innen der außerschulischen Jugendarbeit",
+      "score": 0.671,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "VEREIN RESPEKT & VIELFALT ÖSTERREICH",
+      "score": 0.417,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Lehramtsstudierende",
+      "score": 0.873,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Studierende der Sozialen Arbeit/Sozialpädagogik",
+      "score": 0.551,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.695,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.551,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.723,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Lehramtsstudierende",
+      "score": 0.635,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mitarbeiter*innen der außerschulischen Jugendarbeit",
+      "score": 0.578,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mitarbeiter*innen der außerschulischen Jugendarbeit",
+      "score": 0.626,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Multiplikator*innen",
+      "score": 0.352,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.758,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.705,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "präventiven Projekten",
+      "score": 0.355,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendarbeiter*innen",
+      "score": 0.72,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.832,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.813,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.865,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.826,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.817,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Region",
+      "text": "Nahost-Konflikt",
+      "score": 0.669,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.815,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.864,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendarbeiter*innen",
+      "score": 0.704,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.683,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendarbeiter*innen",
+      "score": 0.616,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.776,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungen",
+      "score": 0.596,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmende der FB/LV",
+      "score": 0.443,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.633,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.533,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.422,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.39,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.536,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.546,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "neue Jugendliche",
+      "score": 0.638,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.875,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.867,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.862,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Land Steiermark",
+      "score": 0.432,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Zukunftsfonds",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Stadt Graz",
+      "score": 0.389,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.908,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.743,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Geplante Maßnahmen",
+      "score": 0.555,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Lehrveranstaltungen",
+      "score": 0.382,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Geplante Maßnahmen",
+      "score": 0.631,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Lehrveranstaltungen und Fortbildungen",
+      "score": 0.376,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Geplante Maßnahmen",
+      "score": 0.52,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Region",
+      "text": "österreichweit",
+      "score": 0.362,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.629,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.596,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.668,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Gruppe ausgesuchter Jugendlicher",
+      "score": 0.459,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    }
+  ]
+}

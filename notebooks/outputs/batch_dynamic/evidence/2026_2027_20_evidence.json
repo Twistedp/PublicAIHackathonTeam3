@@ -1,0 +1,1962 @@
+{
+  "bundle": {
+    "key": "2026_2027:20",
+    "year_folder": "2026_2027",
+    "project_number": "20",
+    "project_slug": "zusammenleben",
+    "soll_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Indikatoren.xlsx",
+    "ist_excel": null,
+    "project_description": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+    "final_report": null,
+    "file_count": 2
+  },
+  "project_meta": {
+    "projekttraeger": {
+      "value": "Ausfüllhilfe",
+      "confidence": 0.693,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Indikatoren.xlsx",
+        "sheet": "M6",
+        "matched_label": "Titel der Maßnahme lt. Projektbeschreibung",
+        "label_cell": "D3",
+        "value_cell": "J3"
+      }
+    },
+    "projekttitel": {
+      "value": "Zusammenleben",
+      "confidence": 0.697,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Projekttitel",
+        "label_cell": "C6",
+        "value_cell": "D6"
+      }
+    },
+    "projektnummer": {
+      "value": "Oberösterreich",
+      "confidence": 0.624,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Standort Projektmanagment",
+        "label_cell": "C8",
+        "value_cell": "D8"
+      }
+    },
+    "laufzeit_beginn": {
+      "value": "2026-01-01",
+      "confidence": 0.818,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Laufzeit Beginn",
+        "label_cell": "C10",
+        "value_cell": "D10"
+      }
+    },
+    "laufzeit_ende": {
+      "value": "2027-12-31",
+      "confidence": 0.794,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Laufzeit Ende",
+        "label_cell": "C11",
+        "value_cell": "D11"
+      }
+    },
+    "hauptprojektstandort": {
+      "value": "Oberösterreich",
+      "confidence": 0.896,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Haupttprojektstandort",
+        "label_cell": "C9",
+        "value_cell": "D9"
+      }
+    }
+  },
+  "main_kpi": {},
+  "target_group_evidence": [
+    {
+      "score": 0.696,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 29,
+      "text": "Förderung des selbstbestimmten Lebens von Frauen mit Migrationshintergrund durch niederschwellige Bildungs- und Berufsberatung sowie Perspektivenarbeit"
+    },
+    {
+      "score": 0.689,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 37,
+      "text": "Peers aus den Migrant*innen Communities geben durch ihre Erfahrungen praktische Einblicke in Ausbildungen und Berufe und ermutigen als Role Model das „sich Zutrauen“"
+    },
+    {
+      "score": 0.6,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4,
+      "text": "Teilnehmer*innen: Stärkung von Frauen mit Migrationshintergrund mit ihren vielfältigen Kompetenzen, um ihre Teilhabe am Erwerbsleben zu fördern. Systemisch: Verbesserung des Zugangs zu Erwerbschancen für Frauen mit Migrationshintergrund."
+    }
+  ],
+  "measures_evidence": [
+    {
+      "score": 0.727,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 131,
+      "text": "Bei Workshops oder Kursen: Welche Voraussetzungen sind für die Teilnahme erforderlich (wie etwa sprachliche Niveaus)?"
+    },
+    {
+      "score": 0.711,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20,
+      "text": "Wirkungsindikatoren: Multiplikatorinnen – Peers als Referentinnen in Workshops (M3) Zertifikate – Zusammenleben Kursangebote mit einer Anwesenheit von mind. 75 % (M5) Bildungsmaßnahmen – Vermittlung in Qualifizierungsmaßnahmen, wie Deutschkurse, (Berufs-)Ausbildungen (M1, M4) Praktikumsplatz – Schnittstellenmanagement für Praktika/Arbeitserprobungen, Freiwillige Mitarbeit, Ausbildungsplätze im Rahmen von Implacementstiftungen/Pflegestipendien u.a.m. (M2) Arbeitsmarktintegration – konkrete Arbeitsaufnahme (M1, M4) Angebote und Maßnahmen Arbeitsmarktintegration – Vermittlung ins Regelsystem, Berufsorientierung und Kompetenzerhebung (M1-M4)"
+    },
+    {
+      "score": 0.695,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30,
+      "text": "Inhalte: An die Zielgruppe methodisch angepasste Berufsorientierung, Berufs- und Bildungsberatung, Kompetenzstärkung und Perspektivenarbeit Vermittlung von arbeitsmarktpolitischem Systemwissen Beratung hinsichtlich Qualifizierungsmaßnahmen und Finanzierungsmöglichkeiten (AQUA, Implacementstiftungen, verkürzte Lehre, Pflegestipendium u.a.m.) Aufgreifen von Rollenverteilungen bzw. Rollenkonflikten aufgrund traditioneller Wertesysteme in den Familien, evtl. Miteinbindung der Partner in die Beratung Konkrete Arbeits- und Ausbildungsplatzsuche, sofern dies nicht durch Angebote der beruflichen Integration des Regelsystems abgedeckt ist (regional und individuell unterschiedlich) Coaching für den Bewerbungsprozess und Erstellung von Bewerbungsunterlagen Unterstützung bei der Aneignung von digitalen Kenntnissen, wie Bedienung des eAMS-Kontos Voraussetzungen für die Teilnahme: Frauen mit Migrationshintergrund, die einen erschwerten Zugang zum Arbeitsmarkt haben, und eine oder mehrere der angeführten Voraussetzungen erfüllen: kaum/keine beruflichen Erfahrungen in Österreich geringe Deutschkenntnisse bzw. Zugehörigkeit zur Gruppe der Bildungsbenachteiligten von De-Qualifizierung betroffen sind aufgrund der Kinderbetreuung (bzw. fehlenden Kinderbetreuungsmöglichkeiten) zu Hause sind und sich auf den Einstieg in das Arbeitsleben vorbereiten wollen über geringes Systemwissen verfügen und Angebote des Regelsystems kaum nutzen geringe digitale Kompetenzen eingeschränkte Mobilität"
+    }
+  ],
+  "gliner_entities": [
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektinhalt",
+      "score": 0.373,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 20
+    },
+    {
+      "label": "Region",
+      "text": "Regionale Abdeckung",
+      "score": 0.623,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 22
+    },
+    {
+      "label": "Region",
+      "text": "Bundesland",
+      "score": 0.656,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 22
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.682,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 24
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.863,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Umzusetzende Maßnahmen",
+      "score": 0.534,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 28
+    },
+    {
+      "label": "Wirkung",
+      "text": "Nachhaltige Wirkung",
+      "score": 0.696,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 29
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.837,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 36
+    },
+    {
+      "label": "Region",
+      "text": "Einzugsgebiet",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 38
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.858,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.426,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.856,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Region",
+      "text": "Regionale Abdeckung",
+      "score": 0.54,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Region",
+      "text": "Regionen",
+      "score": 0.635,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 42
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.758,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 59
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.741,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 60
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.61,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.876,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 64
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenerreichung",
+      "score": 0.443,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.688,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 71
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "ÖIF",
+      "score": 0.611,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 71
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.688,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 71
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenerreichung",
+      "score": 0.389,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 71
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.696,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 73
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.501,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 74
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenzugehörigkeit",
+      "score": 0.513,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 74
+    },
+    {
+      "label": "Wirkung",
+      "text": "Langfristige Wirkung",
+      "score": 0.699,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 77
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.81,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 78
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.54,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 78
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.392,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 78
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.858,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 80
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.506,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 81
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.504,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 81
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikatoren",
+      "score": 0.574,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 81
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "konkreten Maßnahmen zur Qualitätssicherung",
+      "score": 0.385,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 84
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Supervision",
+      "score": 0.782,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 84
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Teambesprechungen",
+      "score": 0.744,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 84
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Evaluierungen",
+      "score": 0.827,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 84
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "konkreten Maßnahmen zur Qualitätssicherung",
+      "score": 0.39,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 84
+    },
+    {
+      "label": "Projektziel",
+      "text": "Projektziele",
+      "score": 0.445,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 101
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielsetzung",
+      "score": 0.794,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 106
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.875,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 106
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.408,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 106
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.584,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 110
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielerreichung",
+      "score": 0.572,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 110
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.375,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 110
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.457,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 110
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "3 Kurse",
+      "score": 0.411,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 119
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratung",
+      "score": 0.397,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratung",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshopreihe",
+      "score": 0.622,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 121
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursen",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 125
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutschkursen",
+      "score": 0.6,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 127
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Wie viele Personen",
+      "score": 0.593,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 130
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.488,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 131
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.42,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 132
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.404,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 132
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Sie",
+      "score": 0.406,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 1",
+      "score": 0.742,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 136
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 142
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 142
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.774,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 145
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 151
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 151
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 3",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 154
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 160
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 160
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 4",
+      "score": 0.767,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 169
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 169
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 5",
+      "score": 0.735,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 172
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 6",
+      "score": 0.832,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 181
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 187
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 187
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 7",
+      "score": 0.834,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 190
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 196
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 196
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 8",
+      "score": 0.826,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 202
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 208
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 208
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 9",
+      "score": 0.854,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 215
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 221
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 221
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen mit Migrationshintergrund",
+      "score": 0.815,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Berufsorientierungsangeboten",
+      "score": 0.491,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Peer Workshops",
+      "score": 0.697,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Berufsbildexkursionen",
+      "score": 0.636,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Unterstützung bei der Suche nach Schnupper- und Praktikumsmöglichkeiten",
+      "score": 0.551,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vorbereitungskursen für den Führerscheinerwerb",
+      "score": 0.409,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Region",
+      "text": "Oberösterreich",
+      "score": 0.961,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen mit Migrationshintergrund",
+      "score": 0.919,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen mit Migrationshintergrund",
+      "score": 0.922,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 1",
+      "score": 0.609,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.705,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Schnittstellenmanagement: Schnuppern und Praktika",
+      "score": 0.533,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 3",
+      "score": 0.693,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Peer Workshops",
+      "score": 0.655,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 4",
+      "score": 0.7,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Berufsbildexkursionen",
+      "score": 0.545,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 5",
+      "score": 0.697,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vorbereitungskurse für den Führerscheinerwerb",
+      "score": 0.399,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "arbeitsmarktfernen und bildungsbenachteiligten Frauen",
+      "score": 0.561,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Region",
+      "text": "OÖ",
+      "score": 0.935,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vorqualifizierungs- und Berufsausbildungsmaßnahmen",
+      "score": 0.402,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Region",
+      "text": "OÖ",
+      "score": 0.638,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 10
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.402,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 10
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.396,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 10
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Zusammenleben",
+      "score": 0.603,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 11
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen mit Migrationshintergrund",
+      "score": 0.87,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 11
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.943,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 11
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Zusammenleben",
+      "score": 0.677,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 11
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Zusammenleben",
+      "score": 0.536,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 11
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "theoretische Lernunterstützung beim Führerscheinerwerb",
+      "score": 0.546,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 11
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Peer Workshops",
+      "score": 0.613,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 11
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Berufsbildexkursionen",
+      "score": 0.701,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 11
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Bildung",
+      "score": 0.427,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 12
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitsmarktintegrative Maßnahmen",
+      "score": 0.772,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 12
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Selbstbestimmung und Gleichstellung",
+      "score": 0.371,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 12
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen gegen Segregation",
+      "score": 0.597,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 12
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylberechtigte und subsidiär Schutzberechtigte",
+      "score": 0.519,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 14
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "EU-Bürgerinnen und EU-Bürger",
+      "score": 0.566,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 14
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Österreicherinnen und Österreicher mit Migrationshintergrund",
+      "score": 0.514,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 14
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mehrheitsbevölkerung",
+      "score": 0.648,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 14
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.609,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Sprachkursen",
+      "score": 0.377,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kurse",
+      "score": 0.379,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Einmalige Angebote",
+      "score": 0.411,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Peer Workshops",
+      "score": 0.468,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Exkursionen",
+      "score": 0.359,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kurse",
+      "score": 0.4,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Projektziel",
+      "text": "berufliche Ziele",
+      "score": 0.406,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Einzelne",
+      "score": 0.479,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Projektziel",
+      "text": "Empowerment",
+      "score": 0.478,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Projektziel",
+      "text": "berufliche Ziele",
+      "score": 0.465,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Peers",
+      "score": 0.46,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutschkurse",
+      "score": 0.365,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Freiwillige Mitarbeit",
+      "score": 0.38,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitsmarktintegration",
+      "score": 0.547,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitsmarktintegration",
+      "score": 0.579,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Qualitätssicherung",
+      "score": 0.37,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Strategieentwicklung",
+      "score": 0.568,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mitarbeiter:innen",
+      "score": 0.389,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Supervision",
+      "score": 0.457,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrations- bzw. Fluchthintergrund",
+      "score": 0.837,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrations- bzw. Fluchthintergrund",
+      "score": 0.839,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen in existenziellen Notlagen",
+      "score": 0.833,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektmanagement",
+      "score": 0.449,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Zusammenarbeit mit öffentlichen Einrichtungen",
+      "score": 0.369,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Freiwilligenarbeit",
+      "score": 0.421,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Bildung",
+      "score": 0.448,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Sprachförderung",
+      "score": 0.649,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Elternarbeit",
+      "score": 0.632,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integrationsberatung",
+      "score": 0.586,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Wertevermittlung",
+      "score": 0.551,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "regionale Integration",
+      "score": 0.461,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Wohnversorgung",
+      "score": 0.564,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Region",
+      "text": "Oberösterreich",
+      "score": 0.902,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrations- bzw. Fluchthintergrund",
+      "score": 0.809,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Orientierungs- und Informationsangeboten",
+      "score": 0.499,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.853,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.914,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.685,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.934,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.805,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.864,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.488,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 1",
+      "score": 0.531,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.603,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "MSOs",
+      "score": 0.384,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kern-Zielgruppe",
+      "score": 0.439,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 3",
+      "score": 0.363,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Peer Workshops",
+      "score": 0.476,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Peer Workshops",
+      "score": 0.358,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratungen",
+      "score": 0.673,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 28
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratungen",
+      "score": 0.541,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 28
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmerinnen",
+      "score": 0.585,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 28
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmerinnen",
+      "score": 0.475,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 28
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen mit Migrationshintergrund",
+      "score": 0.697,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 29
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Partner",
+      "score": 0.363,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Region",
+      "text": "regional",
+      "score": 0.43,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen mit Migrationshintergrund",
+      "score": 0.659,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "freiwilligen Tätigkeiten",
+      "score": 0.482,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Praktika",
+      "score": 0.47,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.673,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Implacementstiftungen",
+      "score": 0.704,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Bildungsträger",
+      "score": 0.362,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "NGOs",
+      "score": 0.405,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Schnittstellenmanagement",
+      "score": 0.574,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmerinnen",
+      "score": 0.703,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Schnittstellenmanagement",
+      "score": 0.54,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmerinnen",
+      "score": 0.695,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmerin",
+      "score": 0.47,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 32
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Freiwilliges Engagement",
+      "score": 0.59,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Praktika",
+      "score": 0.564,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitserprobung/-training",
+      "score": 0.427,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zusammenleben Zielgruppe",
+      "score": 0.659,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Zusammenleben",
+      "score": 0.503,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zugangshürden abzubauen",
+      "score": 0.39,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Freiwilliges Engagement",
+      "score": 0.727,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Schnupperpraktika",
+      "score": 0.533,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Stiftungsträger:innen",
+      "score": 0.427,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitserprobung/Arbeitstraining",
+      "score": 0.58,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmerinnen",
+      "score": 0.511,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen in Elternkarenz",
+      "score": 0.44,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.534,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 36
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.701,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 36
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.747,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 36
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Peers",
+      "score": 0.601,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 36
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.493,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 36
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Peer Workshops",
+      "score": 0.351,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 38
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.737,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 38
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Peers",
+      "score": 0.528,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 38
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Peers",
+      "score": 0.42,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 38
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.561,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 38
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kleingruppen á 8 Teilnehmerinnen",
+      "score": 0.351,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 40
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Unternehmen",
+      "score": 0.42,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 40
+    },
+    {
+      "label": "Region",
+      "text": "Österreich",
+      "score": 0.548,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 42
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen mit Migrationshintergrund",
+      "score": 0.878,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 42
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Exkursionen",
+      "score": 0.469,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 42
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Exkursionen",
+      "score": 0.532,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 42
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.48,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 42
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen mit Aufenthaltsstatus",
+      "score": 0.698,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 42
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmerinnen",
+      "score": 0.38,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 44
+    },
+    {
+      "label": "Region",
+      "text": "ländlichen Regionen",
+      "score": 0.893,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 46
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen mit Migrationshintergrund",
+      "score": 0.839,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 46
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.452,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 46
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen mit Aufenthaltsstatus",
+      "score": 0.705,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 46
+    }
+  ]
+}

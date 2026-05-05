@@ -1,0 +1,1973 @@
+{
+  "bundle": {
+    "key": "2024_2025:131",
+    "year_folder": "2024_2025",
+    "project_number": "131",
+    "project_slug": "finish-strong",
+    "soll_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Indikatoren.xlsx",
+    "ist_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Indikatorenbericht.xlsx",
+    "project_description": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+    "final_report": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+    "file_count": 4
+  },
+  "project_meta": {
+    "projekttraeger": {
+      "value": "",
+      "confidence": 0.764,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Indikatorenbericht.xlsx",
+        "sheet": "1. ZWB",
+        "matched_label": "Angaben zum Projekt",
+        "label_cell": "I4",
+        "value_cell": null
+      }
+    },
+    "projekttitel": {
+      "value": "Finish Strong – Prüfungsvorbereitung und Begleitung für Lehrling",
+      "confidence": 0.697,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Projekttitel",
+        "label_cell": "C5",
+        "value_cell": "D5"
+      }
+    },
+    "projektnummer": {
+      "value": "131-2024/25",
+      "confidence": 0.844,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Projektnummer",
+        "label_cell": "C6",
+        "value_cell": "D6"
+      }
+    },
+    "laufzeit_beginn": {
+      "value": "2024-01-01",
+      "confidence": 0.818,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Laufzeit Beginn",
+        "label_cell": "C9",
+        "value_cell": "D9"
+      }
+    },
+    "laufzeit_ende": {
+      "value": "2025-12-31",
+      "confidence": 0.794,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Laufzeit Ende",
+        "label_cell": "C10",
+        "value_cell": "D10"
+      }
+    },
+    "hauptprojektstandort": {
+      "value": "Tirol",
+      "confidence": 0.901,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Hauptprojektstandort",
+        "label_cell": "C8",
+        "value_cell": "D8"
+      }
+    }
+  },
+  "main_kpi": {
+    "indikator": "Anzahl der Projektteilnehmenden gesamt",
+    "soll": 194,
+    "ist": 82,
+    "erfuellung_prozent": 113.9,
+    "confidence": 0.763,
+    "evidence": {
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Indikatorenbericht.xlsx",
+      "sheet": "EB",
+      "global_header_rows": [
+        9,
+        10
+      ],
+      "local_header_rows": [
+        9,
+        10
+      ],
+      "indicator_col": 3,
+      "indicator_row": 11,
+      "matched_indicator": "Anzahl der Projektteilnehmenden gesamt",
+      "soll_header": "Anzahl SOLL lt. Vertrag",
+      "soll_cell": "D11",
+      "ist_header": "Anzahl IST - gesamt - berichtigt",
+      "ist_cell": "R11",
+      "percent_header": "Erfüllt in %",
+      "percent_cell": "S11"
+    }
+  },
+  "target_group_evidence": [
+    {
+      "score": 0.69,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1,
+      "text": "Das Projekt Finish Strong unterstützt junge Lehrlinge und im Arbeitsprozess stehende, niedrigqualifizierte Erwachsene mit Migrationshintergrund (Personen mit nicht deutscher Erstsprache) auf ihrem Weg das Ziel \"Lehrabschlussprüfung\" zu erreichen. Damit sollen bildungsbenachteiligte Personen aus der Zielgruppe höherqualifiziert werden, um dem Arbeitsmarkt als Fachpersonal zur Verfügung zu stehen. Das niederschwellige und individualisierte Projektangebot kann den unterschiedlichsten Bedarfen von erwachsenen Lernenden sehr effizient und flexibel begegnen."
+    },
+    {
+      "score": 0.576,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 12,
+      "text": "Kleinkinder | Schülerinnen und Schüler | Jugendliche | Frauen"
+    },
+    {
+      "score": 0.554,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22,
+      "text": "Das Qualifizierung & Karriere GmbHhat eine langjährige Erfahrung in der Zusammenarbeit mit nationalen und internati-onalen öffentlichen Einrichtungen in Bezug auf Arbeitsmarkt relevante Bildungsprojekte. Hierzu zählen die Entwicklung, Umsetzung und Bewertung von öffentlich finanzierten Projekten für unterschiedlichste Randgruppen und bildungsbenachteiligte Personen - Erwachsene wie auch Jugendliche. Das hiermit eingereichte Projekt wurde erstmals im Jahr 2019 mit einem innovativen Projektkonzept vom Qualifizierung & Karriere GmbHbei der nationalen Integrationsförderung eingereicht und durchgängig auch mit Kofinanzierung des Landes Tirol bis 2023 erfolgreich umgesetzt und finanziert. Das Projektkonzept wurde über die Jahre hinweg verfeinert und bildet die Basis für den Erfolg des laufenden Projekts."
+    }
+  ],
+  "measures_evidence": [
+    {
+      "score": 0.715,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22,
+      "text": "Das Qualifizierung & Karriere GmbHhat eine langjährige Erfahrung in der Zusammenarbeit mit nationalen und internati-onalen öffentlichen Einrichtungen in Bezug auf Arbeitsmarkt relevante Bildungsprojekte. Hierzu zählen die Entwicklung, Umsetzung und Bewertung von öffentlich finanzierten Projekten für unterschiedlichste Randgruppen und bildungsbenachteiligte Personen - Erwachsene wie auch Jugendliche. Das hiermit eingereichte Projekt wurde erstmals im Jahr 2019 mit einem innovativen Projektkonzept vom Qualifizierung & Karriere GmbHbei der nationalen Integrationsförderung eingereicht und durchgängig auch mit Kofinanzierung des Landes Tirol bis 2023 erfolgreich umgesetzt und finanziert. Das Projektkonzept wurde über die Jahre hinweg verfeinert und bildet die Basis für den Erfolg des laufenden Projekts."
+    },
+    {
+      "score": 0.704,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17,
+      "text": "Nach Teilnahme am Projekt sollen die Teilnehmenden dazu befähigt sein, den Weg Richtung LAP selbstständig weiterzuverfolgen oder die LAP positiv zu bestehen und somit die nachhaltige Integration in den Arbeitsmarkt als qualifizierte Fachkräfte zu schaffen. Durch das Projekt werden aber auch Lehrbetriebe und Berufsschulen in ihrer Ausbildungstätigkeit von Personen nicht deutscher Erstsprache unterstützt."
+    },
+    {
+      "score": 0.695,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 100,
+      "text": "3.1.3. Erfahrung in der Projektabwicklung"
+    }
+  ],
+  "gliner_entities": [
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.744,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 22
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.859,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 24
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "umzusetzende Maßnahmen",
+      "score": 0.611,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 26
+    },
+    {
+      "label": "Wirkung",
+      "text": "nachhaltige Wirkung",
+      "score": 0.588,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 28
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.927,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Region",
+      "text": "Einzugsgebiet",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Region",
+      "text": "Regionale Abdeckung",
+      "score": 0.54,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 39
+    },
+    {
+      "label": "Region",
+      "text": "Regionen",
+      "score": 0.608,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.706,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 55
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.741,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 57
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen aus einer der folgenden spezifischen Zielgruppen",
+      "score": 0.763,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 60
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.477,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 60
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "spezifischen Zielgruppen",
+      "score": 0.63,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 60
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.648,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.876,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenerreichung",
+      "score": 0.464,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 71
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.635,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 73
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.697,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Wirkung",
+      "text": "Langfristige Wirkung",
+      "score": 0.699,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 79
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.434,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 81
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.715,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 81
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmende",
+      "score": 0.669,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 84
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.777,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 84
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.751,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 84
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "konkreten Maßnahmen zur Qualitätssicherung",
+      "score": 0.385,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 88
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Supervision",
+      "score": 0.782,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 88
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Teambesprechungen",
+      "score": 0.744,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 88
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Evaluierungen",
+      "score": 0.827,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 88
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "konkreten Maßnahmen zur Qualitätssicherung",
+      "score": 0.39,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 88
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielsetzungen",
+      "score": 0.381,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 94
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "förderungsnehmende Organisation/Verein",
+      "score": 0.535,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 94
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "förderungsnehmende Organisation/Verein",
+      "score": 0.449,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 94
+    },
+    {
+      "label": "Projektziel",
+      "text": "Projektziele",
+      "score": 0.623,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 114
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikatoren",
+      "score": 0.574,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 114
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.584,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 122
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielerreichung",
+      "score": 0.572,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 122
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.375,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 122
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.457,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 122
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "3 Kurse",
+      "score": 0.411,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 126
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratung",
+      "score": 0.397,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 127
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratung",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 127
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshopreihe",
+      "score": 0.622,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 128
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Wie viele Personen",
+      "score": 0.593,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 129
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursen",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 131
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutschkursen",
+      "score": 0.6,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 133
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.515,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 135
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.42,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 136
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.404,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 136
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Sie",
+      "score": 0.406,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 138
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 1",
+      "score": 0.742,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 140
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 144
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 144
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.774,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 149
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 153
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 153
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 3",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 157
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 161
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 161
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Finish Strong",
+      "score": 0.493,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Finish Strong",
+      "score": 0.447,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "junge Lehrlinge",
+      "score": 0.48,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektziel",
+      "text": "Lehrabschlussprüfung",
+      "score": 0.437,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "bildungsbenachteiligte Personen",
+      "score": 0.539,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen nicht deutscher Erstsprache",
+      "score": 0.379,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen in Vorbereitung auf oder in einem Lehrverhältnis",
+      "score": 0.751,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen",
+      "score": 0.425,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Fachspezifische Lernbegleitung im Einzelsetting",
+      "score": 0.489,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Fachspezifische Lernbegleitung im Gruppensetting",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektziel",
+      "text": "Erreichung der vereinbarten Teilziele",
+      "score": 0.469,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "selbständiges Wissensmanagement",
+      "score": 0.399,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektziel",
+      "text": "Aufbau von Lernkompetenz",
+      "score": 0.515,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektziel",
+      "text": "Erhöhung der Jobsicherheit durch entsprechende Qualifikation",
+      "score": 0.407,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektziel",
+      "text": "Erhöhung der Chancen auf einen sicheren Arbeitsplatz",
+      "score": 0.439,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Tirol",
+      "score": 0.691,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Tirol",
+      "score": 0.862,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Tirol",
+      "score": 0.838,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Tirol",
+      "score": 0.835,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Nicht in Österreich geborene Personen",
+      "score": 0.504,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Tirol",
+      "score": 0.787,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.561,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Tirol",
+      "score": 0.74,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Tirol",
+      "score": 0.55,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Tirol",
+      "score": 0.487,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Tirol",
+      "score": 0.971,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "LAP-Vorbereitungskurse",
+      "score": 0.434,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "überbetriebliche Berufsausbildungen",
+      "score": 0.592,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Lehrlingscoaching",
+      "score": 0.457,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Finish Strong",
+      "score": 0.61,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "dieser besonderen Zielgruppe",
+      "score": 0.57,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Netzwerkpartner",
+      "score": 0.632,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden an Bildungsangeboten des BFI Tirol",
+      "score": 0.401,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS Tirol",
+      "score": 0.417,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Jobservice Tirol",
+      "score": 0.429,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Arbeiterkammer Tirol",
+      "score": 0.369,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Region",
+      "text": "Land Tirol",
+      "score": 0.717,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Netzwerkpartner",
+      "score": 0.899,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 16
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenzugehörigkeit",
+      "score": 0.727,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 16
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Bildungsangebot",
+      "score": 0.437,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 16
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenzugehörigkeit",
+      "score": 0.667,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 16
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.441,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 16
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.43,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 16
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.396,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.588,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.483,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Lehrbetriebe und Berufsschulen",
+      "score": 0.454,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.781,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Region",
+      "text": "Tirol",
+      "score": 0.98,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Ausbau der beruflichen und persönlichen Qualifikationen",
+      "score": 0.391,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "öffentlich finanzierte Bildungsmaßnahmen",
+      "score": 0.567,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "bildungsbenachteiligte und von Arbeitslosigkeit betroffene Personen",
+      "score": 0.633,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen mit Migrationshintergrund",
+      "score": 0.393,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Basisbildungskurse",
+      "score": 0.351,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "ABC-Cafe",
+      "score": 0.657,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Pole Position",
+      "score": 0.651,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "bildungsbenachteiligten Teilnehmenden",
+      "score": 0.779,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen mit facheinschlägiger Berufserfahrung",
+      "score": 0.46,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.422,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.649,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Sensibilisierung",
+      "score": 0.39,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Coaching",
+      "score": 0.357,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielerreichung",
+      "score": 0.43,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe des Projekts",
+      "score": 0.558,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.621,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Projektziel",
+      "text": "Bildungsziels",
+      "score": 0.503,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.367,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.661,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer_innen",
+      "score": 0.629,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Trainer_innen",
+      "score": 0.447,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer_innen",
+      "score": 0.618,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Trainerinnen und Trainern",
+      "score": 0.52,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Lernenden",
+      "score": 0.411,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.62,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Trainerinnen und Trainer",
+      "score": 0.469,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.601,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.691,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Manche Lernende",
+      "score": 0.437,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.494,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.523,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.665,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.541,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Lernende",
+      "score": 0.574,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.481,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 17
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.478,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 19
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektmaßnahmen",
+      "score": 0.414,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.697,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 28
+    },
+    {
+      "label": "Wirkung",
+      "text": "Bisherige Wirkung",
+      "score": 0.554,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "33 Projektteilnehmende",
+      "score": 0.356,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Projektziel",
+      "text": "Teilziele",
+      "score": 0.494,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "LAP",
+      "score": 0.653,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "70 Personen",
+      "score": 0.397,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "15 Teilnehmende",
+      "score": 0.489,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "LAP",
+      "score": 0.593,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Projektziel",
+      "text": "LAP-Prüfung",
+      "score": 0.537,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "LAP-Teilprüfung",
+      "score": 0.488,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektmaßnahmen",
+      "score": 0.588,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 33
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.852,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 33
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Das Projektangebot",
+      "score": 0.589,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 34
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "10 Teilnehmende",
+      "score": 0.409,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 34
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.725,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 39
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.828,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.813,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.84,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.523,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenerreichung",
+      "score": 0.484,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Wirkung",
+      "text": "Bisherige Wirkung",
+      "score": 0.382,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.801,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.48,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Wirkung",
+      "text": "schwer messbare Wirkungen",
+      "score": 0.373,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektaktivität",
+      "score": 0.448,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.712,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektmaßnahmen",
+      "score": 0.409,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 47
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektpartnerschaften",
+      "score": 0.709,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahmen",
+      "score": 0.513,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Qualitätssicherungsmaßnahmen",
+      "score": 0.52,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 57
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wie haben sich diese auf die Projektumsetzung ausgewirkt",
+      "score": 0.489,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 57
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asyl- und subsidiär Schutzberechtigten",
+      "score": 0.512,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Drittstaatsangehörige",
+      "score": 0.844,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Vertriebene aus der Ukraine",
+      "score": 0.607,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "EU-Bürger_innen",
+      "score": 0.76,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Österreicher_innen mit Migrationshintergrund",
+      "score": 0.831,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "österreichische Lehrabschlussprüfung",
+      "score": 0.362,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asyl- und subsidiär Schutzberechtigte",
+      "score": 0.594,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Drittstaatsangehörige",
+      "score": 0.814,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Österreicher mit Migrationshintergrund",
+      "score": 0.633,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.356,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Individuelle LAP-Beratung",
+      "score": 0.616,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Fachspezifische Lernbegleitung im Einzelsetting",
+      "score": 0.558,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Fachspezifische Lernbegleitung im Gruppensetting",
+      "score": 0.637,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Finish Strong",
+      "score": 0.641,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "besonderen Zielgruppe",
+      "score": 0.555,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "erwachsenen Lernenden",
+      "score": 0.64,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "individuelle LAP-Beratung",
+      "score": 0.498,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektziel",
+      "text": "Bildungsziel der LAP",
+      "score": 0.464,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Individuelle LAP-Beratung",
+      "score": 0.483,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer_innen",
+      "score": 0.366,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer_innen",
+      "score": 0.461,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Projektziel",
+      "text": "Teilziele",
+      "score": 0.376,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "bildungsbenachteiligte Zielgruppe",
+      "score": 0.412,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer_innen",
+      "score": 0.383,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer_innen",
+      "score": 0.43,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.381,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Unsere Teilnehmenden",
+      "score": 0.642,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.476,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Alle Teilnehmenden",
+      "score": 0.523,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.369,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.377,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.37,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Unsere Teilnehmenden",
+      "score": 0.634,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.415,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Alle Teilnehmenden",
+      "score": 0.486,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielzahl an Projektteilnehmenden",
+      "score": 0.379,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielzahl an Projektteilnehmenden",
+      "score": 0.393,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielzahl an Projektteilnehmenden",
+      "score": 0.416,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.365,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "LAP",
+      "score": 0.632,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "bildungsbenachteiligte Personen",
+      "score": 0.66,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "LAP",
+      "score": 0.469,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.394,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Einzelhandelslehre",
+      "score": 0.478,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Lehrabschlussprüfung",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "LAP",
+      "score": 0.497,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Netzwerkpartner_innen",
+      "score": 0.732,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.378,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.454,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Netzwerkpartner_innen",
+      "score": 0.682,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer_innen",
+      "score": 0.496,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    }
+  ]
+}
