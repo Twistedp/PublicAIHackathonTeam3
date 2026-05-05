@@ -54,41 +54,43 @@ def extract_from_excel(file_path, mapping):
     results["laufzeit_ende"] = fuzzy_find("Laufzeit Ende")
     results["hauptprojektstandort"] = fuzzy_find("Haupttprojektstandort") or fuzzy_find("Hauptprojektstandort")
 
-    # 2. States (Coordinate-based per Year)
+    # 2. States (Coordinate-based per Year/Type)
     state_names = ["Burgenland", "Kärnten", "Niederösterreich", "Oberösterreich", "Salzburg", "Steiermark", "Tirol", "Vorarlberg", "Wien"]
     states_results = {s: "0" for s in state_names}
 
-    if year >= 2026:
-        # Pattern 2026+: Labels Col 5, Values Col 6, Rows 3-12
+    # Distinguish between Planning (Indikatoren) and Reporting (Bericht)
+    is_reporting = df.astype(str).apply(lambda x: x.str.contains("Bundesländeraufteilung", case=False, na=False)).any().any()
+
+    if year >= 2024 and not is_reporting:
+        # Pattern Planning 2024+: Labels Col 5, Values Col 6, Rows 3-12
         for r in range(3, 13):
             if df.shape[1] > 6:
                 label = str(df.iloc[r, 5]).strip()
                 if label in state_names:
                     val = df.iloc[r, 6]
                     states_results[label] = str(val) if pd.notna(val) else "0"
-    elif year >= 2024:
-        # Pattern 2024/25: Labels Col 3, Values Col 4, Rows 12-21
-        for r in range(11, 22):
+    elif year >= 2024 and is_reporting:
+        # Pattern Reporting 2024+: Labels Col 3, Values Col 4, Rows 12-21
+        for r in range(11, 25):
             if df.shape[1] > 4:
                 label = str(df.iloc[r, 3]).strip()
                 if label in state_names:
                     val = df.iloc[r, 4]
                     states_results[label] = str(val) if pd.notna(val) else "0"
     elif year >= 2022:
-        # Pattern 2022/23: Labels Col 10, Values Col 11?
+        # Pattern 2022/23: Labels Col 10, Values Col 11
         for r in range(3, 15):
             if df.shape[1] > 10:
                 label = str(df.iloc[r, 10]).strip()
                 if label in state_names:
                     val = df.iloc[r, 11] if df.shape[1] > 11 else None
-                    states_results[label] = str(val) if pd.notna(val) else "marked"
+                    states_results[label] = str(val) if pd.notna(val) and val != "" else "marked"
     else:
         # Fallback for 2019-2021: Fuzzy checkbox search
         for s in state_names:
             mask = df.astype(str).apply(lambda x: x.str.contains(s, case=False, na=False))
             if mask.any().any():
                 states_results[s] = "marked"
-
     results["states"] = states_results
 
     # 3. Indicators (Coordinate-based)

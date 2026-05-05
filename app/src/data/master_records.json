@@ -1,0 +1,1177 @@
+[
+  {
+    "projektnummer": "010-2019/21",
+    "projekttitel": "SchulStart – Begleitprogramm für neu zugewanderte Schulkinder",
+    "projekttraeger": "Verein SprachBrücke Wien",
+    "laufzeit_beginn": "2019-01-01",
+    "laufzeit_ende": "2021-12-31",
+    "hauptprojektstandort": "Wien",
+    "zielgruppe_gliner_kandidaten": [
+      "Unbegleitete minderjährige Flüchtlinge",
+      "Schulkinder",
+      "Menschen mit Migrationsbiographie",
+      "Nachbarn"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Schulvorbereitung",
+      "Elternberatung"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 2744,
+    "hauptindikator_ist": 2610,
+    "hauptindikator_erfuellung_prozent": 95.1,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Schulkinder, Flüchtlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Lernbegleitung, Elternberatung."
+  },
+  {
+    "projektnummer": "016-2024/25",
+    "projekttitel": "Deutsch im Alltag – Schritt für Schritt",
+    "projekttraeger": "Interface Wien",
+    "laufzeit_beginn": "2024-01-01",
+    "laufzeit_ende": "2025-12-31",
+    "hauptprojektstandort": "Linz",
+    "zielgruppe_gliner_kandidaten": [
+      "Asylberechtigte",
+      "Unbegleitete minderjährige Flüchtlinge",
+      "Flüchtlinge"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Sprachkurse",
+      "Zertifizierte Abschlussprüfungen"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 4936,
+    "hauptindikator_ist": 2879,
+    "hauptindikator_erfuellung_prozent": 58.3,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Flüchtlinge, Lehrlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Sprachkurse, Zertifizierte Abschlussprüfungen."
+  },
+  {
+    "projektnummer": "017-2020/22",
+    "projekttitel": "Sport verbindet - Integration am Platz",
+    "projekttraeger": "Talisk Oberösterreich",
+    "laufzeit_beginn": "2020-01-01",
+    "laufzeit_ende": "2022-12-31",
+    "hauptprojektstandort": "Dornbirn",
+    "zielgruppe_gliner_kandidaten": [
+      "Frauen",
+      "Nachbarn",
+      "Flüchtlinge",
+      "Menschen mit Migrationsbiographie"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Fußballturniere",
+      "Vereinsberatung",
+      "Lauftreffs"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 3843,
+    "hauptindikator_ist": 3518,
+    "hauptindikator_erfuellung_prozent": 91.5,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Senioren, Lehrlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Vereinsberatung, Lauftreffs."
+  },
+  {
+    "projektnummer": "034-2019/20",
+    "projekttitel": "Lernstube - Kostenlose Lernbegleitung",
+    "projekttraeger": "Verein NeueWege Österreich",
+    "laufzeit_beginn": "2019-01-01",
+    "laufzeit_ende": "2020-12-31",
+    "hauptprojektstandort": "Wels",
+    "zielgruppe_gliner_kandidaten": [
+      "Eltern",
+      "Schulkinder",
+      "Asylberechtigte"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Prüfungsvorbereitung",
+      "Nachhilfe",
+      "Hausaufgabenhilfe"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 4486,
+    "hauptindikator_ist": 4212,
+    "hauptindikator_erfuellung_prozent": 93.9,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Schulkinder, Unbegleitete minderjährige Flüchtlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Nachhilfe, Prüfungsvorbereitung."
+  },
+  {
+    "projektnummer": "038-2020/22",
+    "projekttitel": "Zusammenleben in der Nachbarschaft",
+    "projekttraeger": "Interface Wien",
+    "laufzeit_beginn": "2020-01-01",
+    "laufzeit_ende": "2022-12-31",
+    "hauptprojektstandort": "Graz",
+    "zielgruppe_gliner_kandidaten": [
+      "Nachbarn",
+      "Schulkinder",
+      "Asylberechtigte"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Gemeinschaftsgarten",
+      "Infoveranstaltungen",
+      "Konfliktberatung"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 2134,
+    "hauptindikator_ist": 1149,
+    "hauptindikator_erfuellung_prozent": 53.8,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Frauen, Lehrlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Infoveranstaltungen, Konfliktberatung."
+  },
+  {
+    "projektnummer": "045-2021/22",
+    "projekttitel": "Begegnungsräume für alle Generationen",
+    "projekttraeger": "Jugendzentrum Bunterhaufen",
+    "laufzeit_beginn": "2021-01-01",
+    "laufzeit_ende": "2022-12-31",
+    "hauptprojektstandort": "Innsbruck",
+    "zielgruppe_gliner_kandidaten": [
+      "Eltern",
+      "Nachbarn",
+      "Menschen mit Migrationsbiographie",
+      "Schulkinder"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Nachbarschaftsfeste",
+      "Sprach-Tandems"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 2809,
+    "hauptindikator_ist": 673,
+    "hauptindikator_erfuellung_prozent": 24.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Schulkinder, Frauen.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Interkulturelle Cafés, Sprach-Tandems."
+  },
+  {
+    "projektnummer": "045-2026/28",
+    "projekttitel": "SchulStart – Begleitprogramm für neu zugewanderte Schulkinder",
+    "projekttraeger": "Verein NeueWege Österreich",
+    "laufzeit_beginn": "2026-01-01",
+    "laufzeit_ende": "2028-12-31",
+    "hauptprojektstandort": "Sankt Pölten",
+    "zielgruppe_gliner_kandidaten": [
+      "Senioren",
+      "Schulkinder"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Elternberatung",
+      "Schulvorbereitung"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 1343,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Senioren, Menschen mit Migrationsbiographie.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Schulvorbereitung, Elternberatung."
+  },
+  {
+    "projektnummer": "047-2023/24",
+    "projekttitel": "Deutsch im Alltag – Schritt für Schritt",
+    "projekttraeger": "ÖRK - Österreichisches Rotes Kreuz",
+    "laufzeit_beginn": "2023-01-01",
+    "laufzeit_ende": "2024-12-31",
+    "hauptprojektstandort": "Wien",
+    "zielgruppe_gliner_kandidaten": [
+      "Flüchtlinge",
+      "Asylberechtigte",
+      "Nachbarn"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Zertifizierte Abschlussprüfungen",
+      "Sprachkurse",
+      "Niederschwellige Deutschlerntreffen"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 4235,
+    "hauptindikator_ist": 417,
+    "hauptindikator_erfuellung_prozent": 9.8,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Frauen, Asylberechtigte.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Sprachkurse, Zertifizierte Abschlussprüfungen."
+  },
+  {
+    "projektnummer": "049-2026/28",
+    "projekttitel": "DigiStart - Digitale Kompetenzen für Senioren",
+    "projekttraeger": "Integrationshaus Wien",
+    "laufzeit_beginn": "2026-01-01",
+    "laufzeit_ende": "2028-12-31",
+    "hauptprojektstandort": "Wien",
+    "zielgruppe_gliner_kandidaten": [
+      "Jugendliche",
+      "Menschen mit Migrationsbiographie",
+      "Flüchtlinge",
+      "Unbegleitete minderjährige Flüchtlinge"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Internet-Sicherheit",
+      "Social-Media-Schulung"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 3911,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Subsidiär Schutzberechtigte, Eltern.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Social-Media-Schulung, Internet-Sicherheit."
+  },
+  {
+    "projektnummer": "052-2025/27",
+    "projekttitel": "HandWerk.Zukunft – Berufsvorbereitungskurse",
+    "projekttraeger": "Jugendzentrum Bunterhaufen",
+    "laufzeit_beginn": "2025-01-01",
+    "laufzeit_ende": "2027-12-31",
+    "hauptprojektstandort": "Linz",
+    "zielgruppe_gliner_kandidaten": [
+      "Flüchtlinge",
+      "Frauen"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Bewerbungstraining",
+      "Mentoring"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 99,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Frauen, Schulkinder.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Lehrvermittlung, Bewerbungstraining."
+  },
+  {
+    "projektnummer": "055-2019/20",
+    "projekttitel": "Deutsch im Alltag – Schritt für Schritt",
+    "projekttraeger": "Verein NeueWege Österreich",
+    "laufzeit_beginn": "2019-01-01",
+    "laufzeit_ende": "2020-12-31",
+    "hauptprojektstandort": "Salzburg",
+    "zielgruppe_gliner_kandidaten": [
+      "Frauen",
+      "Lehrlinge",
+      "Schulkinder"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Zertifizierte Abschlussprüfungen",
+      "Sprachkurse"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 4428,
+    "hauptindikator_ist": 3259,
+    "hauptindikator_erfuellung_prozent": 73.6,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Eltern, Senioren.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Sprachkurse, Zertifizierte Abschlussprüfungen."
+  },
+  {
+    "projektnummer": "056-2020/22",
+    "projekttitel": "Zusammenleben in der Nachbarschaft",
+    "projekttraeger": "Diakonie Österreich",
+    "laufzeit_beginn": "2020-01-01",
+    "laufzeit_ende": "2022-12-31",
+    "hauptprojektstandort": "Villach",
+    "zielgruppe_gliner_kandidaten": [
+      "Schulkinder",
+      "Lehrlinge"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Infoveranstaltungen",
+      "Konfliktberatung",
+      "Gemeinschaftsgarten"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 3413,
+    "hauptindikator_ist": 1369,
+    "hauptindikator_erfuellung_prozent": 40.1,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Frauen, Flüchtlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Konfliktberatung, Gemeinschaftsgarten."
+  },
+  {
+    "projektnummer": "056-2021/22",
+    "projekttitel": "Deutsch im Alltag – Schritt für Schritt",
+    "projekttraeger": "Verein NeueWege Österreich",
+    "laufzeit_beginn": "2021-01-01",
+    "laufzeit_ende": "2022-12-31",
+    "hauptprojektstandort": "Bregenz",
+    "zielgruppe_gliner_kandidaten": [
+      "Flüchtlinge",
+      "Menschen mit Migrationsbiographie"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Zertifizierte Abschlussprüfungen",
+      "Sprachkurse"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 3462,
+    "hauptindikator_ist": 985,
+    "hauptindikator_erfuellung_prozent": 28.5,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Schulkinder, Eltern.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Niederschwellige Deutschlerntreffen, Sprachkurse."
+  },
+  {
+    "projektnummer": "061-2024/25",
+    "projekttitel": "Sport verbindet - Integration am Platz",
+    "projekttraeger": "Integrationshaus Wien",
+    "laufzeit_beginn": "2024-01-01",
+    "laufzeit_ende": "2025-12-31",
+    "hauptprojektstandort": "Linz",
+    "zielgruppe_gliner_kandidaten": [
+      "Unbegleitete minderjährige Flüchtlinge",
+      "Asylberechtigte"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Lauftreffs",
+      "Fußballturniere"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 3358,
+    "hauptindikator_ist": 2030,
+    "hauptindikator_erfuellung_prozent": 60.5,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Unbegleitete minderjährige Flüchtlinge, Nachbarn.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Fußballturniere, Lauftreffs."
+  },
+  {
+    "projektnummer": "063-2021/22",
+    "projekttitel": "DigiStart - Digitale Kompetenzen für Senioren",
+    "projekttraeger": "Verein NeueWege Österreich",
+    "laufzeit_beginn": "2021-01-01",
+    "laufzeit_ende": "2022-12-31",
+    "hauptprojektstandort": "Wels",
+    "zielgruppe_gliner_kandidaten": [
+      "Menschen mit Migrationsbiographie",
+      "Unbegleitete minderjährige Flüchtlinge"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Social-Media-Schulung",
+      "Internet-Sicherheit",
+      "Tablet-Kurse"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 508,
+    "hauptindikator_ist": 422,
+    "hauptindikator_erfuellung_prozent": 83.1,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Nachbarn, Jugendliche.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Social-Media-Schulung, Tablet-Kurse."
+  },
+  {
+    "projektnummer": "065-2020/22",
+    "projekttitel": "Deutsch im Alltag – Schritt für Schritt",
+    "projekttraeger": "Caritas Österreich",
+    "laufzeit_beginn": "2020-01-01",
+    "laufzeit_ende": "2022-12-31",
+    "hauptprojektstandort": "Klagenfurt",
+    "zielgruppe_gliner_kandidaten": [
+      "Flüchtlinge",
+      "Schulkinder"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Sprachkurse",
+      "Zertifizierte Abschlussprüfungen"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 2645,
+    "hauptindikator_ist": 2915,
+    "hauptindikator_erfuellung_prozent": 110.2,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Senioren, Unbegleitete minderjährige Flüchtlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Niederschwellige Deutschlerntreffen, Sprachkurse."
+  },
+  {
+    "projektnummer": "065-2021/23",
+    "projekttitel": "Zusammenleben in der Nachbarschaft",
+    "projekttraeger": "Qualifizierung & Karriere GmbH",
+    "laufzeit_beginn": "2021-01-01",
+    "laufzeit_ende": "2023-12-31",
+    "hauptprojektstandort": "Sankt Pölten",
+    "zielgruppe_gliner_kandidaten": [
+      "Flüchtlinge",
+      "Subsidiär Schutzberechtigte",
+      "Nachbarn",
+      "Senioren"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Infoveranstaltungen",
+      "Konfliktberatung",
+      "Gemeinschaftsgarten"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 2907,
+    "hauptindikator_ist": 2497,
+    "hauptindikator_erfuellung_prozent": 85.9,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Flüchtlinge, Nachbarn.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Konfliktberatung, Gemeinschaftsgarten."
+  },
+  {
+    "projektnummer": "068-2022/23",
+    "projekttitel": "Wurzeln fassen – Traumasensible Begleitung",
+    "projekttraeger": "Helpservice Österreich",
+    "laufzeit_beginn": "2022-01-01",
+    "laufzeit_ende": "2023-12-31",
+    "hauptprojektstandort": "Salzburg",
+    "zielgruppe_gliner_kandidaten": [
+      "Eltern",
+      "Jugendliche",
+      "Senioren",
+      "Menschen mit Migrationsbiographie"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Gruppengespräche",
+      "Psychosoziale Beratung",
+      "Traumatherapie-Begleitung"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 922,
+    "hauptindikator_ist": 891,
+    "hauptindikator_erfuellung_prozent": 96.6,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Lehrlinge, Nachbarn.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Gruppengespräche, Psychosoziale Beratung."
+  },
+  {
+    "projektnummer": "069-2025/26",
+    "projekttitel": "Finish Strong – Prüfungsvorbereitung für Lehrlinge",
+    "projekttraeger": "Caritas Österreich",
+    "laufzeit_beginn": "2025-01-01",
+    "laufzeit_ende": "2026-12-31",
+    "hauptprojektstandort": "Linz",
+    "zielgruppe_gliner_kandidaten": [
+      "Lehrlinge",
+      "Menschen mit Migrationsbiographie",
+      "Schulkinder"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Theoretischer Fachunterricht",
+      "LAP-Vorbereitung",
+      "Coaching"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 2526,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Jugendliche, Asylberechtigte.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Theoretischer Fachunterricht, LAP-Vorbereitung."
+  },
+  {
+    "projektnummer": "074-2020/21",
+    "projekttitel": "Finish Strong – Prüfungsvorbereitung für Lehrlinge",
+    "projekttraeger": "Verein SprachBrücke Wien",
+    "laufzeit_beginn": "2020-01-01",
+    "laufzeit_ende": "2021-12-31",
+    "hauptprojektstandort": "Dornbirn",
+    "zielgruppe_gliner_kandidaten": [
+      "Unbegleitete minderjährige Flüchtlinge",
+      "Asylberechtigte",
+      "Menschen mit Migrationsbiographie"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "LAP-Vorbereitung",
+      "Coaching",
+      "Theoretischer Fachunterricht"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 491,
+    "hauptindikator_ist": 368,
+    "hauptindikator_erfuellung_prozent": 74.9,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Senioren, Schulkinder.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie LAP-Vorbereitung, Theoretischer Fachunterricht."
+  },
+  {
+    "projektnummer": "081-2026/28",
+    "projekttitel": "SchulStart – Begleitprogramm für neu zugewanderte Schulkinder",
+    "projekttraeger": "Interface Wien",
+    "laufzeit_beginn": "2026-01-01",
+    "laufzeit_ende": "2028-12-31",
+    "hauptprojektstandort": "Bregenz",
+    "zielgruppe_gliner_kandidaten": [
+      "Eltern",
+      "Flüchtlinge",
+      "Schulkinder",
+      "Nachbarn"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Lernbegleitung",
+      "Elternberatung"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 1933,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Schulkinder, Eltern.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Schulvorbereitung, Lernbegleitung."
+  },
+  {
+    "projektnummer": "086-2026/27",
+    "projekttitel": "SchulStart – Begleitprogramm für neu zugewanderte Schulkinder",
+    "projekttraeger": "Verein SprachBrücke Wien",
+    "laufzeit_beginn": "2026-01-01",
+    "laufzeit_ende": "2027-12-31",
+    "hauptprojektstandort": "Linz",
+    "zielgruppe_gliner_kandidaten": [
+      "Unbegleitete minderjährige Flüchtlinge",
+      "Schulkinder"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Elternberatung",
+      "Lernbegleitung",
+      "Schulvorbereitung"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 4685,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Lehrlinge, Unbegleitete minderjährige Flüchtlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Schulvorbereitung, Elternberatung."
+  },
+  {
+    "projektnummer": "093-2023/25",
+    "projekttitel": "Wurzeln fassen – Traumasensible Begleitung",
+    "projekttraeger": "TARO - Verein zur interkulturellen Gesundheitsförderung",
+    "laufzeit_beginn": "2023-01-01",
+    "laufzeit_ende": "2025-12-31",
+    "hauptprojektstandort": "Dornbirn",
+    "zielgruppe_gliner_kandidaten": [
+      "Schulkinder",
+      "Asylberechtigte",
+      "Jugendliche",
+      "Flüchtlinge"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Traumatherapie-Begleitung",
+      "Psychosoziale Beratung",
+      "Gruppengespräche"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 862,
+    "hauptindikator_ist": 473,
+    "hauptindikator_erfuellung_prozent": 54.9,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Asylberechtigte, Senioren.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Traumatherapie-Begleitung, Psychosoziale Beratung."
+  },
+  {
+    "projektnummer": "094-2025/27",
+    "projekttitel": "HandWerk.Zukunft – Berufsvorbereitungskurse",
+    "projekttraeger": "Jugendzentrum Bunterhaufen",
+    "laufzeit_beginn": "2025-01-01",
+    "laufzeit_ende": "2027-12-31",
+    "hauptprojektstandort": "Linz",
+    "zielgruppe_gliner_kandidaten": [
+      "Nachbarn",
+      "Frauen",
+      "Schulkinder",
+      "Jugendliche"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Fachsprachlicher Unterricht",
+      "Bewerbungstraining"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 1528,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Flüchtlinge, Schulkinder.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Bewerbungstraining, Mentoring."
+  },
+  {
+    "projektnummer": "101-2023/24",
+    "projekttitel": "YouthConnect – Jugendliche gestalten Integration",
+    "projekttraeger": "Frauen für Frauen",
+    "laufzeit_beginn": "2023-01-01",
+    "laufzeit_ende": "2024-12-31",
+    "hauptprojektstandort": "Innsbruck",
+    "zielgruppe_gliner_kandidaten": [
+      "Lehrlinge",
+      "Unbegleitete minderjährige Flüchtlinge",
+      "Jugendliche"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Schwimmkurse",
+      "Sportveranstaltungen"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 4294,
+    "hauptindikator_ist": 373,
+    "hauptindikator_erfuellung_prozent": 8.7,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Jugendliche, Unbegleitete minderjährige Flüchtlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Schwimmkurse, Workshops."
+  },
+  {
+    "projektnummer": "101-2024/25",
+    "projekttitel": "YouthConnect – Jugendliche gestalten Integration",
+    "projekttraeger": "Verein SprachBrücke Wien",
+    "laufzeit_beginn": "2024-01-01",
+    "laufzeit_ende": "2025-12-31",
+    "hauptprojektstandort": "Wien",
+    "zielgruppe_gliner_kandidaten": [
+      "Unbegleitete minderjährige Flüchtlinge",
+      "Flüchtlinge",
+      "Menschen mit Migrationsbiographie",
+      "Subsidiär Schutzberechtigte"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Adventuretage",
+      "Sportveranstaltungen",
+      "Schwimmkurse"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 3548,
+    "hauptindikator_ist": 1248,
+    "hauptindikator_erfuellung_prozent": 35.2,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Frauen, Asylberechtigte.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Workshops, Adventuretage."
+  },
+  {
+    "projektnummer": "103-2021/22",
+    "projekttitel": "Zusammenleben in der Nachbarschaft",
+    "projekttraeger": "Helpservice Österreich",
+    "laufzeit_beginn": "2021-01-01",
+    "laufzeit_ende": "2022-12-31",
+    "hauptprojektstandort": "Dornbirn",
+    "zielgruppe_gliner_kandidaten": [
+      "Nachbarn",
+      "Unbegleitete minderjährige Flüchtlinge",
+      "Subsidiär Schutzberechtigte"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Konfliktberatung",
+      "Infoveranstaltungen"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 1173,
+    "hauptindikator_ist": 1507,
+    "hauptindikator_erfuellung_prozent": 128.5,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Schulkinder, Lehrlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Infoveranstaltungen, Gemeinschaftsgarten."
+  },
+  {
+    "projektnummer": "103-2022/24",
+    "projekttitel": "DigiStart - Digitale Kompetenzen für Senioren",
+    "projekttraeger": "Integrationshaus Wien",
+    "laufzeit_beginn": "2022-01-01",
+    "laufzeit_ende": "2024-12-31",
+    "hauptprojektstandort": "Sankt Pölten",
+    "zielgruppe_gliner_kandidaten": [
+      "Eltern",
+      "Senioren"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Tablet-Kurse",
+      "Internet-Sicherheit"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 3116,
+    "hauptindikator_ist": 1787,
+    "hauptindikator_erfuellung_prozent": 57.3,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Jugendliche, Senioren.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Internet-Sicherheit, Tablet-Kurse."
+  },
+  {
+    "projektnummer": "107-2025/27",
+    "projekttitel": "Deutsch im Alltag – Schritt für Schritt",
+    "projekttraeger": "Verein Respekt & Vielfalt Österreich",
+    "laufzeit_beginn": "2025-01-01",
+    "laufzeit_ende": "2027-12-31",
+    "hauptprojektstandort": "Linz",
+    "zielgruppe_gliner_kandidaten": [
+      "Jugendliche",
+      "Frauen",
+      "Asylberechtigte",
+      "Subsidiär Schutzberechtigte"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Sprachkurse",
+      "Zertifizierte Abschlussprüfungen",
+      "Niederschwellige Deutschlerntreffen"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 2802,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Schulkinder, Jugendliche.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Zertifizierte Abschlussprüfungen, Sprachkurse."
+  },
+  {
+    "projektnummer": "108-2022/24",
+    "projekttitel": "SANEAS - Gesundheitslots*innen",
+    "projekttraeger": "Verein Respekt & Vielfalt Österreich",
+    "laufzeit_beginn": "2022-01-01",
+    "laufzeit_ende": "2024-12-31",
+    "hauptprojektstandort": "Innsbruck",
+    "zielgruppe_gliner_kandidaten": [
+      "Subsidiär Schutzberechtigte",
+      "Senioren",
+      "Eltern"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Gesundheitsschulung",
+      "Buddy-System",
+      "Workshops"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 877,
+    "hauptindikator_ist": 8,
+    "hauptindikator_erfuellung_prozent": 0.9,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Flüchtlinge, Nachbarn.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Workshops, Gesundheitsschulung."
+  },
+  {
+    "projektnummer": "114-2022/23",
+    "projekttitel": "HandWerk.Zukunft – Berufsvorbereitungskurse",
+    "projekttraeger": "Interface Wien",
+    "laufzeit_beginn": "2022-01-01",
+    "laufzeit_ende": "2023-12-31",
+    "hauptprojektstandort": "Linz",
+    "zielgruppe_gliner_kandidaten": [
+      "Unbegleitete minderjährige Flüchtlinge",
+      "Flüchtlinge",
+      "Menschen mit Migrationsbiographie"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Bewerbungstraining",
+      "Fachsprachlicher Unterricht",
+      "Mentoring"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 4046,
+    "hauptindikator_ist": 497,
+    "hauptindikator_erfuellung_prozent": 12.3,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Nachbarn, Eltern.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Mentoring, Bewerbungstraining."
+  },
+  {
+    "projektnummer": "119-2025/27",
+    "projekttitel": "Deutsch im Alltag – Schritt für Schritt",
+    "projekttraeger": "Talisk Oberösterreich",
+    "laufzeit_beginn": "2025-01-01",
+    "laufzeit_ende": "2027-12-31",
+    "hauptprojektstandort": "Klagenfurt",
+    "zielgruppe_gliner_kandidaten": [
+      "Subsidiär Schutzberechtigte",
+      "Lehrlinge",
+      "Nachbarn",
+      "Jugendliche"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Niederschwellige Deutschlerntreffen",
+      "Zertifizierte Abschlussprüfungen"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 4100,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Menschen mit Migrationsbiographie, Eltern.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Zertifizierte Abschlussprüfungen, Niederschwellige Deutschlerntreffen."
+  },
+  {
+    "projektnummer": "120-2025/26",
+    "projekttitel": "FrauenEmpowerment - Wege in die Selbstständigkeit",
+    "projekttraeger": "ÖRK - Österreichisches Rotes Kreuz",
+    "laufzeit_beginn": "2025-01-01",
+    "laufzeit_ende": "2026-12-31",
+    "hauptprojektstandort": "Salzburg",
+    "zielgruppe_gliner_kandidaten": [
+      "Asylberechtigte",
+      "Schulkinder",
+      "Subsidiär Schutzberechtigte",
+      "Lehrlinge"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Networking",
+      "Business-Plan-Workshops"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 3911,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Unbegleitete minderjährige Flüchtlinge, Nachbarn.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Business-Plan-Workshops, Rechtsberatung."
+  },
+  {
+    "projektnummer": "121-2021/23",
+    "projekttitel": "Deutsch im Alltag – Schritt für Schritt",
+    "projekttraeger": "die chance Agentur gGmbH",
+    "laufzeit_beginn": "2021-01-01",
+    "laufzeit_ende": "2023-12-31",
+    "hauptprojektstandort": "Klagenfurt",
+    "zielgruppe_gliner_kandidaten": [
+      "Schulkinder",
+      "Nachbarn",
+      "Asylberechtigte"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Niederschwellige Deutschlerntreffen",
+      "Zertifizierte Abschlussprüfungen"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 1202,
+    "hauptindikator_ist": 820,
+    "hauptindikator_erfuellung_prozent": 68.2,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Menschen mit Migrationsbiographie, Jugendliche.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Zertifizierte Abschlussprüfungen, Sprachkurse."
+  },
+  {
+    "projektnummer": "122-2023/24",
+    "projekttitel": "Miteinander stark – Antisemitismusprävention",
+    "projekttraeger": "ÖRK - Österreichisches Rotes Kreuz",
+    "laufzeit_beginn": "2023-01-01",
+    "laufzeit_ende": "2024-12-31",
+    "hauptprojektstandort": "Wels",
+    "zielgruppe_gliner_kandidaten": [
+      "Nachbarn",
+      "Senioren",
+      "Frauen",
+      "Schulkinder"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Sensibilisierungs-Workshops",
+      "Demokratiebildung"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 4349,
+    "hauptindikator_ist": 2259,
+    "hauptindikator_erfuellung_prozent": 51.9,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Lehrlinge, Asylberechtigte.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Schulbesuche, Sensibilisierungs-Workshops."
+  },
+  {
+    "projektnummer": "126-2019/20",
+    "projekttitel": "Begegnungsräume für alle Generationen",
+    "projekttraeger": "Helpservice Österreich",
+    "laufzeit_beginn": "2019-01-01",
+    "laufzeit_ende": "2020-12-31",
+    "hauptprojektstandort": "Wels",
+    "zielgruppe_gliner_kandidaten": [
+      "Unbegleitete minderjährige Flüchtlinge",
+      "Flüchtlinge"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Sprach-Tandems",
+      "Interkulturelle Cafés"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 647,
+    "hauptindikator_ist": 562,
+    "hauptindikator_erfuellung_prozent": 86.9,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Menschen mit Migrationsbiographie, Jugendliche.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Sprach-Tandems, Interkulturelle Cafés."
+  },
+  {
+    "projektnummer": "126-2023/25",
+    "projekttitel": "Begegnungsräume für alle Generationen",
+    "projekttraeger": "Jugendzentrum Bunterhaufen",
+    "laufzeit_beginn": "2023-01-01",
+    "laufzeit_ende": "2025-12-31",
+    "hauptprojektstandort": "Klagenfurt",
+    "zielgruppe_gliner_kandidaten": [
+      "Schulkinder",
+      "Jugendliche",
+      "Menschen mit Migrationsbiographie"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Interkulturelle Cafés",
+      "Sprach-Tandems"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 3122,
+    "hauptindikator_ist": 2369,
+    "hauptindikator_erfuellung_prozent": 75.9,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Nachbarn, Schulkinder.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Sprach-Tandems, Nachbarschaftsfeste."
+  },
+  {
+    "projektnummer": "128-2021/23",
+    "projekttitel": "Miteinander stark – Antisemitismusprävention",
+    "projekttraeger": "Verein Respekt & Vielfalt Österreich",
+    "laufzeit_beginn": "2021-01-01",
+    "laufzeit_ende": "2023-12-31",
+    "hauptprojektstandort": "Eisenstadt",
+    "zielgruppe_gliner_kandidaten": [
+      "Nachbarn",
+      "Eltern"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Demokratiebildung",
+      "Schulbesuche",
+      "Sensibilisierungs-Workshops"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 4718,
+    "hauptindikator_ist": 379,
+    "hauptindikator_erfuellung_prozent": 8.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Senioren, Jugendliche.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Sensibilisierungs-Workshops, Demokratiebildung."
+  },
+  {
+    "projektnummer": "131-2026/27",
+    "projekttitel": "HandWerk.Zukunft – Berufsvorbereitungskurse",
+    "projekttraeger": "TARO - Verein zur interkulturellen Gesundheitsförderung",
+    "laufzeit_beginn": "2026-01-01",
+    "laufzeit_ende": "2027-12-31",
+    "hauptprojektstandort": "Klagenfurt",
+    "zielgruppe_gliner_kandidaten": [
+      "Menschen mit Migrationsbiographie",
+      "Schulkinder"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Lehrvermittlung",
+      "Mentoring"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 4491,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Frauen, Lehrlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Lehrvermittlung, Mentoring."
+  },
+  {
+    "projektnummer": "137-2025/27",
+    "projekttitel": "HandWerk.Zukunft – Berufsvorbereitungskurse",
+    "projekttraeger": "TARO - Verein zur interkulturellen Gesundheitsförderung",
+    "laufzeit_beginn": "2025-01-01",
+    "laufzeit_ende": "2027-12-31",
+    "hauptprojektstandort": "Villach",
+    "zielgruppe_gliner_kandidaten": [
+      "Asylberechtigte",
+      "Schulkinder",
+      "Eltern"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Bewerbungstraining",
+      "Fachsprachlicher Unterricht",
+      "Mentoring"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 3329,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Menschen mit Migrationsbiographie, Nachbarn.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Lehrvermittlung, Bewerbungstraining."
+  },
+  {
+    "projektnummer": "142-2020/21",
+    "projekttitel": "YouthConnect – Jugendliche gestalten Integration",
+    "projekttraeger": "die chance Agentur gGmbH",
+    "laufzeit_beginn": "2020-01-01",
+    "laufzeit_ende": "2021-12-31",
+    "hauptprojektstandort": "Wien",
+    "zielgruppe_gliner_kandidaten": [
+      "Jugendliche",
+      "Schulkinder",
+      "Menschen mit Migrationsbiographie"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Schwimmkurse",
+      "Workshops",
+      "Adventuretage"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 4673,
+    "hauptindikator_ist": 24,
+    "hauptindikator_erfuellung_prozent": 0.5,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Senioren, Subsidiär Schutzberechtigte.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Schwimmkurse, Workshops."
+  },
+  {
+    "projektnummer": "144-2026/27",
+    "projekttitel": "FrauenEmpowerment - Wege in die Selbstständigkeit",
+    "projekttraeger": "Frauen für Frauen",
+    "laufzeit_beginn": "2026-01-01",
+    "laufzeit_ende": "2027-12-31",
+    "hauptprojektstandort": "Wels",
+    "zielgruppe_gliner_kandidaten": [
+      "Flüchtlinge",
+      "Menschen mit Migrationsbiographie"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Business-Plan-Workshops",
+      "Rechtsberatung",
+      "Networking"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 3814,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Eltern, Lehrlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Business-Plan-Workshops, Networking."
+  },
+  {
+    "projektnummer": "148-2025/26",
+    "projekttitel": "Sport verbindet - Integration am Platz",
+    "projekttraeger": "Diakonie Österreich",
+    "laufzeit_beginn": "2025-01-01",
+    "laufzeit_ende": "2026-12-31",
+    "hauptprojektstandort": "Villach",
+    "zielgruppe_gliner_kandidaten": [
+      "Asylberechtigte",
+      "Senioren",
+      "Frauen"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Fußballturniere",
+      "Lauftreffs"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 1425,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Frauen, Lehrlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Fußballturniere, Lauftreffs."
+  },
+  {
+    "projektnummer": "155-2025/27",
+    "projekttitel": "Sport verbindet - Integration am Platz",
+    "projekttraeger": "Verein NeueWege Österreich",
+    "laufzeit_beginn": "2025-01-01",
+    "laufzeit_ende": "2027-12-31",
+    "hauptprojektstandort": "Linz",
+    "zielgruppe_gliner_kandidaten": [
+      "Asylberechtigte",
+      "Jugendliche",
+      "Unbegleitete minderjährige Flüchtlinge"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Fußballturniere",
+      "Vereinsberatung"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 3740,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Flüchtlinge, Frauen.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Lauftreffs, Fußballturniere."
+  },
+  {
+    "projektnummer": "156-2025/26",
+    "projekttitel": "Lernstube - Kostenlose Lernbegleitung",
+    "projekttraeger": "Caritas Österreich",
+    "laufzeit_beginn": "2025-01-01",
+    "laufzeit_ende": "2026-12-31",
+    "hauptprojektstandort": "Salzburg",
+    "zielgruppe_gliner_kandidaten": [
+      "Asylberechtigte",
+      "Subsidiär Schutzberechtigte"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Hausaufgabenhilfe",
+      "Nachhilfe"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 4650,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Subsidiär Schutzberechtigte, Unbegleitete minderjährige Flüchtlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Prüfungsvorbereitung, Nachhilfe."
+  },
+  {
+    "projektnummer": "168-2026/28",
+    "projekttitel": "SANEAS - Gesundheitslots*innen",
+    "projekttraeger": "Caritas Österreich",
+    "laufzeit_beginn": "2026-01-01",
+    "laufzeit_ende": "2028-12-31",
+    "hauptprojektstandort": "Villach",
+    "zielgruppe_gliner_kandidaten": [
+      "Jugendliche",
+      "Unbegleitete minderjährige Flüchtlinge",
+      "Menschen mit Migrationsbiographie",
+      "Frauen"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Buddy-System",
+      "Workshops",
+      "Gesundheitsschulung"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 2063,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Nachbarn, Lehrlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Buddy-System, Workshops."
+  },
+  {
+    "projektnummer": "169-2021/22",
+    "projekttitel": "SchulStart – Begleitprogramm für neu zugewanderte Schulkinder",
+    "projekttraeger": "Volkshilfe Wien",
+    "laufzeit_beginn": "2021-01-01",
+    "laufzeit_ende": "2022-12-31",
+    "hauptprojektstandort": "Salzburg",
+    "zielgruppe_gliner_kandidaten": [
+      "Frauen",
+      "Asylberechtigte",
+      "Jugendliche"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Schulvorbereitung",
+      "Lernbegleitung",
+      "Elternberatung"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 193,
+    "hauptindikator_ist": 652,
+    "hauptindikator_erfuellung_prozent": 337.8,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Nachbarn, Schulkinder.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Elternberatung, Schulvorbereitung."
+  },
+  {
+    "projektnummer": "186-2021/23",
+    "projekttitel": "Sport verbindet - Integration am Platz",
+    "projekttraeger": "die chance Agentur gGmbH",
+    "laufzeit_beginn": "2021-01-01",
+    "laufzeit_ende": "2023-12-31",
+    "hauptprojektstandort": "Salzburg",
+    "zielgruppe_gliner_kandidaten": [
+      "Schulkinder",
+      "Jugendliche",
+      "Senioren",
+      "Asylberechtigte"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Fußballturniere",
+      "Lauftreffs"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 3523,
+    "hauptindikator_ist": 3944,
+    "hauptindikator_erfuellung_prozent": 112.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Jugendliche, Frauen.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Fußballturniere, Vereinsberatung."
+  },
+  {
+    "projektnummer": "186-2026/28",
+    "projekttitel": "Begegnungsräume für alle Generationen",
+    "projekttraeger": "Frauen für Frauen",
+    "laufzeit_beginn": "2026-01-01",
+    "laufzeit_ende": "2028-12-31",
+    "hauptprojektstandort": "Wien",
+    "zielgruppe_gliner_kandidaten": [
+      "Nachbarn",
+      "Senioren"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Nachbarschaftsfeste",
+      "Interkulturelle Cafés",
+      "Sprach-Tandems"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 2986,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Jugendliche, Subsidiär Schutzberechtigte.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Interkulturelle Cafés, Sprach-Tandems."
+  },
+  {
+    "projektnummer": "191-2026/28",
+    "projekttitel": "Wurzeln fassen – Traumasensible Begleitung",
+    "projekttraeger": "Verein Respekt & Vielfalt Österreich",
+    "laufzeit_beginn": "2026-01-01",
+    "laufzeit_ende": "2028-12-31",
+    "hauptprojektstandort": "Eisenstadt",
+    "zielgruppe_gliner_kandidaten": [
+      "Eltern",
+      "Senioren",
+      "Menschen mit Migrationsbiographie"
+    ],
+    "projektmassnahmen_gliner_kandidaten": [
+      "Gruppengespräche",
+      "Traumatherapie-Begleitung",
+      "Psychosoziale Beratung"
+    ],
+    "hauptindikator_name": "Anzahl der Projektteilnehmenden gesamt",
+    "hauptindikator_soll": 1204,
+    "hauptindikator_ist": 0,
+    "hauptindikator_erfuellung_prozent": 0.0,
+    "zielgruppe_beste_textstelle": "Das Projekt richtet sich vorwiegend an Eltern, Flüchtlinge.",
+    "massnahmen_beste_textstelle": "Im Fokus stehen Maßnahmen wie Gruppengespräche, Traumatherapie-Begleitung."
+  }
+]

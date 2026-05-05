@@ -5,12 +5,12 @@ export type ProjectRecord = {
   laufzeit_beginn: string
   laufzeit_ende: string
   hauptprojektstandort: string
-  zielgruppe_gliner_kandidaten: string[]
-  projektmassnahmen_gliner_kandidaten: string[]
+  zielgruppe_gliner_kandidaten: string | string[]
+  projektmassnahmen_gliner_kandidaten: string | string[]
   hauptindikator_name: string
-  hauptindikator_soll: number
-  hauptindikator_ist: number
-  hauptindikator_erfuellung_prozent: number
+  hauptindikator_soll: number | string
+  hauptindikator_ist: number | string
+  hauptindikator_erfuellung_prozent: number | string
   zielgruppe_beste_textstelle: string
   massnahmen_beste_textstelle: string
 }
