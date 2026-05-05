@@ -1,0 +1,1179 @@
+{
+  "bundle": {
+    "key": "2022_2023:96",
+    "year_folder": "2022_2023",
+    "project_number": "96",
+    "project_slug": "wurzeln-fassen",
+    "soll_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Indikatoren.xlsx",
+    "ist_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Indikatorenbericht.xlsx",
+    "project_description": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+    "final_report": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+    "file_count": 4
+  },
+  "project_meta": {
+    "projekttraeger": {
+      "value": "",
+      "confidence": 0.764,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "1. ZWB ",
+        "matched_label": "Angaben zum Projekt",
+        "label_cell": "J4",
+        "value_cell": null
+      }
+    },
+    "projekttitel": {
+      "value": "Wurzeln fassen – Traumasensible Begleitung",
+      "confidence": 0.697,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Projekttitel",
+        "label_cell": "C5",
+        "value_cell": "D5"
+      }
+    },
+    "projektnummer": {
+      "value": "Niederösterreich",
+      "confidence": 0.844,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Projektnummer",
+        "label_cell": "C6",
+        "value_cell": "K6"
+      }
+    },
+    "laufzeit_beginn": {
+      "value": "2022-01-01",
+      "confidence": 0.818,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Laufzeit Beginn",
+        "label_cell": "C11",
+        "value_cell": "D11"
+      }
+    },
+    "laufzeit_ende": {
+      "value": "2023-12-31",
+      "confidence": 0.794,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Laufzeit Ende",
+        "label_cell": "C12",
+        "value_cell": "D12"
+      }
+    },
+    "hauptprojektstandort": {
+      "value": "Wien",
+      "confidence": 0.896,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Haupttprojektstandort",
+        "label_cell": "C10",
+        "value_cell": "D10"
+      }
+    }
+  },
+  "main_kpi": {
+    "indikator": "Anzahl der Projektteilnehmenden gesamt",
+    "soll": 818,
+    "ist": 818,
+    "erfuellung_prozent": 147.2,
+    "confidence": 0.626,
+    "evidence": {
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Indikatorenbericht.xlsx",
+      "sheet": "EB ",
+      "global_header_rows": [
+        9
+      ],
+      "local_header_rows": [
+        9
+      ],
+      "indicator_col": 3,
+      "indicator_row": 10,
+      "matched_indicator": "Anzahl der Projektteilnehmenden gesamt",
+      "soll_header": "Anzahl SOLL",
+      "soll_cell": "D10",
+      "ist_header": "Anzahl SOLL",
+      "ist_cell": "D10",
+      "percent_header": "Erfüllt in %",
+      "percent_cell": "I10"
+    }
+  },
+  "target_group_evidence": [
+    {
+      "score": 0.659,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 43,
+      "text": "Abweichungen vom Projektverlauf hinsichtlich der Zielgruppe der Vertriebenen gemäß § 62 AsylG 2005"
+    },
+    {
+      "score": 0.649,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19,
+      "text": "ANNEX II. Kurzübersicht zur Projektumsetzung Zum Beispiel: übergeordnetes Ziel: Arbeitsmarktintegration von Jugendlichen; Handlungsziel: Vermittlung einer Lehr- Geben Sie eine kurze Übersicht zur Projektumsetzung und achten Sie darauf, stelle; Bezeichnung der Maßnahme: Bildungscoaching im Gruppenformat für Jugendliche mit Migrationshintergrund; übereinstimmende Angaben mit denen in der Wirkungsindikator: Anzahl der Teilnehmenden, die eine Lehrstelle innerhalb von 3 Monaten nach Projektteilnahme an- Projektbeschreibung und im Indikatorenblatt zu machen. treten; Bezeichnung Zielindikator: Anzahl der in Gruppenberatung beratenen oder betreuten Personen; Bezeichnung Zielindikator übergeordnetes Ziel Handlungsziel Bezeichnung der Maßnahme Wirkungsindikator lt. Indikatorenblatt 19 / 21"
+    },
+    {
+      "score": 0.64,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 24,
+      "text": "2.6. Abweichungen vom Projektverlauf hinsichtlich der Zielgruppe der Vertriebenen gemäß § 62 AsylG 2005 11"
+    }
+  ],
+  "measures_evidence": [
+    {
+      "score": 0.691,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19,
+      "text": "ANNEX II. Kurzübersicht zur Projektumsetzung Zum Beispiel: übergeordnetes Ziel: Arbeitsmarktintegration von Jugendlichen; Handlungsziel: Vermittlung einer Lehr- Geben Sie eine kurze Übersicht zur Projektumsetzung und achten Sie darauf, stelle; Bezeichnung der Maßnahme: Bildungscoaching im Gruppenformat für Jugendliche mit Migrationshintergrund; übereinstimmende Angaben mit denen in der Wirkungsindikator: Anzahl der Teilnehmenden, die eine Lehrstelle innerhalb von 3 Monaten nach Projektteilnahme an- Projektbeschreibung und im Indikatorenblatt zu machen. treten; Bezeichnung Zielindikator: Anzahl der in Gruppenberatung beratenen oder betreuten Personen; Bezeichnung Zielindikator übergeordnetes Ziel Handlungsziel Bezeichnung der Maßnahme Wirkungsindikator lt. Indikatorenblatt 19 / 21"
+    },
+    {
+      "score": 0.657,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44,
+      "text": "(Nahmen an den Projektaktivitäten Personen der oben genannten Zielgruppe teil und wenn ja, an welchen Maßnahmen?)"
+    },
+    {
+      "score": 0.648,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 39,
+      "text": "Wirkung des Projekts"
+    }
+  ],
+  "gliner_entities": [
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.853,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Handlungsziele und Maßnahmen",
+      "score": 0.41,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 1
+    },
+    {
+      "label": "Wirkung",
+      "text": "Langfristige Wirkung",
+      "score": 0.57,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 1
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektpartnerschaft",
+      "score": 0.814,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.917,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 2
+    },
+    {
+      "label": "Region",
+      "text": "Regionen",
+      "score": 0.397,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.608,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.357,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "EU-Bürgerinnen und EU-Bürger",
+      "score": 0.456,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Österreicherinnen und Österreicher mit Migrationshintergrund",
+      "score": 0.416,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mehrheitsbevölkerung",
+      "score": 0.522,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.434,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Männer",
+      "score": 0.493,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien",
+      "score": 0.419,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen mit Kinderbetreuungspflichten",
+      "score": 0.351,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "unbegleitete minderjährige Flüchtlinge",
+      "score": 0.765,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.852,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 5
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.529,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "ein gewisser Anteil der Teilnehmenden",
+      "score": 0.512,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 5
+    },
+    {
+      "label": "Projektziel",
+      "text": "Wirkungsindikator Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.479,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 6
+    },
+    {
+      "label": "Projektziel",
+      "text": "Wirkungsindikator",
+      "score": 0.408,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 6
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.374,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 6
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.352,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 7
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.733,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 7
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.384,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 7
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.646,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 7
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 8
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 8
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 8
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.65,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 8
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.355,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 9
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 9
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 9
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.65,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 9
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.355,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 10
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.742,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 10
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.383,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 10
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.643,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 10
+    },
+    {
+      "label": "Wirkung",
+      "text": "Langfristige Wirkung",
+      "score": 0.447,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.491,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.606,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Wirkung",
+      "text": "Multiplikatoreffekt",
+      "score": 0.625,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integrationserfolge",
+      "score": 0.391,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.871,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Wirkung",
+      "text": "Multiplikatoreffekt",
+      "score": 0.722,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektpartner",
+      "score": 0.564,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektpartner",
+      "score": 0.603,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 15
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektträgern",
+      "score": 0.377,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 15
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.919,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 18
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.582,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 18
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.776,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 18
+    },
+    {
+      "label": "Projektziel",
+      "text": "übergeordnetes Ziel",
+      "score": 0.765,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitsmarktintegration von Jugendlichen",
+      "score": 0.571,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektziel",
+      "text": "Handlungsziel",
+      "score": 0.834,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche mit Migrationshintergrund",
+      "score": 0.673,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.738,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektziel",
+      "text": "übergeordnetes Ziel",
+      "score": 0.476,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektziel",
+      "text": "Handlungsziel",
+      "score": 0.768,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.493,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektziel",
+      "text": "übergeordnetes Ziel",
+      "score": 0.365,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 20
+    },
+    {
+      "label": "Projektziel",
+      "text": "Wirkungsindikator",
+      "score": 0.473,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 20
+    },
+    {
+      "label": "Projektziel",
+      "text": "übergeordnetes Ziel",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 21
+    },
+    {
+      "label": "Projektziel",
+      "text": "Wirkungsindikator",
+      "score": 0.482,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 21
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Erreichte Zielgruppe",
+      "score": 0.489,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 19
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Umgesetzte Maßnahmen",
+      "score": 0.38,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 20
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.584,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 22
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe der Vertriebenen",
+      "score": 0.764,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 24
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.686,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.776,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.847,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.871,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.554,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.605,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Projektziel",
+      "text": "übergeordnete Ziele",
+      "score": 0.367,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylberechtigten",
+      "score": 0.714,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektaktivität",
+      "score": 0.392,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.52,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe der Vertriebenen",
+      "score": 0.764,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektaktivitäten",
+      "score": 0.367,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.561,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.44,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "912 geflüchteten Menschen",
+      "score": 0.491,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Region",
+      "text": "migrantische Communities",
+      "score": 0.356,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mehrheitsgesellschaft",
+      "score": 0.456,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Region",
+      "text": "Bundesländer",
+      "score": 0.609,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Wirkung",
+      "text": "positive Wirkung",
+      "score": 0.518,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Co-Finanzierung",
+      "score": 0.79,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylberechtigte",
+      "score": 0.818,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Vertriebene",
+      "score": 0.685,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Altersgruppe 11 – 14 und 14 – 18 Jahre",
+      "score": 0.483,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Österreicher:innen mit und ohne Migrationshintergrund",
+      "score": 0.751,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Fortbildungs- und Qualifizierungsmaßnahmen",
+      "score": 0.441,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 3",
+      "score": 0.794,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 4",
+      "score": 0.828,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Region",
+      "text": "Niederösterreich",
+      "score": 0.918,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.913,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.358,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "minderjährige unbegleitete Flüchtlinge",
+      "score": 0.579,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "OMEGA",
+      "score": 0.837,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer:innen",
+      "score": 0.66,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungseffekt",
+      "score": 0.46,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Wirkung",
+      "text": "salutogenetische Wirkung",
+      "score": 0.643,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Schüler:innen",
+      "score": 0.441,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Partnern",
+      "score": 0.647,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.903,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Region",
+      "text": "Vorarlberg",
+      "score": 0.905,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmer:innen",
+      "score": 0.646,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Schüler:innen",
+      "score": 0.358,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Projektziel",
+      "text": "Projektziels",
+      "score": 0.516,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektziel",
+      "text": "Gesamtziel",
+      "score": 0.453,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Eltern",
+      "score": 0.485,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Elterngruppen",
+      "score": 0.365,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Eltern",
+      "score": 0.462,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Pädagogischen Hochschulen",
+      "score": 0.698,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationspartnern",
+      "score": 0.667,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Gruppen für ukrainische Kinder",
+      "score": 0.405,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Eltern",
+      "score": 0.495,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 1",
+      "score": 0.685,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.7,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Elterngruppen",
+      "score": 0.38,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 3",
+      "score": 0.802,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 4",
+      "score": 0.82,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Gesundheitskreise für Frauen aus der Ukraine",
+      "score": 0.469,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 5",
+      "score": 0.826,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendliche unter 18 Jahren",
+      "score": 0.721,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.908,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.91,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "TRT in Familien",
+      "score": 0.395,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    }
+  ]
+}

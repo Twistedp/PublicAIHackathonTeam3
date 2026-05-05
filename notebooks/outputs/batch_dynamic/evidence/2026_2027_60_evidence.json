@@ -1,0 +1,2098 @@
+{
+  "bundle": {
+    "key": "2026_2027:60",
+    "year_folder": "2026_2027",
+    "project_number": "60",
+    "project_slug": "fitkoop",
+    "soll_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Indikatoren.xlsx",
+    "ist_excel": null,
+    "project_description": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+    "final_report": null,
+    "file_count": 2
+  },
+  "project_meta": {
+    "projekttraeger": {
+      "value": "Burgenland",
+      "confidence": 0.83,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Indikatoren.xlsx",
+        "sheet": "M7",
+        "matched_label": "Projektleitung",
+        "label_cell": "E11",
+        "value_cell": "H11"
+      }
+    },
+    "projekttitel": {
+      "value": "SANEAS - Gesundheitslots*innen",
+      "confidence": 0.697,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Projekttitel",
+        "label_cell": "C6",
+        "value_cell": "D6"
+      }
+    },
+    "projektnummer": {
+      "value": "Wien",
+      "confidence": 0.624,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Standort Projektmanagment",
+        "label_cell": "C8",
+        "value_cell": "D8"
+      }
+    },
+    "laufzeit_beginn": {
+      "value": "2026-01-01",
+      "confidence": 0.818,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Laufzeit Beginn",
+        "label_cell": "C10",
+        "value_cell": "D10"
+      }
+    },
+    "laufzeit_ende": {
+      "value": "2027-12-31",
+      "confidence": 0.794,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Laufzeit Ende",
+        "label_cell": "C11",
+        "value_cell": "D11"
+      }
+    },
+    "hauptprojektstandort": {
+      "value": "Wien",
+      "confidence": 0.896,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Indikatoren.xlsx",
+        "sheet": "Overview - Zielindikatoren",
+        "matched_label": "Haupttprojektstandort",
+        "label_cell": "C9",
+        "value_cell": "D9"
+      }
+    }
+  },
+  "main_kpi": {},
+  "target_group_evidence": [
+    {
+      "score": 0.662,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 9,
+      "text": "Das Projekt geht gezielt auf spezifische Bedürfnisse der migrantischen Zielgruppen ein: - Orientierung und Zugang im Gesundheitssystem: das österr. Gesundheitssystem ist komplex. Die GSL helfen beim Verstehen, Navigieren und zielgerechten Nutzen – mehrsprachig, niederschwellig und praxisnah. - Interkulturelles Verständnis: Workshops schaffen ein Verständnis für gesundheitliche Vorsorge im interkulturellen Kontext, ohne kulturelle Werte zu negieren. - Bedürfnis nach Zugehörigkeit: Die Teilnehmenden fühlen sich durch den Peer-Ansatz in ihren Lebenswelten und Herausforderungen verstanden – das schafft Vertrauen und erleichtert Veränderung. Es stärkt soziale Teilhabe im Aufnahmeland Österreich und vor allem auch Vertrauen in öffentliche Strukturen."
+    },
+    {
+      "score": 0.649,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23,
+      "text": "Die Bürgerservice-GmbHverfügt über langjährige Expertise im Bereich Integration und setzt eine Vielzahl an Projekten zur Unterstützung von Menschen mit Migrationserfahrung um. Dazu zählen niedrigschwellige und mehrsprachige Beratungsangebote, wie das Beratungszentrum AKOMPANO, oder gezielte Maßnahmen zur Wohnversorgung und psychosozialen Stabilisierung geflüchteter Menschen in betreuten Einrichtungen wie dem Bruno Kreisky Haus. Mit Programmen wie den FitKoop - Gesundheitspiloten und der Deutschbegleitung BBE fördert die Organisation gezielt Teilhabe, Sprachkompetenz und Gesundheitswissen in migrantischen Communities. Seit 2012 leitet die Bürgerservice-GmbH auch das Projekt Migrants Care."
+    },
+    {
+      "score": 0.633,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25,
+      "text": "Ziel des Projekts ist die Stärkung der Gesundheitskompetenz, Gesundheitsförderung und Prävention bei Menschen mit Migrationsbiografie durch mehrsprachige, kultursensible Workshops in ihren Communities. GSL werden als Peers ausgebildet und geben ihr Wissen zu verschiedenen Gesundheitsthemen und dem österreichischen Gesundheitssystem sehr niederschwellig weiter. Der Zugang über gemeinsame Lebenswelten fördert Vertrauen, Eigenverantwortung und eine verbesserte Nutzung von Gesundheitsangeboten. Das Wissen um Anlaufstellen und Aufbau des österr. Gesundheitssystems fördert eine gesteuerte Inanspruchnahme von medizinischen Leistungen und das stärkt zum einen die qualitative Versorgung aller in Wien lebenden Menschen und zum anderen entlastet es Gesundheitspersonal und spart dem System insgesamt Kosten."
+    }
+  ],
+  "measures_evidence": [
+    {
+      "score": 0.727,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 132,
+      "text": "Bei Workshops oder Kursen: Welche Voraussetzungen sind für die Teilnahme erforderlich (wie etwa sprachliche Niveaus)?"
+    },
+    {
+      "score": 0.721,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 61,
+      "text": "Förderkonforme Umsetzung und Berichtslegung des Projekts, Sicherstellung einer konstruktiven Teamkooperation und einer professionellen Außenwirkung"
+    },
+    {
+      "score": 0.678,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 62,
+      "text": "Die Projektleitung trägt die zentrale Verantwortung für die inhaltliche, organisatorische und strategische Umsetzung des Projektes. Zu ihren Kernaufgaben zählt die Koordination aller Projektaktivitäten, sowie der Qualitätssicherung der durchgeführten Maßnahmen. Sie organisiert regelmäßige Weiterbildungen, entwickelt im Team neue inhaltliche Schwerpunkte gemeinsam mit Expert*innen weiter und sorgt dafür, dass das Projekt laufend an gesellschaftliche, gesundheitspolitische und demografische Entwicklungen angepasst wird. Ein besonderer Fokus liegt auf der strategischen Vernetzung und dem Aufbau sowie der Pflege von Kooperationen mit relevanten Partnerorganisationen wie der ÖGK, FEM Med, GÖG oder MA24. Die Projektleitung vertritt das Projekt in der Fachöffentlichkeit, nimmt an nationalen und internationalen Konferenzen teil und wird regelmäßig als Vortragende eingeladen, um das Projekt als Good-Practice-Modell zu präsentieren. Darüber hinaus übernimmt die Projektleitung die Öffentlichkeitsarbeit – insbesondere über Social Media, Fachartikel oder Veranstaltungen – und sorgt dafür, dass sowohl die Zielgruppe als auch Fachstellen über Angebote und Entwicklungen informiert sind. Sie koordiniert interne Teamprozesse, unterstützt bei der Durchführung der digitalen Wirkungsanalyse und übernimmt das Controlling sowie die Förderabwicklung inklusive Berichterstattung und Budgetverantwortung."
+    }
+  ],
+  "gliner_entities": [
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektinhalt",
+      "score": 0.373,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 21
+    },
+    {
+      "label": "Region",
+      "text": "Regionale Abdeckung",
+      "score": 0.623,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 23
+    },
+    {
+      "label": "Region",
+      "text": "Bundesland",
+      "score": 0.656,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 23
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.682,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 25
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.863,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Umzusetzende Maßnahmen",
+      "score": 0.534,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 29
+    },
+    {
+      "label": "Wirkung",
+      "text": "Nachhaltige Wirkung",
+      "score": 0.696,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.837,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 39
+    },
+    {
+      "label": "Region",
+      "text": "Einzugsgebiet",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.858,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.426,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.856,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 43
+    },
+    {
+      "label": "Region",
+      "text": "Regionale Abdeckung",
+      "score": 0.54,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Region",
+      "text": "Regionen",
+      "score": 0.635,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.758,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 60
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.741,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 61
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.61,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 64
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.876,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenerreichung",
+      "score": 0.443,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 71
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.688,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 72
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "ÖIF",
+      "score": 0.611,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 72
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.688,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 72
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenerreichung",
+      "score": 0.389,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 72
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.696,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 74
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.501,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenzugehörigkeit",
+      "score": 0.513,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Wirkung",
+      "text": "Langfristige Wirkung",
+      "score": 0.699,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 78
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.81,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 79
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Teilnehmenden",
+      "score": 0.54,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 79
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.392,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 79
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.858,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 81
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.506,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 82
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.504,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 82
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikatoren",
+      "score": 0.574,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 82
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "konkreten Maßnahmen zur Qualitätssicherung",
+      "score": 0.385,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 85
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Supervision",
+      "score": 0.782,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 85
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Teambesprechungen",
+      "score": 0.744,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 85
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Evaluierungen",
+      "score": 0.827,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 85
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "konkreten Maßnahmen zur Qualitätssicherung",
+      "score": 0.39,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 85
+    },
+    {
+      "label": "Projektziel",
+      "text": "Projektziele",
+      "score": 0.445,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 102
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielsetzung",
+      "score": 0.794,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 108
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.875,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 108
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.408,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 108
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.584,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 111
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielerreichung",
+      "score": 0.572,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 111
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.375,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 111
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.457,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 111
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "3 Kurse",
+      "score": 0.411,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratung",
+      "score": 0.397,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 121
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Beratung",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 121
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshopreihe",
+      "score": 0.622,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 122
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kursen",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 126
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Deutschkursen",
+      "score": 0.6,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 128
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Wie viele Personen",
+      "score": 0.593,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 131
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.488,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 132
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.42,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 133
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.404,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 133
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Sie",
+      "score": 0.406,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 135
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 1",
+      "score": 0.742,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 137
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 143
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 143
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.774,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 147
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 153
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 153
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 3",
+      "score": 0.756,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 160
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 166
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 166
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 4",
+      "score": 0.767,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 170
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 176
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 176
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 5",
+      "score": 0.735,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 182
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 188
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 188
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 6",
+      "score": 0.832,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 200
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 200
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 7",
+      "score": 0.834,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 209
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 215
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 215
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 8",
+      "score": 0.826,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 225
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 225
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 10",
+      "score": 0.706,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 229
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 235
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.786,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 235
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.619,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen mit Migrationsbiografie",
+      "score": 0.758,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Migrant*innen",
+      "score": 0.92,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Region",
+      "text": "TN",
+      "score": 0.567,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektziel",
+      "text": "Erhöhte gesellschaftliche Teilhabe",
+      "score": 0.379,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Migrant*innen",
+      "score": 0.902,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitsmarktintegration",
+      "score": 0.443,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Verbesserte zielgerichtete Versorgung",
+      "score": 0.417,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "MS 2",
+      "score": 0.401,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vernetzungstreffen",
+      "score": 0.377,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Migrant*innen",
+      "score": 0.779,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Migrant*innen",
+      "score": 0.727,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Förderung digitale Resilienz",
+      "score": 0.467,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "FitKoop - Gesundheitspiloten",
+      "score": 0.366,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Projektziel",
+      "text": "Empowerment",
+      "score": 0.36,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationsbiografie",
+      "score": 0.784,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Projektziel",
+      "text": "Verbesserung der Deutschkenntnisse im Lehrgang",
+      "score": 0.359,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.783,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Arbeitgeber*innen",
+      "score": 0.621,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 8
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "migrantischen Zielgruppen",
+      "score": 0.804,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 9
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Die GSL",
+      "score": 0.531,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 9
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Interkulturelles Verständnis",
+      "score": 0.438,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 9
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.561,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 9
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Die Teilnehmenden",
+      "score": 0.546,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 9
+    },
+    {
+      "label": "Wirkung",
+      "text": "erleichtert Veränderung",
+      "score": 0.368,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 9
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationsbiografie",
+      "score": 0.612,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 10
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen mit Migrationsbiografie",
+      "score": 0.425,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 10
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.623,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 10
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "geflüchtete Eltern",
+      "score": 0.473,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 11
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "obdachlosen und nichtversicherten Menschen",
+      "score": 0.491,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 11
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "MSD",
+      "score": 0.36,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 11
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Future Health Lab",
+      "score": 0.373,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 11
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Bildung",
+      "score": 0.427,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 12
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitsmarktintegrative Maßnahmen",
+      "score": 0.772,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 12
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Selbstbestimmung und Gleichstellung",
+      "score": 0.371,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 12
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen gegen Segregation",
+      "score": 0.597,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 12
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylberechtigte und subsidiär Schutzberechtigte",
+      "score": 0.519,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 14
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "EU-Bürgerinnen und EU-Bürger",
+      "score": 0.566,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 14
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Österreicherinnen und Österreicher mit Migrationshintergrund",
+      "score": 0.514,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 14
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mehrheitsbevölkerung",
+      "score": 0.648,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 14
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Z1",
+      "score": 0.544,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Migrant*innen",
+      "score": 0.826,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Beratungsstelle Akompano",
+      "score": 0.464,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "VIDO-Männerberatung",
+      "score": 0.391,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "FEM Med",
+      "score": 0.395,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Nachbarinnen",
+      "score": 0.516,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AFYA",
+      "score": 0.485,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Z2",
+      "score": 0.516,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen aus migrantischen Communities",
+      "score": 0.432,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen",
+      "score": 0.479,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Context",
+      "score": 0.382,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "KWP",
+      "score": 0.373,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 17
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Migrant*innen",
+      "score": 0.636,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Lehrgang",
+      "score": 0.378,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektverlauf",
+      "score": 0.366,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.627,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.656,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 18
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Peer-Ansatz",
+      "score": 0.405,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Wirkung",
+      "text": "langfristige Wirkung",
+      "score": 0.733,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "migrantischer Communities",
+      "score": 0.744,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "neue bzw. vertiefte Kooperationen",
+      "score": 0.416,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Wirkung",
+      "text": "nachhaltige Wirkung",
+      "score": 0.73,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 19
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vernetzungstreffen und Feedbackgespräche",
+      "score": 0.552,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Wirkung",
+      "text": "Geplante Wirkungsanalyse",
+      "score": 0.611,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Wirkung",
+      "text": "langfristige Effekte",
+      "score": 0.726,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Migrant*innen",
+      "score": 0.741,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 20
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektteam",
+      "score": 0.398,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsanalyse",
+      "score": 0.548,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 21
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen in sozialen Notlagen",
+      "score": 0.592,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Pflege und Betreuung",
+      "score": 0.532,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kinder-, Jugend- und Familienhilfe",
+      "score": 0.433,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitsmarktintegration",
+      "score": 0.724,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Wohnungslosenhilfe",
+      "score": 0.745,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Asyl-, Migrations- und Integrationsarbeit",
+      "score": 0.566,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "psychosozialen Beratung",
+      "score": 0.428,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Freiwilligenarbeit",
+      "score": 0.646,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 22
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationserfahrung",
+      "score": 0.522,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "geflüchteter Menschen",
+      "score": 0.6,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "FitKoop - Gesundheitspiloten",
+      "score": 0.498,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Region",
+      "text": "migrantischen Communities",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Migrants Care",
+      "score": 0.592,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Lehrgang",
+      "score": 0.514,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vernetzungstreffen",
+      "score": 0.45,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 24
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationsbiografie",
+      "score": 0.707,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "GSL",
+      "score": 0.613,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 25
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "FitKoop",
+      "score": 0.448,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "FITKOOP",
+      "score": 0.494,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektziel",
+      "text": "demografische Entwicklungen",
+      "score": 0.508,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektziel",
+      "text": "Digitaler Resilienz",
+      "score": 0.608,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 26
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gesundheitsförderung",
+      "score": 0.384,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 29
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "zielgerichteter Versorgung",
+      "score": 0.41,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 29
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.638,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "WS`s",
+      "score": 0.478,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Migrant*innen",
+      "score": 0.837,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationspartnern",
+      "score": 0.854,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "WS`s",
+      "score": 0.378,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "WS`s",
+      "score": 0.43,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Migrant*innen",
+      "score": 0.879,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "WS`s",
+      "score": 0.462,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "WS`s",
+      "score": 0.445,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Migrant*innen",
+      "score": 0.852,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 30
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "GSL",
+      "score": 0.664,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "GSL",
+      "score": 0.648,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "GSL",
+      "score": 0.615,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gesundes Altern",
+      "score": 0.412,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "GSL",
+      "score": 0.666,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "GSL",
+      "score": 0.388,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 34
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Digitale Resilienz",
+      "score": 0.524,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 36
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Expert*innen",
+      "score": 0.387,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 40
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Fachliche Beratung",
+      "score": 0.368,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 40
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen mit Migrationsbiografie",
+      "score": 0.633,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 42
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Menschen",
+      "score": 0.754,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 42
+    },
+    {
+      "label": "Wirkung",
+      "text": "Auswirkungen auf mentale Gesundheit",
+      "score": 0.396,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 42
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Expert*innen",
+      "score": 0.453,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 44
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "GSL",
+      "score": 0.945,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 44
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Communities",
+      "score": 0.456,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 44
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Aufklärung und Wissensvermittlung",
+      "score": 0.368,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 44
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Expert*innen",
+      "score": 0.384,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 44
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "GSL",
+      "score": 0.932,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 44
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Community-Events",
+      "score": 0.37,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 46
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "GSL",
+      "score": 0.434,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 46
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Pflegende An- und Zugehörige",
+      "score": 0.499,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 46
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Community-Events",
+      "score": 0.487,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 46
+    },
+    {
+      "label": "Projektziel",
+      "text": "Stärkung der Sprachkompetenz",
+      "score": 0.369,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 46
+    },
+    {
+      "label": "Projektziel",
+      "text": "den interkulturellen Dialog fördern",
+      "score": 0.457,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 46
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "unterschiedlichste migrantischen Communities",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 46
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.635,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 50
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "GÖG",
+      "score": 0.764,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 50
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "MA24",
+      "score": 0.775,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 50
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "FSW",
+      "score": 0.717,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 50
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "FEM Med",
+      "score": 0.796,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 50
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Afya",
+      "score": 0.725,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 50
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Hospiz Österreich",
+      "score": 0.753,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 50
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "FEM Med",
+      "score": 0.809,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 50
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "migrantische Communities",
+      "score": 0.57,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 50
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "migrantischen Zielgruppe",
+      "score": 0.546,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 54
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "potenzieller neuer Kooperationspartnerinnen und Unterstützerinnen",
+      "score": 0.433,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 54
+    },
+    {
+      "label": "Region",
+      "text": "ÖGK",
+      "score": 0.36,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 56
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirksamkeit",
+      "score": 0.52,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 57
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielgenauigkeit",
+      "score": 0.356,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 57
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsanalyse",
+      "score": 0.412,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 58
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Buddy System",
+      "score": 0.497,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 58
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Buddy System",
+      "score": 0.426,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 58
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsanalyse",
+      "score": 0.627,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 58
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.422,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 58
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsanalyse",
+      "score": 0.636,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 58
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Karl Landsteiner Gesellschaft",
+      "score": 0.57,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 58
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirksamkeit",
+      "score": 0.631,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 58
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "ÖGK",
+      "score": 0.606,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 58
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsanalyse",
+      "score": 0.534,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 58
+    },
+    {
+      "label": "Wirkung",
+      "text": "sozialen Wirksamkeit",
+      "score": 0.563,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 58
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "migrantische Communities",
+      "score": 0.734,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 58
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "konstruktiven Teamkooperation",
+      "score": 0.382,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 61
+    },
+    {
+      "label": "Wirkung",
+      "text": "professionellen Außenwirkung",
+      "score": 0.619,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 61
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "ÖGK",
+      "score": 0.376,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 62
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "FEM Med",
+      "score": 0.419,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 62
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "GÖG",
+      "score": 0.398,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 62
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "MA24",
+      "score": 0.457,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 62
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.74,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 62
+    },
+    {
+      "label": "Wirkung",
+      "text": "digitalen Wirkungsanalyse",
+      "score": 0.627,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2026_2027/060_FitKoop_2026_2027_Projektbeschreibung.docx",
+      "block_kind": "table",
+      "block_index": 62
+    }
+  ]
+}

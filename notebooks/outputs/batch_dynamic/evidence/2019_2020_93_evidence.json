@@ -1,0 +1,2915 @@
+{
+  "bundle": {
+    "key": "2019_2020:93",
+    "year_folder": "2019_2020",
+    "project_number": "93",
+    "project_slug": "youthconnect",
+    "soll_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Indikatoren.xlsx",
+    "ist_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Indikatorenbericht.xlsx",
+    "project_description": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+    "final_report": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+    "file_count": 4
+  },
+  "project_meta": {
+    "projekttraeger": {
+      "value": "Jugendzentrum Bunterhaufen",
+      "confidence": 0.819,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Indikatorenbericht.xlsx",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektträger",
+        "label_cell": "C4",
+        "value_cell": "D4"
+      }
+    },
+    "projekttitel": {
+      "value": "YouthConnect – Jugendliche gestalten Integration",
+      "confidence": 0.697,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Indikatorenbericht.xlsx",
+        "sheet": "Indikatoren",
+        "matched_label": "Projekttitel",
+        "label_cell": "C5",
+        "value_cell": "D5"
+      }
+    },
+    "projektnummer": {
+      "value": "093-2019",
+      "confidence": 0.844,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Indikatorenbericht.xlsx",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektnummer",
+        "label_cell": "C6",
+        "value_cell": "D6"
+      }
+    },
+    "laufzeit_beginn": {
+      "value": "Jugendzentrum Bunterhaufen",
+      "confidence": 0.576,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Indikatorenbericht.xlsx",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektträger",
+        "label_cell": "C4",
+        "value_cell": "D4"
+      }
+    },
+    "laufzeit_ende": {
+      "value": "#DIV/0!",
+      "confidence": 0.648,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Indikatorenbericht.xlsx",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektteilnehmerinnen und Projektteilnehmer nach Alter",
+        "label_cell": "C13",
+        "value_cell": "F13"
+      }
+    },
+    "hauptprojektstandort": {
+      "value": "Jugendzentrum Bunterhaufen",
+      "confidence": 0.746,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Indikatorenbericht.xlsx",
+        "sheet": "Indikatoren",
+        "matched_label": "Projektträger",
+        "label_cell": "C4",
+        "value_cell": "D4"
+      }
+    }
+  },
+  "main_kpi": {
+    "indikator": "Anzahl der Teilnehmerinnen und Teilnehmer im Projekt",
+    "soll": 470,
+    "ist": 731,
+    "erfuellung_prozent": 155.5,
+    "confidence": 0.832,
+    "evidence": {
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Indikatorenbericht.xlsx",
+      "sheet": "Indikatoren",
+      "global_header_rows": [
+        7
+      ],
+      "local_header_rows": [
+        7
+      ],
+      "indicator_col": 3,
+      "indicator_row": 9,
+      "matched_indicator": "Anzahl der Teilnehmerinnen und Teilnehmer im Projekt",
+      "soll_header": "Anzahl lt. Vertrag (SOLL)",
+      "soll_cell": "D9",
+      "ist_header": "Anzahl Endbericht (IST)",
+      "ist_cell": "E9",
+      "percent_header": "Erfüllt in %",
+      "percent_cell": "F9"
+    }
+  },
+  "target_group_evidence": [
+    {
+      "score": 0.654,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 217,
+      "text": "YOUTHCONNECT bietet niederschwellige Sport- und Freizeitangebote für Kinder und Jugendliche (6-21 Jahren) der NAP.I.-Zielgruppen, insbesondere Konventionsflüchtlinge, Subsidiär Schutzberechtigte sowie mehrfach benachteiligte MigrantInnen mit besonderem Integrationsbedarf. Der Sport ist dabei immer Mittel zum Zweck des Ankommens, der Teilnahme, Teilhabe und Qualifizierung. Er dient als Türöffner, Brückenbauer und Motivator, er nimmt den soziokulturellen und religiösen Barrieren „spielerisch“ ihr Gewicht, fördert die Gesundheit, steigert das Selbstwertgefühl, bringt Menschen zusammen und baut Vertrauen auf. Wir animieren unsere KlientInnen zur Eigenverantwortung, Stärkung ihrer Fähigkeiten und zur Teilhabe. Sie sollen sich nicht nur als Teil des Projektes begreifen, sondern als mitverantwortlicher Teil des sozialen Umfeldes, das sie positiv beeinflussen können."
+    },
+    {
+      "score": 0.612,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 201,
+      "text": "- Quantitative und qualitative Erweiterung des kombinierten Lern- und Sportprogramms GRAgustl für nunmehr 140 Kinder und Jugendliche der Zielgruppe (Plus 30% gegenüber dem Vorjahr) über den gesamten August mit besonderer Berücksichtigung von neu angekommenen Konventionsflüchtlingen und Subsidiär Schutzberechtigten (Kooperationsprojekt mit den Lerncafes der Jugendzentrum Steiermark). Am Areal der Polytechnischen Schule findet die in insgesamt 8 Klassen unterteilte Lernbetreuung und der Großteil der Sportmodule statt. Die vormittäglichen Lerneinheiten orientieren sich nach den Bedarfslagen der Kinder und dienen insbesondere der Vermittlung und Förderung der Bildungssprache sowie der Unterrichtsvorbereitung für das nächste Schuljahr. (300 Unterrichtseinheiten zum Erlernen der Unterrichtssprache)"
+    },
+    {
+      "score": 0.604,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 155,
+      "text": "* Humanitäres Aufnahmeprogramm für syrische Flüchtlinge (über Jugendzentrum Österreich): seit 2015"
+    }
+  ],
+  "measures_evidence": [
+    {
+      "score": 0.759,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 141,
+      "text": "Erfahrungen in der Projektabwicklung"
+    },
+    {
+      "score": 0.708,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 143,
+      "text": "(Beschreiben Sie kurz Ihre Erfahrung in der Abwicklung von öffentlich geförderten Projekten und zeigen Sie auf, welche Expertisen aus diesen Projekten dem beantragten Projekt zuträglich sind. Geben Sie ein Beispiel an (Name des Projekts, Fördergebers, Fördersumme, Laufzeit). Max. 2000 Zeichen!)"
+    },
+    {
+      "score": 0.696,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 265,
+      "text": "Frühere bzw. zukünftige Projektförderungen"
+    }
+  ],
+  "gliner_entities": [
+    {
+      "label": "Region",
+      "text": "Region 5",
+      "score": 0.871,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 14
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.793,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 15
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.604,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 20
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.658,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 23
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen zur Zielerreichung",
+      "score": 0.396,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 35
+    },
+    {
+      "label": "Projektziel",
+      "text": "Quantitative Ziele",
+      "score": 0.574,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 37
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.491,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Wirkung",
+      "text": "nachhaltige Wirkung",
+      "score": 0.675,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 41
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendliche",
+      "score": 0.757,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "KlientInnen",
+      "score": 0.813,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Sportveranstaltungen",
+      "score": 0.521,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "beruflichen Qualifizierungsangeboten",
+      "score": 0.585,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Adventuretagen und Sportfesten",
+      "score": 0.453,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 54
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.821,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 65
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.773,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 66
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mehrheitsbevölkerung",
+      "score": 0.398,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 66
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.724,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 68
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "gezielte Angebote",
+      "score": 0.469,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Region",
+      "text": "Grazer Brennpunkt-Vierteln",
+      "score": 0.553,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Region",
+      "text": "Lend und Gries",
+      "score": 0.76,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "YOUTHCONNECT",
+      "score": 0.522,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 72
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "zertifizierten Schwimmkursen",
+      "score": 0.43,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 72
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "achtjährigen Kinder",
+      "score": 0.418,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 72
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Flüchtlinge und MigrantInnen",
+      "score": 0.661,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 72
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.813,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 74
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.46,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.769,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "YOUTHCONNECT",
+      "score": 0.743,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "150 KooperationspartnerInnen",
+      "score": 0.573,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "YOUTHCONNECT",
+      "score": 0.621,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "IkOJA!",
+      "score": 0.539,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Komm!unity.sportiv",
+      "score": 0.423,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Region",
+      "text": "UMF-Quartieren",
+      "score": 0.429,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "HWC",
+      "score": 0.523,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "potentiellen KlientInnen",
+      "score": 0.425,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.583,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 76
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendliche",
+      "score": 0.683,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 81
+    },
+    {
+      "label": "Projektziel",
+      "text": "das sozialintegrative Potential des Sports in seiner gesamten Bandbreite zu nützen",
+      "score": 0.481,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 81
+    },
+    {
+      "label": "Projektziel",
+      "text": "die Integration der Zielgruppe entscheidend voranzutreiben",
+      "score": 0.408,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 81
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "YOUTHCONNECT",
+      "score": 0.362,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 85
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendliche",
+      "score": 0.689,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 85
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendliche",
+      "score": 0.897,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 85
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.534,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 94
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.761,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 95
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 95
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.622,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 95
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.776,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 105
+    },
+    {
+      "label": "Region",
+      "text": "Region XY",
+      "score": 0.874,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 105
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.639,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 114
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.377,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 115
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mädchen",
+      "score": 0.397,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 115
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "muslimische Mädchen",
+      "score": 0.626,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 115
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "RomnIa",
+      "score": 0.632,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 115
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.754,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 117
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.864,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 118
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.388,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 118
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.821,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 118
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.883,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 119
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integrations-Projekte",
+      "score": 0.395,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "externen Kooperationspartnern",
+      "score": 0.56,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "JUZ",
+      "score": 0.471,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Schulen",
+      "score": 0.422,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 120
+    },
+    {
+      "label": "Region",
+      "text": "entscheidenden Communities",
+      "score": 0.4,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 121
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kernzielgruppen",
+      "score": 0.557,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 121
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppenangehörigkeit",
+      "score": 0.794,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 124
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielsetzungen",
+      "score": 0.395,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 129
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.899,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Basisunterstützung",
+      "score": 0.438,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Mobile Integrationsbetreuung",
+      "score": 0.574,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "AVO soziale Betreuungsberufe",
+      "score": 0.442,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "AVO Bau",
+      "score": 0.388,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Spracherwerbsmaßnahmen",
+      "score": 0.421,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Region",
+      "text": "Steiermark",
+      "score": 0.845,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Basisbildung",
+      "score": 0.418,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "nicht mehr schulpflichte jugendliche MigrantInnen",
+      "score": 0.431,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "IB NB",
+      "score": 0.506,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Lerncafe",
+      "score": 0.427,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Lernbars",
+      "score": 0.4,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Quali Fair",
+      "score": 0.613,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Open Learning Center",
+      "score": 0.419,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Roma",
+      "score": 0.451,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt Heroes",
+      "score": 0.495,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Homeless World Cup",
+      "score": 0.528,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Patenschaftsprojekte",
+      "score": 0.426,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 134
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "YOUTHCONNECT",
+      "score": 0.601,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 144
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "YOUTHCONNECT",
+      "score": 0.487,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 144
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "internationalen Partnern",
+      "score": 0.732,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 144
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "YOUTHCONNECT",
+      "score": 0.42,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 144
+    },
+    {
+      "label": "Region",
+      "text": "Marianum",
+      "score": 0.51,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 144
+    },
+    {
+      "label": "Wirkung",
+      "text": "positiv auswirkt",
+      "score": 0.677,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 144
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "YOUTHCONNECT",
+      "score": 0.556,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 144
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.464,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Vereinen",
+      "score": 0.435,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektträgern",
+      "score": 0.671,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Region",
+      "text": "Region",
+      "score": 0.904,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.535,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 162
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "YOUTHCONNECT",
+      "score": 0.561,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "sportinteressierte Jugendliche",
+      "score": 0.631,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "StFvb",
+      "score": 0.711,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "GAK",
+      "score": 0.665,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "SK Sturm Graz",
+      "score": 0.485,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "ESK",
+      "score": 0.548,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Strassgang",
+      "score": 0.653,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "ASKÖ",
+      "score": 0.608,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Union",
+      "score": 0.444,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "UVC Graz",
+      "score": 0.599,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Heros Graz",
+      "score": 0.599,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern und Jugendlichen",
+      "score": 0.432,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Chiala Afrika",
+      "score": 0.717,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "JUZ Funtastic",
+      "score": 0.541,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "JA.M Mädchenzentrum",
+      "score": 0.481,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Institut für Sportwissenschaften",
+      "score": 0.457,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Institut für Pädagogik",
+      "score": 0.456,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 163
+    },
+    {
+      "label": "Projektziel",
+      "text": "Erhöhung der Beschäftigungsrate",
+      "score": 0.356,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 172
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylberechtigten",
+      "score": 0.584,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 172
+    },
+    {
+      "label": "Projektziel",
+      "text": "Vermittlung von Arbeitsplätzen",
+      "score": 0.563,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 172
+    },
+    {
+      "label": "Projektziel",
+      "text": "eine nachhaltige gesellschaftliche Integration",
+      "score": 0.48,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 173
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "unserer Zielgruppe",
+      "score": 0.554,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 173
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "MultiplikatorInnen",
+      "score": 0.356,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 173
+    },
+    {
+      "label": "Projektziel",
+      "text": "Abbau sozialer und kultureller Hürden",
+      "score": 0.419,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 173
+    },
+    {
+      "label": "Projektziel",
+      "text": "die nachhaltige Nutzung der Integrationspotentiale im organisierten Sport",
+      "score": 0.358,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 173
+    },
+    {
+      "label": "Projektziel",
+      "text": "Förderung des interkulturellen Dialogs",
+      "score": 0.408,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 174
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Nutzung der Integrationspotentiale im organisierten Sport",
+      "score": 0.374,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 174
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kernzielgruppe",
+      "score": 0.714,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 174
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mehrheitsbevölkerung",
+      "score": 0.583,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 174
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Sportveranstaltungen",
+      "score": 0.487,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 174
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Adventuretage",
+      "score": 0.641,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 174
+    },
+    {
+      "label": "Projektziel",
+      "text": "Schaffung von Begegnungsmöglichkeiten",
+      "score": 0.525,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mehrheitsbevölkerung",
+      "score": 0.6,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.649,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.603,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 180
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziele",
+      "score": 0.649,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 185
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziele",
+      "score": 0.611,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 185
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Sportkurse",
+      "score": 0.47,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 187
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.809,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 187
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.824,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 187
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "jugendliche Burschen",
+      "score": 0.797,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 193
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "insbesondere jenen mit arbeitsmarktintegrativen Problemlagen",
+      "score": 0.506,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 193
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "multisportive Einheiten + Arbeits- und Bildungsberatung",
+      "score": 0.362,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 193
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.702,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 193
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vermittlung zu beruflicher Qualifizierung",
+      "score": 0.633,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 193
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Matchday +",
+      "score": 0.487,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Freundschaftsspiele",
+      "score": 0.402,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "begleitende Workshops",
+      "score": 0.453,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Adventuretage",
+      "score": 0.611,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Outdoorpädagogik-Veranstaltungen",
+      "score": 0.49,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Sport- und Vereinstage",
+      "score": 0.387,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.39,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mehrheitsbevölkerung",
+      "score": 0.482,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 194
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "ehrenamtlichen KlientInnen",
+      "score": 0.419,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 199
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendliche",
+      "score": 0.375,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 201
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 201
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "neu angekommenen Konventionsflüchtlingen und Subsidiär Schutzberechtigten",
+      "score": 0.468,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 201
+    },
+    {
+      "label": "Region",
+      "text": "Jugendzentrum Steiermark",
+      "score": 0.445,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 201
+    },
+    {
+      "label": "Region",
+      "text": "Areal der Polytechnischen Schule",
+      "score": 0.388,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 201
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder der am Schwimmkurs teilnehmenden Frauen",
+      "score": 0.427,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 202
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "jugendlichen KlientInnen",
+      "score": 0.787,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 203
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Sport + Arbeit",
+      "score": 0.357,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 203
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeits- und Bildungsberatung",
+      "score": 0.527,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 203
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.745,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 203
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Begleitung zu Produktionsschulen und Lehrplätzen",
+      "score": 0.371,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 203
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "AMS",
+      "score": 0.634,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 203
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Einzelfallarbeit",
+      "score": 0.604,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 203
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "TeilnehmerInnen des Kinder-Schwimmmoduls",
+      "score": 0.401,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 205
+    },
+    {
+      "label": "Projektziel",
+      "text": "Projektziels",
+      "score": 0.834,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 214
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendliche",
+      "score": 0.502,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 217
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Konventionsflüchtlinge",
+      "score": 0.889,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 217
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Subsidiär Schutzberechtigte",
+      "score": 0.697,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 217
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "mehrfach benachteiligte MigrantInnen mit besonderem Integrationsbedarf",
+      "score": 0.497,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 217
+    },
+    {
+      "label": "Wirkung",
+      "text": "baut Vertrauen auf",
+      "score": 0.438,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 217
+    },
+    {
+      "label": "Projektziel",
+      "text": "die Nutzung der Integrationspotentiale im organisierten Sport",
+      "score": 0.472,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 218
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.509,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 218
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "jugendlichen Burschen und Mädchen",
+      "score": 0.785,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 218
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Adventuretage",
+      "score": 0.698,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.503,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.592,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "GRAgustl",
+      "score": 0.482,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "140 Kinder und Jugendliche",
+      "score": 0.465,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationspartnern",
+      "score": 0.522,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 219
+    },
+    {
+      "label": "Projektziel",
+      "text": "Quantitative Ziele",
+      "score": 0.58,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 222
+    },
+    {
+      "label": "Projektziel",
+      "text": "Indikatoren",
+      "score": 0.456,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 222
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.439,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 242
+    },
+    {
+      "label": "Wirkung",
+      "text": "nachhaltige Wirkung",
+      "score": 0.67,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 242
+    },
+    {
+      "label": "Wirkung",
+      "text": "Multiplikatoreffekt",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 242
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.587,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 243
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.791,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 243
+    },
+    {
+      "label": "Wirkung",
+      "text": "Multiplikatoreffekt",
+      "score": 0.369,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 243
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen zu Empowerment",
+      "score": 0.437,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 247
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "unserer KlientInnen",
+      "score": 0.359,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 247
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "muslimische Frauen",
+      "score": 0.646,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 247
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "muslimische Mädchen",
+      "score": 0.664,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 247
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integrationserfolge",
+      "score": 0.474,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 251
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.645,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 251
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkt",
+      "score": 0.502,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 251
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.604,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 251
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Eltern",
+      "score": 0.54,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 253
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendlichen",
+      "score": 0.729,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 253
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.494,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 253
+    },
+    {
+      "label": "Wirkung",
+      "text": "motivierend",
+      "score": 0.429,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 253
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Eltern",
+      "score": 0.415,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 253
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Role Models",
+      "score": 0.508,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 254
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Proketverantwortlichen",
+      "score": 0.433,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 254
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "potentiellen Zielgruppenangehörigen",
+      "score": 0.649,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 254
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mehrheitsbevölkerung",
+      "score": 0.705,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 255
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kernzielgruppe",
+      "score": 0.806,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 255
+    },
+    {
+      "label": "Wirkung",
+      "text": "trägt damit zu einem inklusiven Miteinander bei",
+      "score": 0.407,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 255
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen zur Qualitätssicherung",
+      "score": 0.55,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 259
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.87,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 260
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmenentwicklung",
+      "score": 0.527,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 261
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "KlientInnenarbeit",
+      "score": 0.39,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 261
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "MitarbeiterInnen",
+      "score": 0.456,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 261
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "TrainerInnen",
+      "score": 0.516,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 261
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "KooperationspartnerInnen",
+      "score": 0.623,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 261
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Uni-Instituten",
+      "score": 0.392,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 261
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Auftraggebern",
+      "score": 0.372,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 261
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Teamsitzungen",
+      "score": 0.363,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 262
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Unmittelbare Hilfe",
+      "score": 0.444,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 262
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperation mit Uni-Instituten",
+      "score": 0.4,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 262
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Instituten der Universität Graz",
+      "score": 0.673,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 262
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "studierende YOUTHCONNECT PraktikantInnen",
+      "score": 0.603,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020_Projektbeschreibung.docx",
+      "block_kind": "paragraph",
+      "block_index": 262
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Umgesetzte Maßnahmen",
+      "score": 0.384,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 17
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.616,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 18
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.468,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.47,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 27
+    },
+    {
+      "label": "Projektziel",
+      "text": "Zielerreichung",
+      "score": 0.479,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziele",
+      "score": 0.717,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.638,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kletter-Adventuretage mit umfangreichem Waldpädagogik-Paket",
+      "score": 0.407,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 33
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vereinsvermittlungen",
+      "score": 0.615,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 38
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "die Teilnahme an Sportveranstaltungen",
+      "score": 0.421,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 38
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Turnierteilnahmen",
+      "score": 0.608,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 38
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Adventuretage",
+      "score": 0.711,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 38
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kurse zur Vermittlung der Bildungssprache",
+      "score": 0.357,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 39
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern und Jugendlichen",
+      "score": 0.662,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "unserer Zielgruppe",
+      "score": 0.509,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Eltern",
+      "score": 0.462,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Region",
+      "text": "Kooperationen",
+      "score": 0.543,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Caritas-Einrichtungen",
+      "score": 0.536,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 40
+    },
+    {
+      "label": "Projektziel",
+      "text": "Wesentliche Ziele",
+      "score": 0.486,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Projektziel",
+      "text": "die Vernetzung der verschiedenen Initiativen voranzutreiben",
+      "score": 0.462,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Projektziel",
+      "text": "die gesellschaftspolitische Bedeutung der Sportintegration zu erhöhen",
+      "score": 0.445,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Projektziel",
+      "text": "die theoretischen bzw. methodischen Erkenntnisse zu vertiefen",
+      "score": 0.471,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 44
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Empowerment",
+      "score": 0.965,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Empowerment",
+      "score": 0.94,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 46
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Walk and Talk",
+      "score": 0.515,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 47
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "GRAgustl",
+      "score": 0.355,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.737,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.718,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 51
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinderschwimmkurs für Anfänger",
+      "score": 0.475,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 53
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "jugendliche Burschen",
+      "score": 0.773,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "individuellen Empowermenteinheiten",
+      "score": 0.382,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vermittlung zu beruflicher Qualifizierung",
+      "score": 0.497,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 63
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kochworkshop",
+      "score": 0.525,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 66
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kreativworkshop",
+      "score": 0.588,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 66
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Freundschaftsspiele",
+      "score": 0.351,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "YOUTHCONNECT Team",
+      "score": 0.454,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "begleitende Workshops",
+      "score": 0.39,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Adventuretage",
+      "score": 0.517,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Outdoorpädagogik-Veranstaltungen",
+      "score": 0.436,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Skikurs",
+      "score": 0.383,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.395,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mehrheitsbevölkerung",
+      "score": 0.448,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 69
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Freundschaftsspiele",
+      "score": 0.524,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mädchen- und Burschenteams",
+      "score": 0.532,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationspartner*innen / Projekten / Schulen",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Ikemba",
+      "score": 0.806,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Schule Sacre Coeur",
+      "score": 0.559,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mädchen",
+      "score": 0.523,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 70
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Matchday+ online",
+      "score": 0.377,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 71
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "MatchDay+ online",
+      "score": 0.516,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 71
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "MatchDay+ online",
+      "score": 0.507,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 71
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vertraut-machen",
+      "score": 0.381,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 75
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Vereins- und Projektarbeit",
+      "score": 0.447,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 102
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "GRAgustl 2019",
+      "score": 0.67,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 105
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "GRAgustl 2019",
+      "score": 0.755,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 105
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.443,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 105
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "neu angekommenen Konventionsflüchtlingen und Subsidiär Schutzberechtigten",
+      "score": 0.437,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 105
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationsprojekt mit den JugendzentrumLerncafés",
+      "score": 0.558,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 105
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 109
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationsprojekt mit den Lerncafés der JugendzentrumSteiermark",
+      "score": 0.369,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 109
+    },
+    {
+      "label": "Wirkung",
+      "text": "Steigerung um 35%",
+      "score": 0.361,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 110
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder der am Schwimmkurs teilnehmenden Frauen",
+      "score": 0.4,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 118
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "60 Jugendliche",
+      "score": 0.45,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 121
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "vier Schulanmeldungen",
+      "score": 0.412,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 121
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "acht theaterpädagogische Workshops",
+      "score": 0.663,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 121
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Berufsinformationsmesse",
+      "score": 0.467,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 121
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.695,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 133
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "das Projekt",
+      "score": 0.371,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 133
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "60 Jugendliche",
+      "score": 0.519,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 142
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "vier Schulanmeldungen",
+      "score": 0.464,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 142
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "acht theaterpädagogische Workshops",
+      "score": 0.667,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 142
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Berufsinformationsmesse",
+      "score": 0.465,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 142
+    },
+    {
+      "label": "Projektziel",
+      "text": "vertraglichen Ziele",
+      "score": 0.414,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 146
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Module in öffentlichen Parks",
+      "score": 0.482,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 147
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Matchday Plus",
+      "score": 0.513,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 147
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.433,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 148
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Nutzung der Potentiale im organisierten Sport",
+      "score": 0.4,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 148
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.36,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 148
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Trees'n'Fun",
+      "score": 0.478,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 148
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Kletter-Adventuretage mit umfangreichem Waldpädagogik-Paket",
+      "score": 0.394,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 148
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "österreichische Bundesregierung",
+      "score": 0.462,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 157
+    },
+    {
+      "label": "Wirkung",
+      "text": "Folgewirkungen",
+      "score": 0.509,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 157
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Verzögerungen",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 157
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Einführung von Kurzarbeit",
+      "score": 0.489,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 157
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Mietzinsreduktionen",
+      "score": 0.654,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 157
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Nutzung alternativer Infrastruktur",
+      "score": 0.354,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 157
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "GRAgustl",
+      "score": 0.633,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 158
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "GRAgustl",
+      "score": 0.597,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 158
+    },
+    {
+      "label": "Wirkung",
+      "text": "deutliche Qualitätssteigerung",
+      "score": 0.501,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 158
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Grazer HomeSportChallenge",
+      "score": 0.654,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 159
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "YOUTHCONNECT -Online-Trainings",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 159
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "unseren Klient*innen",
+      "score": 0.358,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 160
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "ca. 1.800 Friends",
+      "score": 0.401,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 160
+    },
+    {
+      "label": "Projektziel",
+      "text": "Wichtiges Ziel",
+      "score": 0.405,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 160
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "unsere Klient*innen",
+      "score": 0.554,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 160
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.781,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 164
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Ausbildungen",
+      "score": 0.481,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 164
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Jugendcoachings",
+      "score": 0.62,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 164
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Lehrstellen",
+      "score": 0.518,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 164
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendlichen",
+      "score": 0.785,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 164
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "unsere Zielgruppe",
+      "score": 0.793,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 166
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen zur Qualitätssicherung",
+      "score": 0.579,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 178
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.667,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 179
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationspartner*innen",
+      "score": 0.703,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 179
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Teamsitzungen",
+      "score": 0.509,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 179
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Netzwerkarbeit",
+      "score": 0.426,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 179
+    },
+    {
+      "label": "Wirkung",
+      "text": "Entfaltung",
+      "score": 0.466,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 179
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Unmittelbare Hilfe",
+      "score": 0.358,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 179
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.689,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 185
+    },
+    {
+      "label": "Wirkung",
+      "text": "längerfristige Wirkung",
+      "score": 0.535,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 186
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern und Jugendlichen",
+      "score": 0.788,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 186
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Unsere KlientInnen",
+      "score": 0.459,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 186
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Klient*innen",
+      "score": 0.38,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 187
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Teilnahme an Sportveranstaltungen",
+      "score": 0.484,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 187
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen zu Empowerment",
+      "score": 0.571,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 187
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Unterstützung bei selbst organisierten sportlichen Aktivitäten",
+      "score": 0.49,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 187
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Klient*innen",
+      "score": 0.484,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 187
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Partnervereinen",
+      "score": 0.505,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 188
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.513,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 188
+    },
+    {
+      "label": "Wirkung",
+      "text": "besonders nachhaltige Wirkung",
+      "score": 0.405,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Elternbildung",
+      "score": 0.388,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Kooperationen mit Schulen und Vereinen",
+      "score": 0.664,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Frauenschschwimmen +",
+      "score": 0.357,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Workshops",
+      "score": 0.512,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2019_2020/093_YouthConnect_2019_2020 Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 189
+    }
+  ]
+}

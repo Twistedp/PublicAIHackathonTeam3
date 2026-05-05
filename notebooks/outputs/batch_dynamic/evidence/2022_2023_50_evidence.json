@@ -1,0 +1,1315 @@
+{
+  "bundle": {
+    "key": "2022_2023:50",
+    "year_folder": "2022_2023",
+    "project_number": "50",
+    "project_slug": "lernstube",
+    "soll_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Indikatoren.xlsx",
+    "ist_excel": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Indikatorenbericht.xlsx",
+    "project_description": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+    "final_report": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+    "file_count": 4
+  },
+  "project_meta": {
+    "projekttraeger": {
+      "value": "",
+      "confidence": 0.764,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "1. ZWB ",
+        "matched_label": "Angaben zum Projekt",
+        "label_cell": "J4",
+        "value_cell": null
+      }
+    },
+    "projekttitel": {
+      "value": "Lernstube - Kostenlose Lernbegleitung für Kinder und Jugendliche",
+      "confidence": 0.697,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Projekttitel",
+        "label_cell": "C5",
+        "value_cell": "D5"
+      }
+    },
+    "projektnummer": {
+      "value": "Niederösterreich",
+      "confidence": 0.844,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Projektnummer",
+        "label_cell": "C6",
+        "value_cell": "K6"
+      }
+    },
+    "laufzeit_beginn": {
+      "value": "2022-01-01",
+      "confidence": 0.818,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Laufzeit Beginn",
+        "label_cell": "C11",
+        "value_cell": "D11"
+      }
+    },
+    "laufzeit_ende": {
+      "value": "2023-12-31",
+      "confidence": 0.794,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Laufzeit Ende",
+        "label_cell": "C12",
+        "value_cell": "D12"
+      }
+    },
+    "hauptprojektstandort": {
+      "value": "Tirol",
+      "confidence": 0.896,
+      "evidence": {
+        "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Indikatorenbericht.xlsx",
+        "sheet": "Overview IB",
+        "matched_label": "Haupttprojektstandort",
+        "label_cell": "C10",
+        "value_cell": "K10"
+      }
+    }
+  },
+  "main_kpi": {
+    "indikator": "Anzahl der Projektteilnehmenden gesamt",
+    "soll": 941,
+    "ist": 941,
+    "erfuellung_prozent": 124.0,
+    "confidence": 0.626,
+    "evidence": {
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Indikatorenbericht.xlsx",
+      "sheet": "EB ",
+      "global_header_rows": [
+        9
+      ],
+      "local_header_rows": [
+        9
+      ],
+      "indicator_col": 3,
+      "indicator_row": 10,
+      "matched_indicator": "Anzahl der Projektteilnehmenden gesamt",
+      "soll_header": "Anzahl SOLL",
+      "soll_cell": "D10",
+      "ist_header": "Anzahl SOLL",
+      "ist_cell": "D10",
+      "percent_header": "Erfüllt in %",
+      "percent_cell": "I10"
+    }
+  },
+  "target_group_evidence": [
+    {
+      "score": 0.684,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1,
+      "text": "Die Projektzielgruppe, nämlich Kinder und Jugendliche von 6 bis 15 Jahren, die Drittstaatsangehörigen mit längerfristiger Aufenthaltsperspektive, Asylberechtigte und subsidiär Schutzberechtigte, Vertriebene gemäß § 62 AsylG 2005, EU-Bürger*innen, Österreicher*innen mit Migrationshintergrund, die dauerhaft in Österreich niedergelassen sind sowie die Mehrheitsbevölkerung, konnten erfolgreich erreicht werden. Die Nachfrage nach Plätzen in unseren Lernstubevon Seiten der aus der Ukraine vertriebenen Personen zeigte sich bisher nur an einigen Standorten und wird unter Punkt 2.6 näher erläutert. Beim Anmeldegespräch mit den Eltern und den Kindern bzw. Jugendlichen erfolgt die Abklärung des aktuellen Aufenthaltsstatus und der Zielgruppenzugehörigkeit, welche im Rahmen der Dokumentation schriftlich erfasst wird. Die Helpservice erreicht die Zielgruppe über verschiedene Anlaufpunkte, um eine möglichst breite Erfassung derselben sicherzustellen (z.B. regionale Pflichtschulen, Mundpropaganda, lokale Helpservice Einrichtungen, etc.). Alle Teilnehmer*innen werden mit Listen dokumentiert."
+    },
+    {
+      "score": 0.659,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 48,
+      "text": "Abweichungen vom Projektverlauf hinsichtlich der Zielgruppe der Vertriebenen gemäß § 62 AsylG 2005"
+    },
+    {
+      "score": 0.649,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19,
+      "text": "ANNEX II. Kurzübersicht zur Projektumsetzung Zum Beispiel: übergeordnetes Ziel: Arbeitsmarktintegration von Jugendlichen; Handlungsziel: Vermittlung einer Lehr- Geben Sie eine kurze Übersicht zur Projektumsetzung und achten Sie darauf, stelle; Bezeichnung der Maßnahme: Bildungscoaching im Gruppenformat für Jugendliche mit Migrationshintergrund; übereinstimmende Angaben mit denen in der Wirkungsindikator: Anzahl der Teilnehmenden, die eine Lehrstelle innerhalb von 3 Monaten nach Projektteilnahme an- Projektbeschreibung und im Indikatorenblatt zu machen. treten; Bezeichnung Zielindikator: Anzahl der in Gruppenberatung beratenen oder betreuten Personen; Bezeichnung Zielindikator übergeordnetes Ziel Handlungsziel Bezeichnung der Maßnahme Wirkungsindikator lt. Indikatorenblatt 19 / 21"
+    }
+  ],
+  "measures_evidence": [
+    {
+      "score": 0.7,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0,
+      "text": "Bitte geben Sie hier nur Ihre Kurzbeschreibung ein (max. 1500 Zeichen)! Diese sollte die durchgeführten Maßnahmen, die erreichte Wirkung sowie wesentliche Abweichungen vom ursprünglichen Projektplan (Projektbeschreibung) enthalten. Die Indikatoren werden am Indikatorenblatt abgebildet. Pflichtschüler*innen aus bildungsfernen und sozial-benachteiligten Schichten konnten während der Projektlaufzeit vom kostenlosen Lern- und Nachmittagsbetreuungsangebot der Helpservice Lernstubeprofitieren. Ein auf die individuellen Bedürfnisse und Anforderungen abgestimmtes Lernangebot, gezielte Lernunterstützung inklusive der Einsatz von maßgeschneiderten Tools ermöglichten den Abbau von Bildungsdefiziten, die Verbesserung der Deutschkompetenzen und erhebliche Lernerfolge. Durch eine flexible, am Individuum orientierte Herangehensweise der Lernstube-Teams, eine optimale und gezielte Lernhilfe sowie eine beständige Struktur der Lernstubes, wurden soziale Kompetenzen verbessert und individuelle Stärken gefördert. Zahlreiche Workshops und Aktivitäten, die Stärkung der Eltern in ihrer Expert*innenrolle, eine effektive Kooperation mit Bildungseinrichtungen und Lehrkräften sowie eine schnelle Anpassungsfähigkeit an neue Herausforderungen trugen maßgeblich zum Projekterfolg bei. Die Sommerprogramme 2022 und 2023 dienten der Wiederholung des Lehrstoffes und der optimalen Vorbereitung auf das nächste Schuljahr. Dieses Projekt fördert eine starke Bildungsgrundlage, Zugang zu höheren Qualifikationen (Teilnahme an weiterführende Schulen bzw. Aufnahme einer Lehre) und gesellschaftliche Integration."
+    },
+    {
+      "score": 0.691,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19,
+      "text": "ANNEX II. Kurzübersicht zur Projektumsetzung Zum Beispiel: übergeordnetes Ziel: Arbeitsmarktintegration von Jugendlichen; Handlungsziel: Vermittlung einer Lehr- Geben Sie eine kurze Übersicht zur Projektumsetzung und achten Sie darauf, stelle; Bezeichnung der Maßnahme: Bildungscoaching im Gruppenformat für Jugendliche mit Migrationshintergrund; übereinstimmende Angaben mit denen in der Wirkungsindikator: Anzahl der Teilnehmenden, die eine Lehrstelle innerhalb von 3 Monaten nach Projektteilnahme an- Projektbeschreibung und im Indikatorenblatt zu machen. treten; Bezeichnung Zielindikator: Anzahl der in Gruppenberatung beratenen oder betreuten Personen; Bezeichnung Zielindikator übergeordnetes Ziel Handlungsziel Bezeichnung der Maßnahme Wirkungsindikator lt. Indikatorenblatt 19 / 21"
+    },
+    {
+      "score": 0.663,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4,
+      "text": "Ziel: … Wirkung: (Was wurde konkret erreicht? Z.B. 10 Personen haben eine Ausbildungsstelle gefunden, die Schulnoten der Projektteilnehmer haben sich von durchschnittlich 3,7 auf 2,9 verbessert, …) Die qualitativen und quantitativen Projektziele der österreichweiten Lernstubekonnten im aktuellen Berichtszeitraum erfolgreich umgesetzt und die vereinbarte Zielgruppe erfolgreich erreicht werden. Die nachhaltige Wirkung des Projekts zeigt sich in vielen Facetten die sowohl qualitativ als auch quantitativ zu bewerten sind. Ziel: Befähigung weiterführende Schule oder eine Lehre zu beginnen Wirkung: Insgesamt 1.167 Schüler*innen (97 % mit Migrationshintergrund) profitierten während des Berichtszeitraums von einer gezielten Lernhilfe bei Hausübungen sowie Vorbereitung auf Schularbeiten und Tests. Die Deutschsprache- und Lesekompetenzen wurden erfolgreich gefördert, und es gelang, die Freude am Lernen zu wecken. Es wurden 64 Workshops zum Thema Digitalisierung abgehalten, wodurch die digitalen Kompetenzen gefördert wurden. Insgesamt 650 Teilnehmer*innen übten im Berichtszeitraum regelmäßig mit digitalen Tools (PC/Laptop/Tablet). Ergänzend fand in allen Bundesländern im Laufe der Sommerferien das LC-Sommerprogramm statt, an dem 518 Schüler*innen teilgenommen und intensiv auf das kommende Schuljahr und etwaige Nachprüfungen vorbereitet wurden. Die Wirkung des gesetzten Angebots zeigt sich im schulischen Erfolg – 95 % der teilnehmenden Schüler*innen haben das Schuljahr positiv abgeschlossen. 91 % konnten ihre Note verbessern bzw. halten. Die Lernstubespielen eine entscheidende Rolle bei der Reduzierung von Bildungsarmut. Wartelisten mit über 531 Kindern verdeutlichen den enormen Unterstützungsbedarf in diesem Bereich. Kinder, die in eine höhere Schule wechselten oder eine Lehre begonnen haben, profitierten erheblich von der soliden Lerngrundlage, die in den Lernstubegeschaffen wurde. Diese Vorbereitung erleichterte ihren problemlosen Übergang und unterstützte sie dabei, erfolgreich im Bildungssystem zu verbleiben. An mehreren Standorten pflegen die Lernstube-Teams zudem weiterhin den Kontakt zu ehemaligen Teilnehmenden, die sich entweder noch in der Ausbildung befinden oder bereits ins Berufsleben eingetreten sind. Ziel: Stärkung und Förderung sozialer Kompetenzen der Kinder und Jugendlichen Wirkung: Die Helpservice-Lernstubeeröffnen Kindern und Jugendlichen nicht nur Unterstützung beim Lernen, sondern ermöglichen es ihnen auch, ihre eigenen Fähigkeiten und Fertigkeiten zu entdecken, an ihren Stärken sowie Schwächen zu arbeiten und Selbstvertrauen zu entwickeln. Der Austausch mit anderen Kindern und Freiwilligen aus unterschiedlichsten Hintergründen fördert das soziale Lernen in einem dynamischen Umfeld. Zudem bieten gemeinsame Aktivitäten und Ausflüge während des Schuljahres sowie das Sommerprogramm den idealen Rahmen für diese Entwicklungsprozesse. Insgesamt 927 Aktivitäten und Workshops fanden im Berichtszeitraum statt, an denen 990 Teilnehmer*innen teilnahmen. In einer Diözese wurden 2023 vermehrt Rassismus- und Mobbingfälle an den Schulen der Lernstube-Kinder verzeichnet. Als Reaktion darauf wurde in Kooperation mit der KIJA ein Workshop zum Thema Kinderrechte organisiert. Dieser ermöglichte einen intensiven Dialog zwischen Schülerinnen und Schülern, Eltern, Lehrkräften sowie Schulsozialarbeiter*innen. Durch diesen engmaschigen Austausch konnte die Problematik nachhaltig angegangen und verbessert werden. Ziel: Einbindung und Teilhabe der Gesellschaft am Thema Integration ermöglichen und fördern Wirkung: Die Gruppe der Freiwilligen in den Helpservice-Lernstubezeichnet sich durch eine beachtliche Vielfalt in Bezug auf Alter, Herkunft, Sprachkenntnisse und Bildungshintergrund aus. Das Engagement reicht von Schüler*innen und Student*innen über Arbeitssuchende und Berufstätige bis hin zu Pensionierten. Diese Diversität bereichert alle Beteiligten, indem sie zur kritischen Reflexion der eigenen Weltanschauung anregt und den Horizont durch vielfältige Perspektiven und Erfahrungen erweitert. Die in den Helpservice-Lernstubepraktizierte Chancengleichheit und Geschlechtergerechtigkeit beeinflusst nicht nur positiv die Entwicklung der Kinder und Jugendlichen, sondern wirkt sich auch auf deren Familien aus und entfaltet einen nachhaltigen Multiplikatoreneffekt. 611 Freiwillige haben im Berichtszeitraum in den Lernstubedie Kinder und Jugendlichen unterstützt. Die Mehrheit der Freiwilligen unterstützt mehr als 2 Jahre im Lernstube (42%). 36% der Freiwilligen sind unter einem Jahr dabei, 22% sind zwischen 1-2 Jahre im Lernstube. Ziel: Nachhaltige Stärkung des gesellschaftlichen Zusammenlebens; Integration / Elternarbeit Wirkung: Die hauptamtlichen Mitarbeiter*innen in den Helpservice-Lernstubefungieren für die Eltern als zentrale Anlaufstellen und bieten kompetente Unterstützung bei diversen Anliegen. Die Familien profitieren von der umfassenden Hilfe, die sie in den Lernstubeerhalten, was zu einer hohen Zufriedenheit führt. Diese positive Erfahrung veranlasst viele Familien dazu, das Angebot weiterzuempfehlen. Die Mitarbeiter*innen verstehen es, auf die individuellen Bedürfnisse der Familien einzugehen und bieten nicht nur pädagogische Lernunterstützung, sondern auch Beratung in Erziehungsfragen und anderen alltäglichen Herausforderungen. Dieser ganzheitliche Ansatz stärkt das Vertrauen zwischen den Familien und den Helpservice-Lernstubeund fördert eine aktive Gemeinschaft. Im Berichtszeitraum wurden insgesamt 112 Elternabende abgehalten, an denen 633 Eltern teilgenommen haben. Insgesamt 26.281 Elternkontakte konnten verzeichnet werden. Ziel: Bewusstseinsschaffung für eine gesunde Lebensweise der Kinder fördern Wirkung: Im Rahmen der „gesunden Jause“ wird den Kindern und Jugendlichen nicht nur eine ausgewogene Ernährung angeboten, sondern auch das wichtige Verständnis für den Zusammenhang zwischen einer gesunden Ernährung und ihrer Konzentrations- und Leistungsfähigkeit vermittelt. Dies Maßnahme zielt darauf ab, ein nachhaltiges Bewusstsein für Ernährungsgewohnheiten zu schaffen, dass die Schüler*innen nicht nur während ihrer Lernphasen, sondern auch in ihrem alltäglichen Leben unterstützt. Des Weiteren wurden im Berichtszeitraum insgesamt 237 WS zum Thema psychische Gesundheit abgehalten. Diese Initiativen tragen wesentlich dazu bei, ein unterstützendes Umfeld zu schaffen, das das Wohlbefinden und die psychische Gesundheit der Kinder und Jugendlichen fördert und unterstützt."
+    }
+  ],
+  "gliner_entities": [
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.85,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Handlungsziele und Maßnahmen",
+      "score": 0.415,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 1
+    },
+    {
+      "label": "Wirkung",
+      "text": "Langfristige Wirkung",
+      "score": 0.587,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 1
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektpartnerschaft",
+      "score": 0.816,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.917,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 2
+    },
+    {
+      "label": "Region",
+      "text": "Regionen",
+      "score": 0.397,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.608,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder",
+      "score": 0.357,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 3
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "EU-Bürgerinnen und EU-Bürger",
+      "score": 0.456,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Österreicherinnen und Österreicher mit Migrationshintergrund",
+      "score": 0.416,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mehrheitsbevölkerung",
+      "score": 0.522,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Frauen",
+      "score": 0.434,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Männer",
+      "score": 0.493,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien",
+      "score": 0.419,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Personen mit Kinderbetreuungspflichten",
+      "score": 0.351,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "unbegleitete minderjährige Flüchtlinge",
+      "score": 0.765,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 4
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.852,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 5
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.529,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "ein gewisser Anteil der Teilnehmenden",
+      "score": 0.512,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 5
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.533,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 6
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel",
+      "score": 0.431,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 6
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.352,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 7
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.733,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 7
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.384,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 7
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.646,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 7
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.353,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 8
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 8
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 8
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.65,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 8
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.355,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 9
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.736,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 9
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.386,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 9
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.65,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 9
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.355,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 10
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.742,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 10
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.383,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 10
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel und konkretes Handlungsziel",
+      "score": 0.643,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 10
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.431,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Projektziel",
+      "text": "Übergeordnetes Ziel",
+      "score": 0.662,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 11
+    },
+    {
+      "label": "Wirkung",
+      "text": "Langfristige Wirkung",
+      "score": 0.449,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 12
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.533,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 12
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.64,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 12
+    },
+    {
+      "label": "Wirkung",
+      "text": "Multiplikatoreffekt",
+      "score": 0.66,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 12
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Integrationserfolge",
+      "score": 0.414,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 12
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.882,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 12
+    },
+    {
+      "label": "Wirkung",
+      "text": "Multiplikatoreffekt",
+      "score": 0.74,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 12
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.542,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 16
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Vereinen",
+      "score": 0.518,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 16
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Projektträgern",
+      "score": 0.646,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 16
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.589,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 16
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projekt",
+      "score": 0.529,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 16
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.919,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 18
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.582,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 18
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.776,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 18
+    },
+    {
+      "label": "Projektziel",
+      "text": "übergeordnetes Ziel",
+      "score": 0.765,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Arbeitsmarktintegration von Jugendlichen",
+      "score": 0.571,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektziel",
+      "text": "Handlungsziel",
+      "score": 0.834,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Jugendliche mit Migrationshintergrund",
+      "score": 0.673,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.738,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektziel",
+      "text": "übergeordnetes Ziel",
+      "score": 0.476,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektziel",
+      "text": "Handlungsziel",
+      "score": 0.768,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkungsindikator",
+      "score": 0.493,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 19
+    },
+    {
+      "label": "Projektziel",
+      "text": "übergeordnetes Ziel",
+      "score": 0.365,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 20
+    },
+    {
+      "label": "Projektziel",
+      "text": "Wirkungsindikator",
+      "score": 0.473,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 20
+    },
+    {
+      "label": "Projektziel",
+      "text": "übergeordnetes Ziel",
+      "score": 0.364,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 21
+    },
+    {
+      "label": "Projektziel",
+      "text": "Wirkungsindikator",
+      "score": 0.482,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Projektbeschreibung.pdf",
+      "block_kind": "pdf_page",
+      "block_index": 21
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Erreichte Zielgruppe",
+      "score": 0.489,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 19
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Umgesetzte Maßnahmen",
+      "score": 0.38,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 20
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.598,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 22
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe der Vertriebenen",
+      "score": 0.761,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 24
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.686,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 31
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.776,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.847,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppen",
+      "score": 0.871,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahmen",
+      "score": 0.554,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 32
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.605,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Projektziel",
+      "text": "übergeordnete Ziele",
+      "score": 0.367,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylberechtigten",
+      "score": 0.714,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektaktivität",
+      "score": 0.392,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.52,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 45
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe der Vertriebenen",
+      "score": 0.764,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 48
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Projektaktivitäten",
+      "score": 0.367,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 49
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.561,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "paragraph",
+      "block_index": 49
+    },
+    {
+      "label": "Wirkung",
+      "text": "erreichte Wirkung",
+      "score": 0.428,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Pflichtschüler*innen",
+      "score": 0.636,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "bildungsfernen und sozial-benachteiligten Schichten",
+      "score": 0.534,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Wirkung",
+      "text": "erhebliche Lernerfolge",
+      "score": 0.377,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "effektive Kooperation mit Bildungseinrichtungen und Lehrkräften",
+      "score": 0.522,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 0
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendliche von 6 bis 15 Jahren",
+      "score": 0.705,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Drittstaatsangehörigen mit längerfristiger Aufenthaltsperspektive",
+      "score": 0.556,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Asylberechtigte und subsidiär Schutzberechtigte",
+      "score": 0.668,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "EU-Bürger*innen",
+      "score": 0.742,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Österreicher*innen mit Migrationshintergrund",
+      "score": 0.761,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Mehrheitsbevölkerung",
+      "score": 0.555,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern bzw. Jugendlichen",
+      "score": 0.448,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Region",
+      "text": "regionale Pflichtschulen",
+      "score": 0.703,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 1
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 1: Lernbegleitung",
+      "score": 0.665,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern und Jugendlichen",
+      "score": 0.824,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Wirkung",
+      "text": "signifikante Fortschritte",
+      "score": 0.668,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Schüler*innen",
+      "score": 0.697,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Schülerinnen und Schüler",
+      "score": 0.833,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern und Jugendlichen",
+      "score": 0.858,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Schulen",
+      "score": 0.404,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe",
+      "score": 0.423,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Schüler*innen",
+      "score": 0.619,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Maßnahme 2",
+      "score": 0.659,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Schülerinnen und Schüler",
+      "score": 0.79,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern und Jugendlichen",
+      "score": 0.87,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 2
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.571,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "vereinbarte Zielgruppe",
+      "score": 0.501,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.431,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.575,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Region",
+      "text": "allen Bundesländern",
+      "score": 0.417,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektziel",
+      "text": "LC-Sommerprogramm",
+      "score": 0.51,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.524,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Projektziel",
+      "text": "Ziel",
+      "score": 0.416,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendlichen",
+      "score": 0.439,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Wirkung",
+      "text": "Wirkung",
+      "score": 0.513,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kindern und Jugendlichen",
+      "score": 0.498,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 4
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendliche",
+      "score": 0.635,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahmen",
+      "score": 0.516,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Schüler*innen",
+      "score": 0.418,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendlichen",
+      "score": 0.636,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Region",
+      "text": "Umgebung",
+      "score": 0.505,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Familien",
+      "score": 0.519,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Projektmaßnahme",
+      "text": "Gegenmaßnahme",
+      "score": 0.523,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Kinder und Jugendlichen",
+      "score": 0.624,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 5
+    },
+    {
+      "label": "Region",
+      "text": "Burgenland",
+      "score": 0.932,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Vorarlberg",
+      "score": 0.946,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Salzburg",
+      "score": 0.417,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Tirol",
+      "score": 0.937,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Burgenland",
+      "score": 0.93,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "ukrainische Kinder",
+      "score": 0.436,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "ukrainischen Kindern",
+      "score": 0.547,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Vorarlberg",
+      "score": 0.922,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Zielgruppe der Vertriebenen",
+      "score": 0.599,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Regionalkoordinator*innen für Integration",
+      "score": 0.512,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Salzburg",
+      "score": 0.548,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Vertriebene aus der Ukraine",
+      "score": 0.448,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Vertriebene aus der Ukraine",
+      "score": 0.466,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Region",
+      "text": "Tirol",
+      "score": 0.942,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 6
+    },
+    {
+      "label": "Zielgruppe",
+      "text": "Eltern",
+      "score": 0.371,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 7
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Helpservice Österreich",
+      "score": 0.422,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 7
+    },
+    {
+      "label": "Kooperationspartner",
+      "text": "Helpservice Österreich",
+      "score": 0.369,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 7
+    },
+    {
+      "label": "Region",
+      "text": "Bundesländern",
+      "score": 0.517,
+      "source_file": "/home/peter/Dokumente/hackathon/PublicAIHackathonTeam3/Hackathon/2022_2023/050_Lernstube_2022_2023_Inhaltlicher Endbericht.docx",
+      "block_kind": "table",
+      "block_index": 7
+    }
+  ]
+}
