@@ -1,11 +1,17 @@
 import { useParams, useNavigate } from "react-router-dom"
 import recordsData from "../data/records.json"
+import masterRecordsData from "../data/master_records.json"
+import extractedProjectsData from "../data/extracted_projects.json"
 import type { ProjectRecord } from "../types"
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 
-const records = recordsData as unknown as ProjectRecord[]
+const allRecords = [
+  ...(recordsData as unknown as ProjectRecord[]),
+  ...(masterRecordsData as unknown as ProjectRecord[]),
+  ...(extractedProjectsData as unknown as ProjectRecord[])
+]
 
 export default function ProjectDetail() {
   const { id } = useParams<{ id: string }>()
@@ -21,7 +27,7 @@ export default function ProjectDetail() {
 
   // Need to decode since the ID might contain slashes and get encoded
   const decodedId = id ? decodeURIComponent(id) : ""
-  const project = records.find(r => r.projektnummer === decodedId)
+  const project = allRecords.find(r => r.projektnummer === decodedId)
 
   if (!project) {
     return (

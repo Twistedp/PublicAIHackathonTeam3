@@ -88,7 +88,7 @@ export default function Dashboard() {
       <div className="mx-auto max-w-6xl space-y-5">
         <header className="flex flex-col md:flex-row md:items-center justify-between gap-3 border-b pb-3 mb-4">
           <div className="space-y-1">
-            <h1 className="text-2xl font-bold tracking-tight text-primary uppercase">Bundeskanzleramt Projektdatenbank</h1>
+            <h1 className="text-2xl font-bold tracking-tight text-primary uppercase">Integrationsförderung Projektdatenbank</h1>
             <p className="text-sm text-muted-foreground">Offizielles Dashboard zur Verwaltung und Filterung von Förderprojekten.</p>
           </div>
           <div className="flex items-center gap-4 shrink-0">
