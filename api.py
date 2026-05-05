@@ -54,18 +54,49 @@ async def natural_language_filter(request: FilterRequest):
         api_key=github_token,
     )
 
+    # Load unique values for mapping
+    carriers = set()
+    titles = set()
+    locations = set()
+
+    for filename in ["records.json", "master_records.json", "extracted_projects.json"]:
+        file_path = APP_DATA_DIR / filename
+        if file_path.exists():
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    for record in data:
+                        if record.get("projekttraeger"): carriers.add(record["projekttraeger"])
+                        if record.get("projekttitel"): titles.add(record["projekttitel"])
+                        if record.get("hauptprojektstandort"): locations.add(record["hauptprojektstandort"])
+            except Exception as e:
+                print(f"Warning: Could not read {filename} for filter suggestions: {e}")
+
     from datetime import datetime
     today = datetime.now().strftime("%Y-%m-%d")
 
     prompt = f"""
     Heute ist der {today}.
-    Du bist ein Assistent für eine Projektdatenbank des Bundeskanzleramts. 
+    Du bist ein Assistent für die Integrationsförderung Projektdatenbank. 
     Deine Aufgabe ist es, eine natürliche Sprach-Suchanfrage eines Nutzers in ein strukturiertes JSON-Format zu übersetzen, 
     das Filter für die Datenbank enthält. Korrigiere potenzielle Rechtschreibfehler in der Eingabe.
 
+    WICHTIG: Wenn der Nutzer einen Projektträger, einen Projekttitel oder einen Standort nennt, 
+    musst du diesen auf den am besten passenden Wert aus den unten stehenden Listen mappen. 
+    Wenn kein passender Wert gefunden wird, nutze die Eingabe des Nutzers (korrigiert).
+
+    Verfügbare Projektträger (carrierFilter):
+    {", ".join(sorted(list(carriers)))}
+
+    Verfügbare Projekttitel (titleFilter):
+    {", ".join(sorted(list(titles)))}
+
+    Verfügbare Standorte (locationFilter):
+    {", ".join(sorted(list(locations)))}
+
     Verfügbare Felder:
     - searchTerm: Allgemeine Suche nach Maßnahmen oder Inhalten.
-    - locationFilter: Der Hauptstandort des Projekts (z.B. "Wien", "Graz", "Online").
+    - locationFilter: Der Hauptstandort des Projekts.
     - audienceFilter: Die Zielgruppe (z.B. "Jugendliche", "Frauen", "Migranten").
     - carrierFilter: Der Projektträger (Organisation).
     - titleFilter: Der exakte Projekttitel.
@@ -79,6 +110,7 @@ async def natural_language_filter(request: FilterRequest):
 
     try:
         response = client.beta.chat.completions.parse(
+            # model="mistral-small-2503",
             model="gpt-4o",
             messages=[
                 {"role": "system", "content": "Du bist ein hilfreicher Assistent, der Filter aus Nutzeranfragen extrahiert."},

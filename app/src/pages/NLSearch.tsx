@@ -15,7 +15,8 @@ export default function NLSearch() {
 
     setIsLoading(true)
     try {
-      const response = await fetch("http://localhost:8000/nl-filter", {
+      const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:8000";
+      const response = await fetch(`${apiUrl}/nl-filter`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -44,10 +45,10 @@ export default function NLSearch() {
   }
 
   const suggestions = [
-    "Welche Projekte führt die Caritas aktuell durch?",
-    "Deutschkurse für Frauen in Graz ab September 2024.",
-    "Projekte für Jugendliche mit Schwerpunkt Sport in Wien.",
-    "Laufende Integrationsprojekte im Burgenland."
+    "Welche Projekte für Frauen wurden zwischen 2023 und 2025 in Lnz vom ugendzentrum Bunterhaufen durchgeführt?",
+    "Deutsch Projekte in Wien 2023",
+    "Projekte für Kinder in Linz",
+    "Deutsch Projekte in Klagenfurt"
   ]
 
   return (
@@ -145,7 +146,7 @@ export default function NLSearch() {
         </main>
 
         <footer className="py-6 text-center text-slate-400 text-[10px] tracking-widest uppercase mt-8">
-          Bundeskanzleramt Projektdatenbank • Intelligent Search Engine
+          Integrationsförderung Projektdatenbank • Intelligent Search Engine
         </footer>
       </div>
     </div>

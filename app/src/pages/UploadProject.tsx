@@ -112,7 +112,8 @@ export default function UploadProject() {
     })
 
     try {
-      const response = await fetch("http://localhost:8000/upload-project", {
+      const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:8000";
+      const response = await fetch(`${apiUrl}/upload-project`, {
         method: "POST",
         body: formData,
       })
