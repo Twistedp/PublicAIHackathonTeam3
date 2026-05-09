@@ -1,6 +1,6 @@
 [
     {
-        "file_path": "Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Indikatoren.xlsx",
+        "file_path": "extraction/Hackathon/2019_2020/165_Begegnungsraeume_2019_2020_Indikatoren.xlsx",
         "year": 2019,
         "projekttraeger": "",
         "projekttitel": "",
@@ -29,7 +29,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2019_2020/093_YouthConnect_2019_2020_Indikatoren.xlsx",
+        "file_path": "extraction/Hackathon/2019_2020/093_YouthConnect_2019_2020_Indikatoren.xlsx",
         "year": 2019,
         "projekttraeger": "",
         "projekttitel": "",
@@ -58,7 +58,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2019_2020/093_YouthConnect_2019_2020_Indikatorenbericht.xlsx",
+        "file_path": "extraction/Hackathon/2019_2020/093_YouthConnect_2019_2020_Indikatorenbericht.xlsx",
         "year": 2019,
         "projekttraeger": "Jugendzentrum Bunterhaufen ",
         "projekttitel": "YouthConnect – Jugendliche gestalten Integration",
@@ -87,7 +87,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Indikatoren.xlsx",
+        "file_path": "extraction/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Indikatoren.xlsx",
         "year": 2019,
         "projekttraeger": "",
         "projekttitel": "",
@@ -116,7 +116,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Indikatorenbericht.xlsx",
+        "file_path": "extraction/Hackathon/2019_2020/035_DEUTSCH-IM-ALLTAG_2019_2020_Indikatorenbericht.xlsx",
         "year": 2019,
         "projekttraeger": "Verein SprachBrücke Wien",
         "projekttitel": "Deutsch im Alltag – Schritt für Schritt",
@@ -145,7 +145,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2021/015_SchulStart_2021_Indikatoren.xlsx",
+        "file_path": "extraction/Hackathon/2021/015_SchulStart_2021_Indikatoren.xlsx",
         "year": 2021,
         "projekttraeger": "SchulStart – Begleitprogramm für neu zugewanderte Schulkinder",
         "projekttitel": "Verein Gemeinsam Wachsen",
@@ -174,7 +174,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2021/015_SchulStart_2021_Indikatorenbericht.xlsx",
+        "file_path": "extraction/Hackathon/2021/015_SchulStart_2021_Indikatorenbericht.xlsx",
         "year": 2021,
         "projekttraeger": "die chance Agentur g gmbH",
         "projekttitel": "die chance ",
@@ -203,7 +203,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2021/057_HandWerk.Zukunft_2021_Indikatorenbericht.xlsx",
+        "file_path": "extraction/Hackathon/2021/057_HandWerk.Zukunft_2021_Indikatorenbericht.xlsx",
         "year": 2021,
         "projekttraeger": "Verein NeueWege Österreich",
         "projekttitel": "HandWerk.Zukunft – Berufsvorbereitungskurse mit Lehrvermittlung",
@@ -232,7 +232,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2021/057_HandWerk.Zukunft_2021_Indikatoren.xlsx",
+        "file_path": "extraction/Hackathon/2021/057_HandWerk.Zukunft_2021_Indikatoren.xlsx",
         "year": 2021,
         "projekttraeger": "Verein NeueWege Österreich",
         "projekttitel": "HandWerk.Zukunft – Berufsvorbereitungskurse mit Lehrvermittlung",
@@ -261,7 +261,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Indikatorenbericht.xlsx",
+        "file_path": "extraction/Hackathon/2024_2025/102_Miteinander-stark_2024_2025_Indikatorenbericht.xlsx",
         "year": 2024,
         "projekttraeger": " Verein Respekt & Vielfalt Österreich",
         "projekttitel": "Miteinander stark – Antisemitismusprävention und Demokratiebildung für Jugendliche",
@@ -290,7 +290,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2024_2025/131_Finish-Strong_2024_2025_Indikatoren.xlsx",
+        "file_path": "extraction/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Indikatoren.xlsx",
         "year": 2024,
         "projekttraeger": "Qualifizierung & Karriere GmbH",
         "projekttitel": "Finish Strong – Prüfungsvorbereitung und Begleitung für Lehrling",
@@ -319,7 +319,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2024_2025/042_HandWerk.Zukunft_2024_25_Indikatorenblatt.xlsx",
+        "file_path": "extraction/Hackathon/2024_2025/042_HandWerk.Zukunft_2024_25_Indikatorenblatt.xlsx",
         "year": 2024,
         "projekttraeger": "Verein NeueWege Österreich",
         "projekttitel": "HandWerk.Zukunft – Berufsvorbereitungskurse mit Lehrvermittlung",
@@ -348,7 +348,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2024_2025/102_Miteinander-stark_2024_25_Indikatorenblatt.xlsx",
+        "file_path": "extraction/Hackathon/2024_2025/102_Miteinander-stark_2024_25_Indikatorenblatt.xlsx",
         "year": 2024,
         "projekttraeger": " Verein Respekt & Vielfalt Österreich",
         "projekttitel": "Miteinander stark – Antisemitismusprävention und Demokratiebildung für Jugendliche\n",
@@ -377,7 +377,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2024_2025/042_HandWerk.Zukunft-2024-2025_Indikatorenbericht.xlsx",
+        "file_path": "extraction/Hackathon/2024_2025/042_HandWerk.Zukunft-2024-2025_Indikatorenbericht.xlsx",
         "year": 2024,
         "projekttraeger": "Verein NeueWege Österreich",
         "projekttitel": "HandWerk.Zukunft – Berufsvorbereitungskurse mit Lehrvermittlung",
@@ -406,7 +406,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2024_2025/131_Finish-Strong_2024_2025_Indikatorenbericht.xlsx",
+        "file_path": "extraction/Hackathon/2024_2025/131_Finish-Strong_2024_2025_Indikatorenbericht.xlsx",
         "year": 2024,
         "projekttraeger": "Qualifizierung & Karriere GmbH",
         "projekttitel": "Finish Strong – Prüfungsvorbereitung und Begleitung für Lehrling",
@@ -435,7 +435,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2026_2027/020_Zusammenleben_2026_2027_Indikatoren.xlsx",
+        "file_path": "extraction/Hackathon/2026_2027/020_Zusammenleben_2026_2027_Indikatoren.xlsx",
         "year": 2026,
         "projekttraeger": "Talisk Oberösterreich",
         "projekttitel": "Zusammenleben",
@@ -464,7 +464,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2026_2027/060_FitKoop_2026_2027_Indikatoren.xlsx",
+        "file_path": "extraction/Hackathon/2026_2027/060_FitKoop_2026_2027_Indikatoren.xlsx",
         "year": 2026,
         "projekttraeger": "Volkshilfe Wien gemeinnützige Betriebs-GmbH",
         "projekttitel": "SANEAS - Gesundheitslots*innen",
@@ -493,7 +493,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Indikatoren.xlsx",
+        "file_path": "extraction/Hackathon/2026_2027/050_HandWerk.Zukunft_2026_2027_Indikatoren.xlsx",
         "year": 2026,
         "projekttraeger": "Verein NeueWege Österreich",
         "projekttitel": "HandWerk.Zukunft – Berufsvorbereitungskurse mit Lehrvermittlung",
@@ -522,7 +522,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2022_2023/050_Lernstube_2022_2023_Indikatorenbericht.xlsx",
+        "file_path": "extraction/Hackathon/2022_2023/050_Lernstube_2022_2023_Indikatorenbericht.xlsx",
         "year": 2022,
         "projekttraeger": "Helpservice Österreich",
         "projekttitel": "Lernstube - Kostenlose Lernbegleitung für Kinder und Jugendliche",
@@ -551,7 +551,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Indikatoren.xlsx",
+        "file_path": "extraction/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Indikatoren.xlsx",
         "year": 2022,
         "projekttraeger": "TARO - Verein zur interkulturellen Gesundheitsförderung",
         "projekttitel": "Wurzeln fassen – Traumasensible Begleitung",
@@ -580,7 +580,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2022_2023/130_HandWerk.Zukunft_2022_2023_Indikatoren.xlsx",
+        "file_path": "extraction/Hackathon/2022_2023/130_HandWerk.Zukunft_2022_2023_Indikatoren.xlsx",
         "year": 2022,
         "projekttraeger": "Verein NeueWege Österreich",
         "projekttitel": "HandWerk.Zukunft – Berufsvorbereitungskurse mit Lehrvermittlung",
@@ -609,7 +609,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Indikatorenbericht.xlsx",
+        "file_path": "extraction/Hackathon/2022_2023/130_HandWerk.Zukunft_ 2022_2023_Indikatorenbericht.xlsx",
         "year": 2022,
         "projekttraeger": "Verein NeueWege Österreich",
         "projekttitel": "HandWerk.Zukunft – Berufsvorbereitungskurse mit Lehrvermittlung",
@@ -638,7 +638,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Indikatorenbericht.xlsx",
+        "file_path": "extraction/Hackathon/2022_2023/096_Wurzeln-fassen_2022_2023_Indikatorenbericht.xlsx",
         "year": 2022,
         "projekttraeger": "TARO - Verein zur interkulturellen Gesundheitsförderung",
         "projekttitel": "Wurzeln fassen – Traumasensible Begleitung",
@@ -667,7 +667,7 @@
         }
     },
     {
-        "file_path": "Hackathon/2022_2023/050_Lernstube_2022_2023_Indikatoren.xlsx",
+        "file_path": "extraction/Hackathon/2022_2023/050_Lernstube_2022_2023_Indikatoren.xlsx",
         "year": 2022,
         "projekttraeger": "Helpservice Österreich",
         "projekttitel": "Lernstube - Kostenlose Lernbegleitung für Kinder und Jugendliche",

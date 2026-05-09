@@ -1,8 +1,8 @@
 .git
 .venv
 __pycache__
-app/node_modules
-app/dist
+webapp/frontend/node_modules
+webapp/frontend/dist
 *.pyc
 *.pyo
 *.pyd

@@ -1,8 +1,8 @@
 import pandas as pd
 import os
-import glob
 import json
 import re
+from pathlib import Path
 
 def extract_from_excel(file_path, mapping):
     try:
@@ -150,19 +150,25 @@ def extract_from_excel(file_path, mapping):
     return results
 
 if __name__ == "__main__":
+    script_dir = Path(__file__).resolve().parent
+    repo_root = script_dir.parent
+    data_root = script_dir / "Hackathon"
+    output_path = script_dir / "extracted_projects.json"
+
     # Find all Indikatoren/Indikatorenbericht files
-    files = glob.glob("Hackathon/**/*Indikatoren*.xlsx", recursive=True)
+    files = sorted(data_root.rglob("*Indikatoren*.xlsx"))
     all_data = []
     
     for f in files:
-        if "~$" in f: continue # Ignore temp files
+        if "~$" in f.name: continue # Ignore temp files
         print(f"Processing {f}...")
-        data = extract_from_excel(f, {}) # Mapping no longer needed for internal logic
+        data = extract_from_excel(str(f), {}) # Mapping no longer needed for internal logic
         if data:
+            data["file_path"] = str(f.relative_to(repo_root))
             all_data.append(data)
 
     # Save to JSON
-    with open("extracted_projects.json", "w", encoding="utf-8") as f:
+    with open(output_path, "w", encoding="utf-8") as f:
         json.dump(all_data, f, ensure_ascii=False, indent=4)
     
-    print(f"\nDone! Data from {len(all_data)} files saved to 'extracted_projects.json'.")
+    print(f"\nDone! Data from {len(all_data)} files saved to '{output_path}'.")

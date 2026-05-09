@@ -1,11 +1,10 @@
 import os
-import os
 import uuid
 import shutil
 import asyncio
 import json
 from pathlib import Path
-from typing import List, Optional
+from typing import List
 from fastapi import FastAPI, UploadFile, File, HTTPException, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -20,7 +19,7 @@ load_dotenv()
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 DATA_DIR.mkdir(exist_ok=True)
-APP_DATA_DIR = BASE_DIR / "app" / "src" / "data"
+APP_DATA_DIR = BASE_DIR / "frontend" / "src" / "data"
 RECORDS_FILE = APP_DATA_DIR / "records.json"
 
 app = FastAPI(
@@ -127,7 +126,7 @@ async def natural_language_filter(request: FilterRequest):
 
 async def list_available_records():
     """
-    Lists all JSON files available in the app/src/data directory.
+    Lists all JSON files available in the frontend src/data directory.
     """
     json_files = list(APP_DATA_DIR.glob("*.json"))
     return [f.name for f in json_files]
@@ -135,7 +134,7 @@ async def list_available_records():
 @app.get("/records/{filename}")
 async def get_record_content(filename: str):
     """
-    Returns the content of a specific JSON file in the app/src/data directory.
+    Returns the content of a specific JSON file in the frontend src/data directory.
     """
     file_path = APP_DATA_DIR / filename
     if not file_path.exists() or not filename.endswith(".json"):
@@ -277,4 +276,4 @@ def read_root():
     }
 
 if __name__ == "__main__":
-    uvicorn.run("api:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("webapp.api:app", host="0.0.0.0", port=8000, reload=True)

@@ -4,27 +4,27 @@ services:
   api:
     build:
       context: .
-      dockerfile: backend.Dockerfile
+      dockerfile: webapp/backend.Dockerfile
     ports:
       - "8000:8000"
     volumes:
       - .:/app
-      - ./data:/app/data
-      - ./app/src/data:/app/app/src/data
+      - ./webapp/data:/app/webapp/data
+      - ./webapp/frontend/src/data:/app/webapp/frontend/src/data
     environment:
       - GITHUB_TOKEN=${GITHUB_TOKEN:-}
     restart: unless-stopped
 
   frontend:
     build:
-      context: ./app
+      context: ./webapp/frontend
       dockerfile: Dockerfile
     ports:
       - "5173:5173"
     volumes:
-      - ./app:/app
+      - ./webapp/frontend:/app
       - /app/node_modules # prevent local node_modules from being overwritten
-      - ./app/src/data:/app/src/data
+      - ./webapp/frontend/src/data:/app/src/data
     environment:
       - CHOKIDAR_USEPOLLING=true # ensure hmr works across some file systems
       - VITE_API_URL=http://localhost:8000

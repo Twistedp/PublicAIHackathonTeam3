@@ -1,7 +1,7 @@
 import os
-import glob
 import docx
 import pdfplumber
+from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
 
@@ -50,9 +50,12 @@ def categorize_text(text_chunk):
     return response.choices[0].message.content.strip()
 
 if __name__ == "__main__":
+    script_dir = Path(__file__).resolve().parent
+    data_root = script_dir / "Hackathon"
+
     # Find both docx and pdf files
-    docx_files = glob.glob("Hackathon/**/*.docx", recursive=True)
-    pdf_files = glob.glob("Hackathon/**/*.pdf", recursive=True)
+    docx_files = [str(path) for path in data_root.rglob("*.docx")]
+    pdf_files = [str(path) for path in data_root.rglob("*.pdf")]
     files = docx_files + pdf_files
 
     for file_path in files:
@@ -72,4 +75,3 @@ if __name__ == "__main__":
                 print("-" * 20)
             except Exception as e:
                 print(f"Error processing {file_path}: {e}")
-
